@@ -10,4 +10,4 @@ Please also note that simple R Markdown sites are _not_ based on **blogdown**. T
 
 
 
-We're going to add some text about our research. 
+We're going to add some text about our [research](research.html). 
