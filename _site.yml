@@ -1,0 +1,10 @@
+name: "Lennon Lab"
+navbar:
+  title: "Lennon Lab"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Research"
+      href: research.html
