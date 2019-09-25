@@ -14,7 +14,7 @@ navbar:
       href: teaching.html
     - text: "Opportunities"
       href: opportunities.html
-
+favicon: "favicon.ico"
 output_dir: "."
 output: 
   html_document:
