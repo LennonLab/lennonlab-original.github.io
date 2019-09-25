@@ -1,4 +1,5 @@
 name: "Lennon Lab"
+favicon: favicon.ico
 navbar:
   title: "Lennon Lab"
   left:
@@ -14,8 +15,6 @@ navbar:
       href: teaching.html
     - text: "Opportunities"
       href: opportunities.html
-
-favicon: favicon.ico
 
 output_dir: "."
 output: 
