@@ -1,7 +1,7 @@
 ---
 #title: "Lab Website"
 ---
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 
 <h4 style="text-align:left;">**Microbial Biodiversity: Evolution To Ecosystems**:</h4>
 Microorganisms are the most abundant and diverse life forms on Earth. They have fast reproductive rates and evolve rapidly to changes in their environment. Microbes also carry out processes that are critical for the stability of engineered, environmental, and host-associated ecosystems. 
