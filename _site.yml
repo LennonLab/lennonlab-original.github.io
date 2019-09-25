@@ -4,10 +4,15 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
     - text: "Research"
       href: research.html
+    - text: "People"
+      href: people.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Opportunities"
+      href: opportunities.html
+
 output_dir: "."
 output: 
   html_document:
