@@ -1,7 +1,0 @@
----
-title: "About This Website"
----
-
-More about this website.
-
-Add what you want to add.
