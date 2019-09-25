@@ -15,8 +15,7 @@ navbar:
     - text: "Opportunities"
       href: opportunities.html
 
-twitter:site: "@jaytlennon"
-favicon: images/favicon.ico
+favicon: favicon.ico
 
 output_dir: "."
 output: 
