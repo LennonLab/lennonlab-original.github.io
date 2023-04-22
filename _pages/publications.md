@@ -5,14 +5,12 @@ title: Lab Publications
 author_profile: true
 permalink: /publications/
 header:
-  image: /assets/images/header_boreal2.jpg
+  image: /assets/images/banner.jpg
 ---
 
 ### In Review, In Revision, and/or Preprints:
 
-**Muscarella ME**, O'Dwyer JP (In Revision) 
-Ecological insights from the evolutionary history of microbial innovations. 
-bioRxiv preprint available, DOI: https://doi.org/10.1101/220939 
+Schwartz DA, Shoemaker WR, Măgălie A, Weitz JS, Lennon JT (2022) 2023) Coevolution with a seed bank. bioRxiv [doi: 10.1101/2023.02.08.527722](https://www.biorxiv.org/content/10.1101/2023.02.08.527722v1)
 
 Vandegrift R, Fahimipour AK, **Muscarella ME**, Bateman AC, Van Den Wymelenberg K, 
 Bohannan BJM (In Revision)
@@ -22,9 +20,9 @@ bioRxiv preprint available , DOI: https://doi.org/10.1101/586008
 
 ### Published or In Press: (* = non-peer-reviewed)
 
-Wisnoski NI, <u>Lennon JT</u> (2023) Scaling up and down: movement ecology for microorganisms. Trends in Microbiology 31: 242-253 [(pdf)]({{ site.url }}/assets/Wisnoski_Lennon_2023.pdf) 
+Wisnoski NI, <u>Lennon JT</u> (2023) Scaling up and down: movement ecology for microorganisms. Trends in Microbiology 31: 242-253 [(pdf)]({{ site.url }}/assets/publications/Wisnoski_Lennon_2023.pdf) 
 
-Măgălie A, Schwartz DA, <u>Lennon JT</u>, Weitz JS (2023) Optimal dormancy strategies in fluctuating environments given delays in phenotypic switching. Journal of Theoretical Biology [(pdf)]({{ site.url }}/assets/Magalie_etal_2023.pdf) 
+Măgălie A, Schwartz DA, <u>Lennon JT</u>, Weitz JS (2023) Optimal dormancy strategies in fluctuating environments given delays in phenotypic switching. Journal of Theoretical Biology [(pdf)]({{ site.url }}/assets/publications/Magalie_etal_2023.pdf) 
 
 
 Lennon JT, Frost SDW, Nguyen NK, Peralta AL, Place AR, Treseder KK (2023) Microbiology and climate change: a transdisciplinary imperative. mBio 13: e0335-22 (pdf)
