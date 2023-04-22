@@ -7,47 +7,44 @@ permalink: /research/
 header:
   image: /assets/images/syn_wells.jpg
 feature_row1:
-  - image_path: /assets/images/Metabolism2.jpg
-    alt: "Metabolism"
-    title: "Microbial Metabolism"
-    excerpt: "Microbial metabolic rates link the composition of microbial communities to aquatic carbon dynamics. We use a mixture of theory, lab experiments, and field observations to study to metabolism of microbial communities and the consequences for ecosystem function"
-    url: "/research2/#metabolism"
+  - image_path: /assets/images/spores.jpg
+    alt: "Seed banks"
+    title: "Microbial seed banks"
+    excerpt: "
+Microbial seed banks
+
+In nature, environmental conditions are often suboptimal for growth and reproduction. Thus, organisms must be able to survive long periods of stress and resource limitation, rendering longevity a key life-history trait for many organisms, including microorganisms. One strategy highlighted in our lab’s research is dormancy, a reversible state of reduced metabolic activity. Dormancy leads to the accumulation of genetic, phenotypic, and taxonomic diversity stored in seed banks. We study the evolution and ecology of microbial dormancy, longevity, and the related phenomenon of aging. We use laboratory evolution experiments, simulation modeling, and molecular tools to better understand how these life-history traits structure microbial communities in natural, engineered, and host-associated ecosystems.
+"
+    url: "/research2/#seedbanks"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+
 feature_row2:
-  - image_path: /assets/images/ResourceDiversity2.jpg
-    alt: "Heterogeneity"
-    title: "Resource Heterogeneity"
-    excerpt: "While often considered a homologous pool, many resources exist as heterogeneous mixtures of multiple chemical forms. We use a mixture of lab experiments and field observations to study how the heterogeneity of resources contributes to microbial diversity and ecosystem function."
-    url: "/research2/#heterogeneity"
+  - image_path: /assets/images/colonies.jpg
+    alt: "ecoevo"
+    title: "Eco-evolutionary dynamics"
+    excerpt: "Owing to their large population sizes and short generation times, microorganisms have the capacity to evolve on contemporary time scales. This high rate of population turnover can be exploited to examine evolutionary dynamics that would take thousands to millions of years to occur in plant and animal systems, allowing us to answer fundamental questions about the nature of evolution. In our lab, we examine how microorganisms evolve and adapt in an ecologically relevant context by replicating the environmental conditions microorganisms frequently encounter in nature. Through a combination modeling, experimental evolution, genomics, high-throughput trait and fitness measurements, we quantify the rate and direction of evolution and coevolution across a range of environments."
+    url: "/research2/#ecoevo"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+
 feature_row3:
-  - image_path: /assets/images/ConceptualFigure2.jpg
+  - image_path: /assets/images/Conceptuallake.jpg
     alt: "Traits"
     title: "Microbial Traits"
-    excerpt: "Microbial traits link community composition to species interactions and ecosystem function. We use a mixture of bioinformatics, genomics, lab experiments, and field observations to study the traits that regulate the species interactions and ecosystem function."
+    excerpt: "Traits refer to the physiological, morphological, and behavioral characteristics that influence the fitness or performance of individuals under a given set of environmental conditions. In microbial systems, the interplay of individual traits leads to the emergence of population-, community, and ecosystem-level phenomena. Our lab has explores important microbial traits including resource use, enzyme capacity, biofilm production, phage resistance, and stress tolerance. Although traits have historically been difficult to study for microbes, our lab investigates microbial traits using phylogenetic comparative methods, field sampling, wet lab experiments, and computational methods to understand how contemporary and deeply conserved traits evolve, shift along environmental gradients, structure communities, and influence ecosystem processes."
     url: "/research2/#traits"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
-feature_row4:
-  - image_path: /assets/images/HMWF008_5x7.jpg
-    alt: "Other"
-    title: "Other Projects"
-    excerpt: "We also have a number of other project and collaborations exploring the microbial ecology across ecosystems."
-    url: "/research2/#other"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"  
 
----
 
-Our research addresses questions related to the responses of microbial populations, communities, and ecosystems to changes in the resource environment. Specifically, we ask questions related to how the supply and diversity of resources alters the composition and function of communities, and how the traits and species interactions link structure and function. To answer these questions, we use a mixture of field, lab, bioinformatics, and theoretical approaches. Using these diverse approaches our research bridges microbiology and community and ecosystem ecology.
+<!-- ---
+
+Our research addresses questions related to the responses of microbial populations, communities, and ecosystems to changes in the resource environment. Specifically, we ask questions related to how the supply and diversity of resources alters the composition and function of communities, and how the traits and species interactions link structure and function. To answer these questions, we use a mixture of field, lab, bioinformatics, and theoretical approaches. Using these diverse approaches our research bridges microbiology and community and ecosystem ecology.-->
 
 {% include feature_row id="feature_row1" type="left" %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="left" %}
-
-{% include feature_row id="feature_row4" type="left" %}
 
