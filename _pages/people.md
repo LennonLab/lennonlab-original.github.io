@@ -11,7 +11,7 @@ feature_row1:
     alt: "Jay"
     title: "Jay T. Lennon"
     excerpt: "**Principal Investigator** <br> 
-              *Research Interests*: Microbial ecology, evolution, biodiversity <br>
+              *Research Interests*: Microbial ecology, evolution, biodiversity" <br>
               [Google Scholar](https://scholar.google.com/citations?user=d-hWatsAAAAJ&hl=en&inst=13098912254855678857) <br>
               [ORCiD](https://orcid.org/0000-0003-3126-6111)"
     url: "/cv/"
@@ -23,70 +23,70 @@ feature_row2:
     alt: "John"
     title: "John McMullen"
     excerpt: "**Postdoc** <br> 
-              *Research Interests*: Among-microbe interactions in microbiomes, nutritional symbioses, chemical ecology
+              *Research Interests*: Among-microbe interactions in microbiomes, nutritional symbioses, chemical ecology"
 
 feature_row3:
   - image_path: /assets/images/KarakocHead.jpg
     alt: "Canan"
     title: "Canan Karakoç"
     excerpt: "**Postdoc** <br> 
-              *Research Interests*: Species interactions and coexistence; eco-evolutionary dynamics; experimental evolution; energy limitation and evolution of dormancy [website](https://canankarakoc.netlify.app/)
+              *Research Interests*: Species interactions and coexistence; eco-evolutionary dynamics; experimental evolution; energy limitation and evolution of dormancy [website](https://canankarakoc.netlify.app/)"
 
 feature_row4:
   - image_path: /assets/images/MuellerHead.jpg
     alt: "Emmi"
     title: "Emmi Mueller"
     excerpt: "**Ph.D. Student** <br> 
-              *Research Interests*: Physical complexity and microbial communities [website](https://emmiamueller.weebly.com/)
+              *Research Interests*: Physical complexity and microbial communities [website](https://emmiamueller.weebly.com/)"
                   
 feature_row5:
   - image_path: /assets/images/OBrienHead.jpg
     alt: "Joy"
     title: "Joy O'Brien"
     excerpt: "**Ph.D. Student** <br> 
-              *Research Interests*: Microbial dormancy, permafrost soils, and global change in the Arctic
+              *Research Interests*: Microbial dormancy, permafrost soils, and global change in the Arctic"
 
 feature_row6:
   - image_path: /assets/images/JasmineHead.jpg
     alt: "Joy"
     title: "Jasmine Ahmed"
     excerpt: "**Master's stduent** <br> 
-              *Research Interests*: Sporulatoin and enviromental change
+              *Research Interests*: Sporulatoin and enviromental change"
               
 feature_row7:
   - image_path: /assets/images/HillHead.jpg
     alt: "Caleb"
     title: "Caleb Hill"
     excerpt: "**Undergraduate** <br> 
-              *Research Interests*: Evolutionary genomics of symbiosis  
+              *Research Interests*: Evolutionary genomics of symbiosis"  
               
 feature_row8:
   - image_path: /assets/images/JaziriHead.jpg
     alt: "Ryan"
     title: "Rayan Jaziri"
     excerpt: "**Undergraduate** <br> 
-              *Research Interests*: Microbiology      
+              *Research Interests*: Microbiology"      
 
 feature_row9:
   - image_path: /assets/images/HillHead.jpg
     alt: "Ryan"
     title: "Rayan Jaziri"
     excerpt: "**Undergraduate** <br> 
-              *Research Interests*: Microbiology     
+              *Research Interests*: Microbiology"     
 
 feature_row10:
   - image_path: /assets/images/McHughHead.jpg
     alt: "Alison"
     title: "Alison McHugh"
     excerpt: "**Undergraduate** <br> 
-              *Research Interests*: Microbial ecology and phage-host coevolution
+              *Research Interests*: Microbial ecology and phage-host coevolution"
 
 feature_row11:
   - image_path: /assets/images/CaseHead.jpg
     alt: "Emmi"
     title: "Emmi Case"
     excerpt: "**Undergraduate** <br> 
-              *Research Interests*: Division of labor in microbes
+              *Research Interests*: Division of labor in microbes"
 
 <!--feature_rowX:
   - image_path: /assets/images/Blank-profile-picture-circle-hd.png
@@ -124,6 +124,8 @@ feature_row11:
 
 
 ---
+
+<!--
 ##  Past Lab Members
 
 ### Postdocs and Graduate Students
@@ -213,3 +215,4 @@ feature_row11:
 **Justin Rensch**, Assistant<br>
 
 **Bryan Wallace**, Assistant<br>
+--->
