@@ -96,7 +96,6 @@ feature_row11:
     url: "/opportunities/"
     btn_class: "btn--primary"
     btn_label: " More Info "-->
----
 
 ---
 
@@ -122,8 +121,6 @@ feature_row11:
 
 {% include feature_row id="feature_row11" type="left" %}
 
-
----
 
 <!--
 ##  Past Lab Members
