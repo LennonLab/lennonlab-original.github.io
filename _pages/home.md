@@ -7,7 +7,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/header_plaques.jpg
+  overlay_image: /assets/images/plaques.jpg
   overlay_filter: 0.30
 excerpt: 
   Microbial Biodiversity <br>

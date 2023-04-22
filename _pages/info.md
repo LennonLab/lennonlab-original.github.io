@@ -5,7 +5,7 @@ title: Lab Info
 author_profile: true
 permalink: /info/
 header:
-  image: /assets/images/header_banner.jpg
+  image: /assets/images/banner.jpg
 ---
 
 <!-- We acknowledge the Alaska Native nations upon whose traditional lands our campuses reside. In Fairbanks, our Troth Yeddha' Campus is located on the traditional lands of the Dena people of the lower Tanana River.-->
