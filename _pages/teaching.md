@@ -1,66 +1,43 @@
 ---
 layout: single
 classes: wide
-title: Teaching Philosophy
+title: Research
 author_profile: true
-permalink: /teaching/
+permalink: /research/
 header:
-  image: /assets/images/header_boreal2.jpg
----
+  image: /assets/images/syn_wells.jpg
+feature_row1:
+  - image_path: /assets/images/QB_weblogo.jpg
+    alt: "QB"
+    title: "Quantitative Biodiversity (QB)"
+    excerpt: "In this graduate-level course we focus on theory, patterns, metrics, and tools used to study biodiversity. Students calculate diversity metrics, generate and quantify diversity relationships, visualize multivariate data, and conduct phylogenetic tests. Students use modern statistical computing and graphics environments (i.e., R), as well as version control tools (i.e., [GitHub](https://github.com/QuantitativeBiodiversity)). See [course website](https://qbiodiversity.netlify.app/) for more information." 
+    url: "/teach2/#QB"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+feature_row2:
+  - image_path: /assets/images/colormicro.jpg
+    alt: "L472"
+    title: "Microbiomes: host and environmental health"
+    excerpt: "In this [upper-level course]({{ site.url }}/assets/images/L472_Advert.pdf), we cover fundamental concepts of ecology & evolutionary biology as they pertain to to microbial systems. In addition to lectures and discussion of papers from the primary literature, students engage in biodiversity projects that result in oral presentations and a contribution to [MicrobeWiki](https://microbewiki.kenyon.edu/index.php/MicrobeWiki), a open resource on microbes and microbiology. Course offered in spring semesters. See course [syllabus]({{ site.url }}/assets/images/L472_Syllabus.pdf) and [schedule]({{ site.url }}/assets/images/L472_Schedule.pdf)."
+    url: "/teach2/#L472"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+feature_row3:
+  - image_path: /assets/images/microbiomes.jpg
+    alt: "Microbiomes"
+    title: "Microbiomes"
+    excerpt: "In this graduate-level class, we focus on the microbiomes of different hosts (humans, model systems, and non-model systems). We highlight the genetic and immunological processes involved in the microbiome that influence the behavior, physiology, ecology, and fitness of their hosts. Products from the course include a comprehensive, open-access bibliography and the generation of a conceptual model for approaching microbiome research."
+    url: "/research2/#microbiomes"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"  
 
-As an educator, my role is to promote learning in an atmosphere that inspires creativity, interest, and critical thinking. I believe education should go beyond routine memorization and lecture-driven learning, and that students learn best when there is a captivating opportunity to share and discuss new information.
+<!--  ---  -->
 
-My teaching philosophy is built upon the following:
+{% include feature_row id="feature_row1" type="left" %}
 
-+ Balancing fundamentals and critical thinking skills
-+ Student focused learning outcomes 
-+ Modular and flexible lesson plans 
-+ Learning through active engagement
+{% include feature_row id="feature_row2" type="left" %}
 
----
+{% include feature_row id="feature_row3" type="left" %}
 
-# Current Courses
+{% include feature_row id="feature_row4" type="left" %}
 
-**Microbiology (Biol 342)**
-Morphology and physiology of microorganisms. The role of these organisms in the environment and their relationship to humans. Concepts of immunology. Laboratory stresses aseptic techniques for handling microorganisms.
-
-Student learning outcomes
-+ Develop a strong foundation in microbiology
-+ Gain skills in microbiological lab techniques
-+ Conduct original research by isolating, identifying and characterizing a bacterium
-+ Develop scientific literature research, writing and oral presentation skills
-+ Develop creativity and practice interdisciplinary integration across the arts, humanities, and sciences
-
-
-
----
-
-# Previous Courses
-
-**Evolution of Molecules and Cells** <br>
-*Years Taught*: 2018 <br>
-Upper-level undergraduate course that explores the major evolutionary transitions that have shaped life on Earth. Through lectures students are exposed to diverse advanced research areas including molecular biology, genetics, bioinformatics, metabolomics, systems biology, and genomics. And through laboratory exercises these topics are reinforced as students use both wet-lab (e.g., RNAi) and computational biology approaches to unravel how genotypes influence an organism's phenotype. 
-
-**Quantitative Biodiversity** <br>
-*Years Taught*: 2016 <br>
-Graduate-level course that focuses on theory, patterns, metrics, and tools used to study biodiversity. Students calculate diversity metrics, generate and quantify diversity relationships, visualize multivariate data, and conduct phylogenetic tests. Students use modern statistical computing and graphics environments (i.e., R), as well as version control tools (i.e., GitHub). See previous course website for more information.
-
-+ repo: https://github.com/quantitativebiodiversity
-+ website: http://documentup.com/QuantitativeBiodiversity/QuantitativeBiodiversity
-
-**Microbial Metagenomics** <br>
-*Years Taught*: 2011, 2012<br>
-Graduate-level course that focused the teaching students general skills in microbial metagenomics. Lessons included: hypothesis generation, sample collection and processing, sequencing methods, sequence data analysis, general statistics, hypothesis testing approaches.
-
-**Environmental Microbiology** <br>
-*Years Taught*: 2013<br>
-Undergraduate-leve course designed to introduce students with the fundamental skills needed in environmental microbiology including how experiments are: designed, performed, analyzed, and communicated.
-
-**Introductory Microbiology Lab** <br>
-*Years Taught*: 2012<br>
-Undergraduate-level course that focused on teaching the fundamental skills needed for microbiology
-
-
-**Introductory Biology Lab** <br>
-*Years Taught*: 2011, 2013, <br>
-Undergraduate-level course that focused on cellular and molecular biology fundamentals.
