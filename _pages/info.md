@@ -5,20 +5,20 @@ title: Lab Info
 author_profile: true
 permalink: /info/
 header:
-  image: /assets/images/header_boreal2.jpg
+  image: /assets/images/header_banner.jpg
 ---
 
-We acknowledge the Alaska Native nations upon whose traditional lands our campuses reside. In Fairbanks, our Troth Yeddha' Campus is located on the traditional lands of the Dena people of the lower Tanana River.
+<!-- We acknowledge the Alaska Native nations upon whose traditional lands our campuses reside. In Fairbanks, our Troth Yeddha' Campus is located on the traditional lands of the Dena people of the lower Tanana River.-->
 
 ## Contact Info
 
-**Musarella Lab** <br>
-Institute of Arctic Biology <br>
-University of Alaska Fairbanks <br>
-PO Box 757000 <br>
-Fairbanks, AK 99775 <br>
+**Lennon Lab** <br>
+Department of Biology <br>
+Indiana University <br>
+1001 East 3rd Street <br>
+Bloomington, IN 47401 <br>
 
-Office: <br>
+<!-- Office: <br>
 West Ridge Research Building <br>
 WRRB 242 <br>
 Ph (907) 474-7955 <br>
@@ -32,7 +32,7 @@ The Muscarella Lab strives to increase diversity, equity, inclusion, and justice
 
 “Do the best you can until you know better. Then when you know better, do better.” ― Maya Angelou 
 
-
+-->
 
 
 

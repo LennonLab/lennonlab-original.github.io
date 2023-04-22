@@ -7,13 +7,13 @@ author_profile: true
 header:
   image: /assets/images/header_boreal2.jpg
 feature_row1:
-  - image_path: /assets/images/Muscarella_UAF_2020_5x7.jpg
-    alt: "Mario"
-    title: "Mario Muscarella"
+  - image_path: /assets/images/JayHead.jpg
+    alt: "Jay"
+    title: "Jay T. Lennon"
     excerpt: "**Principal Investigator** <br> 
-              *Research Interests*: Microbial Ecology, Ecophysiology, Growth Efficiency <br>
-              [Google Scholar](https://scholar.google.com/citations?user=8i5qwBQAAAAJ&hl=en) <br>
-              [ORCiD](https://orcid.org/0000-0001-6183-6037)"
+              *Research Interests*: Microbial ecology, evolution, biodiversity <br>
+              [Google Scholar](https://scholar.google.com/citations?user=d-hWatsAAAAJ&hl=en&inst=13098912254855678857) <br>
+              [ORCiD](https://orcid.org/0000-0003-3126-6111)"
     url: "/cv/"
     btn_class: "btn--primary"
     btn_label: "   CV   "
@@ -40,38 +40,7 @@ feature_row4:
               *Research Interests*: Environmental health and the applications of plant and microbial biology <br>
               *Current Project*: Microbes and Mercury in the Interior"
 
-feature_row5:
-  - image_path: /assets/images/Victorino.jpeg
-    alt: "Kaia"
-    title: "Kaia Victorino"
-    excerpt: "**BNZ LTER REU Research Assistant** <br> 
-              *Research Interests*: One Health - promoting the health of the natural world <br>
-              *Current Project*: Microbes and Mercury in the Interior"
-
-feature_row6:
-  - image_path: /assets/images/Jacobs.jpeg
-    alt: "Jill"
-    title: "Jill Jacobs"
-    excerpt: "**Undergraduate Research Assistant** <br> 
-              **BLaST Scholar** <br> 
-              *Research Interests*: The Berry Microbiome"
-
-feature_row7:
-  - image_path: /assets/images/Baker-Chapman.png
-    alt: "Tyler"
-    title: "Tyler Baker-Chapman"
-    excerpt: "**Undergraduate Research Assistant** <br> 
-              **BLaST Scholar** <br> 
-              *Research Interests*: Bacteria-Phage Co-Evolution"
-
-feature_row8:
-  - image_path: /assets/images/Blank-profile-picture-circle-hd.png
-    alt: "Rya"
-    title: "Rya"
-    excerpt: "**The Newest Lab member** <br> "
-    url: "/opportunities/"
-    btn_class: "btn--primary"
-    btn_label: " More Info "
+f
 
 feature_rowX:
   - image_path: /assets/images/Blank-profile-picture-circle-hd.png
