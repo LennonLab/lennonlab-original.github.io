@@ -5,7 +5,7 @@ title: People
 permalink: /people/
 author_profile: true
 header:
-  image: /assets/images/bannner.jpg
+  image: /assets/images/syn_wells.jpg
 feature_row1:
   - image_path: /assets/images/JayHead.jpg
     alt: "Jay"
@@ -38,8 +38,7 @@ feature_row4:
     title: "Emmi Mueller"
     excerpt: "**Ph.D. Student** <br> 
               *Research Interests*: Physical complexity and microbial communities [website](https://emmiamueller.weebly.com/)
-              
-              
+                  
 feature_row5:
   - image_path: /assets/images/OBrienHead.jpg
     alt: "Joy"
@@ -117,7 +116,11 @@ feature_row11:
 
 {% include feature_row id="feature_row8" type="left" %}
 
-{% include feature_row id="feature_rowX" type="left" %}
+{% include feature_row id="feature_row9" type="left" %}
+
+{% include feature_row id="feature_row10" type="left" %}
+
+{% include feature_row id="feature_row11" type="left" %}
 
 
 ---
