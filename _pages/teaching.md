@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: Research
+title: Teaching
 author_profile: true
 permalink: /teaching/
 header:
