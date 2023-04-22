@@ -22,7 +22,18 @@ bioRxiv preprint available , DOI: https://doi.org/10.1101/586008
 
 ### Published or In Press: (* = non-peer-reviewed)
 
+Wisnoski NI, <u>Lennon JT</u> (2023) Scaling up and down: movement ecology for microorganisms. Trends in Microbiology 31: 242-253 [(pdf)]({{ site.url }}/assets/Wisnoski_Lennon_2023.pdf) 
+
+Măgălie A, Schwartz DA, <u>Lennon JT</u>, Weitz JS (2023) Optimal dormancy strategies in fluctuating environments given delays in phenotypic switching. Journal of Theoretical Biology [(pdf)]({{ site.url }}/assets/Magalie_etal_2023.pdf) 
+
+
+Lennon JT, Frost SDW, Nguyen NK, Peralta AL, Place AR, Treseder KK (2023) Microbiology and climate change: a transdisciplinary imperative. mBio 13: e0335-22 (pdf)
+
+Bolin LG, Lennon JT, Lau JA (2023) Traits of soil bacteria predict plant responses to soil moisture. Ecology 104: e3893 (pdf) 	
+
+
 Peralta AL, Bledsoe RB, **Muscarella ME**, Huntemann M, Clum A, Foster B, Foster B, Roux S, Palaniappan K, Varghese N, Mukherjee S, Reddy TBK,  Daum C, Copeland A, Chen IMA, Ivanova NN, Kyrpides NC, Del Rio TG, Eloe-Fadrosh EA (2020)
+
 Metagenomes from Experimental Hydrologic Manipulation of Restored Coastal Plain Wetland Soils (Tyrell County, North Carolina)
 Microbiology Resource Announcements 9 (41)
 
