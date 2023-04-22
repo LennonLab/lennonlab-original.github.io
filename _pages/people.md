@@ -5,7 +5,7 @@ title: People
 permalink: /people/
 author_profile: true
 header:
-  image: /assets/images/header_boreal2.jpg
+  image: /assets/images/header_bannner.jpg
 feature_row1:
   - image_path: /assets/images/JayHead.jpg
     alt: "Jay"
@@ -39,8 +39,6 @@ feature_row4:
     excerpt: "**Undergraduate Research Assistant** <br> 
               *Research Interests*: Environmental health and the applications of plant and microbial biology <br>
               *Current Project*: Microbes and Mercury in the Interior"
-
-f
 
 feature_rowX:
   - image_path: /assets/images/Blank-profile-picture-circle-hd.png
