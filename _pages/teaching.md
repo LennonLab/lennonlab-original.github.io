@@ -6,6 +6,7 @@ author_profile: true
 permalink: /teaching/
 header:
   image: /assets/images/syn_wells.jpg
+---
   
 feature_row1:
   - image_path: /assets/images/QB_weblogo.jpg
