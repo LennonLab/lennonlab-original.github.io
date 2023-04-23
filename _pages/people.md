@@ -88,8 +88,7 @@ feature_row11:
     alt: "Emmi"
     title: "Emmi Case"
     excerpt: "**Undergraduate** <br> 
-              *Research Interests*: Division of labor in microbes"
----              
+              *Research Interests*: Division of labor in microbes"             
 ---
 
 {% include feature_row id="feature_row1" type="left" %}
