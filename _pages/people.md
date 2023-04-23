@@ -6,8 +6,6 @@ permalink: /people/
 author_profile: true
 header:
   image: /assets/images/syn_wells.jpg
----
-
 feature_row1:
   - image_path: /assets/images/JayHead.jpg
     alt: "Jay"
@@ -89,7 +87,7 @@ feature_row11:
     title: "Emmi Case"
     excerpt: "**Undergraduate** <br> 
               *Research Interests*: Division of labor in microbes"
-              
+---              
 ---
 
 {% include feature_row id="feature_row1" type="left" %}
