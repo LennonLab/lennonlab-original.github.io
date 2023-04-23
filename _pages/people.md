@@ -96,7 +96,7 @@ feature_row11:
     url: "/opportunities/"
     btn_class: "btn--primary"
     btn_label: " More Info "-->
-
+---
 ---
 
 {% include feature_row id="feature_row1" type="left" %}
@@ -122,7 +122,7 @@ feature_row11:
 {% include feature_row id="feature_row11" type="left" %}
 
 
-<!--
+---
 ##  Past Lab Members
 
 ### Postdocs and Graduate Students
@@ -181,7 +181,7 @@ feature_row11:
 
 ### Research Technicians and Assistants
 
-**Brent Lehmkhl**, Technician<br>
+**Brent Lehmkuhl**, Technician<br>
 
 **Emily Long**, Technician<br>
 
@@ -212,4 +212,3 @@ feature_row11:
 **Justin Rensch**, Assistant<br>
 
 **Bryan Wallace**, Assistant<br>
---->
