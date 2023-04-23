@@ -87,16 +87,7 @@ feature_row11:
     title: "Emmi Case"
     excerpt: "**Undergraduate** <br> 
               *Research Interests*: Division of labor in microbes"
-
-<!--feature_rowX:
-  - image_path: /assets/images/Blank-profile-picture-circle-hd.png
-    alt: "You"
-    title: "You!!!"
-    excerpt: "**The Next Lab member** <br> "
-    url: "/opportunities/"
-    btn_class: "btn--primary"
-    btn_label: " More Info "-->
----
+              
 ---
 
 {% include feature_row id="feature_row1" type="left" %}
