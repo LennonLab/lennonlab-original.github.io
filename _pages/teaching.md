@@ -9,7 +9,7 @@ header:
 ---
 
 **"Quantitative biodiversity (QB)**
-In this graduate-level course we focus on theory, patterns, metrics, and tools used to study biodiversity. We calculate diversity metrics, generate and quantify diversity relationships, visualize multivariate data, and conduct phylogenetic tests. We use modern statistical computing and graphics environments (i.e., R), as well as version control tools (i.e., [GitHub](https://github.com/QuantitativeBiodiversity)). See [course website](https://qbiodiversity.netlify.app/) for more information.
+In this graduate-level course we focus on theory, patterns, metrics, and tools used to study biodiversity. We calculate diversity metrics, generate and quantify diversity relationships, visualize multivariate data, and conduct phylogenetic tests. We use modern statistical computing and graphics environments (i.e., R), as well as version control tools (i.e., [GitHub](https://github.com/QuantitativeBiodiversity)). See [course website](https://qbiodiversity.netlify.app/) for more information. 
 
 **Microbiomes: host and environmental health**
 In this [upper-level course]({{ site.url }}/assets/images/L472_Advert.pdf), we cover fundamental concepts of ecology & evolutionary biology as they pertain to to microbial systems. In addition to lectures and discussion of papers from the primary literature, we engage in biodiversity projects that result in oral presentations and a contribution to [MicrobeWiki](https://microbewiki.kenyon.edu/index.php/MicrobeWiki), a open resource on microbes and microbiology. Course offered in spring semesters. See course [syllabus]({{ site.url }}/assets/images/L472_Syllabus.pdf) and [schedule]({{ site.url }}/assets/images/L472_Schedule.pdf).
