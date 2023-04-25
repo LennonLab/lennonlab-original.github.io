@@ -5,49 +5,47 @@ title: People
 permalink: /people/
 author_profile: true
 header:
-  image: /assets/images/header_boreal2.jpg
+  image: /assets/images/syn_wells.jpg
 feature_row1:
-  - image_path: /assets/images/Muscarella_UAF_2020_5x7.jpg
-    alt: "Mario"
-    title: "Mario Muscarella"
+  - image_path: /assets/images/JayHead.jpg
+    alt: "Jay"
+    title: "Jay T. Lennon"
     excerpt: "**Principal Investigator** <br> 
-              *Research Interests*: Microbial Ecology, Ecophysiology, Growth Efficiency <br>
-              [Google Scholar](https://scholar.google.com/citations?user=8i5qwBQAAAAJ&hl=en) <br>
-              [ORCiD](https://orcid.org/0000-0001-6183-6037)"
+              *Research Interests*: Microbial ecology, evolution, biodiversity <br>
+              [Google Scholar](https://scholar.google.com/citations?user=d-hWatsAAAAJ&hl=en&inst=13098912254855678857) <br>
+              [ORCiD](https://orcid.org/0000-0003-3126-6111)"
     url: "/cv/"
     btn_class: "btn--primary"
     btn_label: "   CV   "
 
 feature_row2:
-  - image_path: /assets/images/Bird_2021.jpg
-    alt: "Shannyn"
-    title: "Shannyn Bird"
-    excerpt: "**Lab Technician** <br> 
-              *Research Interests*: Computational biology, molecular genetics, metabolic biochemistry, and cell cycle control"
+  - image_path: /assets/images/McMullenHead.jpg
+    alt: "John"
+    title: "John McMullen"
+    excerpt: "**Postdoc** <br> 
+              *Research Interests*: Among-microbe interactions in microbiomes, nutritional symbioses, chemical ecology"
 
 feature_row3:
-  - image_path: /assets/images/Haughn.jpg
-    alt: "Kodi"
-    title: "Kodi Haughn"
-    excerpt: "**PhD Student** (Co-Advised w/ Brandon Briggs at UAA) <br> 
-              *Research Interests*: "
+  - image_path: /assets/images/KarakocHead.jpg
+    alt: "Canan"
+    title: "Karakoc"
+    excerpt: "**Postdoct** <br> 
+              *Research Interests*: Species interactions and coexistence; eco-evolutionary dynamics; experimental evolution; energy limitation and evolution of dormancy [website](https://canankarakoc.netlify.app/)"
 
 feature_row4:
-  - image_path: /assets/images/Pender.jpg
-    alt: "Jules"
-    title: "Jules Pender"
-    excerpt: "**Undergraduate Research Assistant** <br> 
-              *Research Interests*: Environmental health and the applications of plant and microbial biology <br>
-              *Current Project*: Microbes and Mercury in the Interior"
+  - image_path: /assets/images/MuellerHead.jpg
+    alt: "Emmi"
+    title: "Emmi Mueller"
+    excerpt: "**Ph.D. student** <br> 
+              *Research Interests*: Physical complexity and microbial communities [website](https://emmiamueller.weebly.com/)"
 
 feature_row5:
-  - image_path: /assets/images/Victorino.jpeg
-    alt: "Kaia"
-    title: "Kaia Victorino"
-    excerpt: "**BNZ LTER REU Research Assistant** <br> 
-              *Research Interests*: One Health - promoting the health of the natural world <br>
-              *Current Project*: Microbes and Mercury in the Interior"
-
+  - image_path: /assets/images/OBrienHead.jpeg
+    alt: "Joy"
+    title: "Joy O'Brien"
+    excerpt: "**Ph.D. student** <br> 
+              *Research Interests*: Microbial dormancy, permafrost soils, and global change in the Arctic"
+              
 feature_row6:
   - image_path: /assets/images/Jacobs.jpeg
     alt: "Jill"
