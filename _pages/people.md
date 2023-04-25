@@ -5,91 +5,86 @@ title: People
 permalink: /people/
 author_profile: true
 header:
-  image: /assets/images/syn_wells.jpg
+  image: /assets/images/header_boreal2.jpg
 feature_row1:
-  - image_path: /assets/images/JayHead.jpg
-    alt: "Jay"
-    title: "Jay T. Lennon"
+  - image_path: /assets/images/Muscarella_UAF_2020_5x7.jpg
+    alt: "Mario"
+    title: "Mario Muscarella"
     excerpt: "**Principal Investigator** <br> 
-              *Research Interests*: Microbial ecology, evolution, biodiversity" <br>
-              [Google Scholar](https://scholar.google.com/citations?user=d-hWatsAAAAJ&hl=en&inst=13098912254855678857) <br>
-              [ORCiD](https://orcid.org/0000-0003-3126-6111)"
+              *Research Interests*: Microbial Ecology, Ecophysiology, Growth Efficiency <br>
+              [Google Scholar](https://scholar.google.com/citations?user=8i5qwBQAAAAJ&hl=en) <br>
+              [ORCiD](https://orcid.org/0000-0001-6183-6037)"
     url: "/cv/"
     btn_class: "btn--primary"
     btn_label: "   CV   "
 
 feature_row2:
-  - image_path: /assets/images/McMullenHead.jpg
-    alt: "John"
-    title: "John McMullen"
-    excerpt: "**Postdoc** <br> 
-              *Research Interests*: Among-microbe interactions in microbiomes, nutritional symbioses, chemical ecology"
+  - image_path: /assets/images/Bird_2021.jpg
+    alt: "Shannyn"
+    title: "Shannyn Bird"
+    excerpt: "**Lab Technician** <br> 
+              *Research Interests*: Computational biology, molecular genetics, metabolic biochemistry, and cell cycle control"
 
 feature_row3:
-  - image_path: /assets/images/KarakocHead.jpg
-    alt: "Canan"
-    title: "Canan Karakoç"
-    excerpt: "**Postdoc** <br> 
-              *Research Interests*: Species interactions and coexistence; eco-evolutionary dynamics; experimental evolution; energy limitation and evolution of dormancy [website](https://canankarakoc.netlify.app/)"
+  - image_path: /assets/images/Haughn.jpg
+    alt: "Kodi"
+    title: "Kodi Haughn"
+    excerpt: "**PhD Student** (Co-Advised w/ Brandon Briggs at UAA) <br> 
+              *Research Interests*: "
 
 feature_row4:
-  - image_path: /assets/images/MuellerHead.jpg
-    alt: "Emmi"
-    title: "Emmi Mueller"
-    excerpt: "**Ph.D. Student** <br> 
-              *Research Interests*: Physical complexity and microbial communities [website](https://emmiamueller.weebly.com/)"
-                  
+  - image_path: /assets/images/Pender.jpg
+    alt: "Jules"
+    title: "Jules Pender"
+    excerpt: "**Undergraduate Research Assistant** <br> 
+              *Research Interests*: Environmental health and the applications of plant and microbial biology <br>
+              *Current Project*: Microbes and Mercury in the Interior"
+
 feature_row5:
-  - image_path: /assets/images/OBrienHead.jpg
-    alt: "Joy"
-    title: "Joy O'Brien"
-    excerpt: "**Ph.D. Student** <br> 
-              *Research Interests*: Microbial dormancy, permafrost soils, and global change in the Arctic"
+  - image_path: /assets/images/Victorino.jpeg
+    alt: "Kaia"
+    title: "Kaia Victorino"
+    excerpt: "**BNZ LTER REU Research Assistant** <br> 
+              *Research Interests*: One Health - promoting the health of the natural world <br>
+              *Current Project*: Microbes and Mercury in the Interior"
 
 feature_row6:
-  - image_path: /assets/images/JasmineHead.jpg
-    alt: "Joy"
-    title: "Jasmine Ahmed"
-    excerpt: "**Master's stduent** <br> 
-              *Research Interests*: Sporulatoin and enviromental change"
-              
+  - image_path: /assets/images/Jacobs.jpeg
+    alt: "Jill"
+    title: "Jill Jacobs"
+    excerpt: "**Undergraduate Research Assistant** <br> 
+              **BLaST Scholar** <br> 
+              *Research Interests*: The Berry Microbiome"
+
 feature_row7:
-  - image_path: /assets/images/HillHead.jpg
-    alt: "Caleb"
-    title: "Caleb Hill"
-    excerpt: "**Undergraduate** <br> 
-              *Research Interests*: Evolutionary genomics of symbiosis"  
-              
+  - image_path: /assets/images/Baker-Chapman.png
+    alt: "Tyler"
+    title: "Tyler Baker-Chapman"
+    excerpt: "**Undergraduate Research Assistant** <br> 
+              **BLaST Scholar** <br> 
+              *Research Interests*: Bacteria-Phage Co-Evolution"
+
 feature_row8:
-  - image_path: /assets/images/JaziriHead.jpg
-    alt: "Ryan"
-    title: "Rayan Jaziri"
-    excerpt: "**Undergraduate** <br> 
-              *Research Interests*: Microbiology"      
+  - image_path: /assets/images/Blank-profile-picture-circle-hd.png
+    alt: "Rya"
+    title: "Rya"
+    excerpt: "**The Newest Lab member** <br> "
+    url: "/opportunities/"
+    btn_class: "btn--primary"
+    btn_label: " More Info "
 
-feature_row9:
-  - image_path: /assets/images/HillHead.jpg
-    alt: "Ryan"
-    title: "Rayan Jaziri"
-    excerpt: "**Undergraduate** <br> 
-              *Research Interests*: Microbiology"     
-
-feature_row10:
-  - image_path: /assets/images/McHughHead.jpg
-    alt: "Alison"
-    title: "Alison McHugh"
-    excerpt: "**Undergraduate** <br> 
-              *Research Interests*: Microbial ecology and phage-host coevolution"
-
-feature_row11:
-  - image_path: /assets/images/CaseHead.jpg
-    alt: "Emmi"
-    title: "Emmi Case"
-    excerpt: "**Undergraduate** <br> 
-              *Research Interests*: Division of labor in microbes"  
-                         
+feature_rowX:
+  - image_path: /assets/images/Blank-profile-picture-circle-hd.png
+    alt: "You"
+    title: "You!!!"
+    excerpt: "**The Next Lab member** <br> "
+    url: "/opportunities/"
+    btn_class: "btn--primary"
+    btn_label: " More Info "
 ---
+
 ---
+
 {% include feature_row id="feature_row1" type="left" %}
 
 {% include feature_row id="feature_row2" type="left" %}
@@ -106,100 +101,17 @@ feature_row11:
 
 {% include feature_row id="feature_row8" type="left" %}
 
-{% include feature_row id="feature_row9" type="left" %}
-
-{% include feature_row id="feature_row10" type="left" %}
-
-{% include feature_row id="feature_row11" type="left" %}
+{% include feature_row id="feature_rowX" type="left" %}
 
 
 ---
 ##  Past Lab Members
 
-### Postdocs and Graduate Students
+**Belen Muniz**, University of Illinois at Urbana-Champaign<br>
+*The Resource Interference Model*: Aquatic environments often contain a diverse selection of resources which microorganisms can use. Often this consists of a mixture of allochthonous resources when enter from outside the system and autochthonous resources which are produced within the system. Belen worked on a theoretical framework to understand how allochthonous and autochthonous resources interact and influence the composition and stability of communities.
 
-**Daniel Schwartz**, Postdoc, Microbiologist at DSM<br>
+**Mollie Carrison**, Indiana University <br>
+*Physiological Responses to Starvation*: Microorganisms often contend with prolonged resource limitation and full starvation. Yet do not fully understand how different organisms respond to these situation. Mollie worked on an experiment system to quantify the variation in population size decay when microbial populations are starving (i.e., no available resources).
 
-**Pat Wall**, Master's student<br>
-
-**Ford Fishman**, Master's student, Data Analysis Specialist at Brandeis University <br>
-
-**Roy Moger-Reischer** ,Ph.D. student, Scientist at Arzeda<br>
-
-**Will Shoemaker**, Ph.D. student, Postdoc at The Abdus Salam International Centre for Theoretical Physics<br>
-
-**Nathan Wisnoski**, Ph.D. student, Assistant Professor at Mississippi State University<br>
-
-**Megan Behringer**, Postdoctoral Researcher, Asssistant Professor Vanderbilt Universitybr>
-
-**Chian-Jun** Chen, Graduate Student, Bioetchnologist<br>
-
-**Jordan Bird**, Postdoctoral Researcher, Bioinformatician, University of Arkansas for Medical Sciences<br>
-
-**Ken Locey**, Postdoctoral Researcher, Data Analyst, Rush University Medical Center<br>
-
-**Venus Kuo**, Master's Student, Data Scientist<br>
-
-**Kevin Webster**, Ph.D. student, Assistant Professor Diné College<br>
-
-**Mario Muscarella**, Ph.D. student, Assistant Professor University of Alaska Fairbanks<br>
-
-**Megan Larsen**, Ph.D. student, Data Scientist at Pivot Bio
-
-**Ariane Peralta**, Postdoctoral Researcher, Associate Professor East Carolina University<br>
-
-**Sarah Placella**, Postdoctoral Researcher, CEO Root Applied Sciences<br>
-
-**Stuart Jones**, Postdoctoral Researcher, Professor University of Notre Dame<br>
-
-**Ed Hall**, Postdoctoral Researcher, Associate Professor Colorado State University<br>
-
-**Zach Aanderud**, Postdoctoral Researcher, Professor at Brigham Young University<br>
-
-**Evan Kane**, Postdoctoral Researcher, Associate Professor Michigan Tech<br>
-
-**Kali Bird**, Master's Student, Associate Director Catksill Center for Conservation and Development<br>
-
-### Visiting Scholars and Teachers
-**Melany Fisk**, Professor, Miami University<br>
-
-**Sarah Bray**, Professor, Transylvania University<br>
-
-**Marty Green**, Teacher, Plainwell Middle School<br>
-
-**Sandy Erwin**, Teacher, Harper Creek High School<br>
-
-
-### Research Technicians and Assistants
-
-**Brent Lehmkuhl**, Technician<br>
-
-**Emily Long**, Technician<br>
-
-**Kyle Miller**, Technician<br>
-
-**McKenzie Givens**, Technician<br>
-
-**Steve Reynolds**, Technician<br>
-
-**Evgeniya Polezhaeva**, Technician<br>
-
-**Sophie Kranke**, Technician<br>
-
-**Sarah Widney**, Technician<br>
-
-**Sarah Kuenzel**, Technician<br>
-
-**Brent Nowinski**, Technician<br>
-
-**Megan Lowenberg**, Technician<br>
-
-**Lewis Wooster**, Technician<br>
-
-**Rob Morrison**, Technician<br>
-
-**Cathy McMinn**, Technician<br>
-
-**Justin Rensch**, Assistant<br>
-
-**Bryan Wallace**, Assistant<br>
+**Xia Meng Howey**, Indiana University <br>
+*Microbial Carbon Traits & The HMWF Culture Collection*: Microorganisms often have the ability to use various resources to meet their physiological requirements. Yet, organisms may use resources in different ways. Xia Meng worked on establishing a culture collection from Lakes in the Huron Mountain Wildlife Preserve to explore variation in resource use. Once the collection was established she worked on developing methods and testing competitive strategies between isolates.
