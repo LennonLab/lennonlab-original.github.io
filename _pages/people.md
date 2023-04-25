@@ -8,6 +8,7 @@ header:
   image: /assets/images/syn_wells.jpg
 feature_row1:
   - image_path: /assets/images/JayHead.jpg
+  	 image_size: small
     alt: "Jay"
     title: "Jay T. Lennon"
     excerpt: "**Principal Investigator** <br> 
@@ -20,6 +21,7 @@ feature_row1:
 
 feature_row2:
   - image_path: /assets/images/McMullenHead.jpg
+    image_size: small
     alt: "John"
     title: "John McMullen"
     excerpt: "**Postdoc** <br> 
@@ -84,13 +86,13 @@ feature_row10:
 
 ---
 
-{% include feature_row id="feature_row1" type="left" size = "200x200" %}
+{% include feature_row id="feature_row1" type="left" %}
 
-{% include feature_row id="feature_row2" type="left" size = "200x200" %}
+{% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row3" type="left" size = "200x200" %}
+{% include feature_row id="feature_row3" type="left" %}
 
-{% include feature_row id="feature_row4" type="left" size = "200x200" %}
+{% include feature_row id="feature_row4" type="left" %}
 
 {% include feature_row id="feature_row5" type="left" %}
 
