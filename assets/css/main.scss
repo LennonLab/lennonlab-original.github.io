@@ -7,7 +7,8 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-$doc-font-size: 10 !default;
+//$doc-font-size: 10 !default;
+$doc-font-size: 9 !default;
 
 $right-sidebar-width: 300px !default;
 $right-sidebar-width-wide: 400px !default;
@@ -31,7 +32,8 @@ $right-sidebar-width-wide: 400px !default;
 
 .author__avatar {
     display: table-cell;
-    vertical-align: top;
+//    vertical-align: top;
+	vertical-align: middle;
     width: 48px;
     height: 48px;
   
