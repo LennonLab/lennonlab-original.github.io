@@ -8,7 +8,6 @@ header:
   image: /assets/images/syn_wells.jpg
 feature_row1:
   - image_path: /assets/images/JayHead.jpg
-  	 image_size: small
     alt: "Jay"
     title: "Jay T. Lennon"
     excerpt: "**Principal Investigator** <br> 
@@ -21,7 +20,6 @@ feature_row1:
 
 feature_row2:
   - image_path: /assets/images/McMullenHead.jpg
-    image_size: small
     alt: "John"
     title: "John McMullen"
     excerpt: "**Postdoc** <br> 
