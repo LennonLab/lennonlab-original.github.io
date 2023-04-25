@@ -1,64 +1,21 @@
 ---
 layout: single
 classes: wide
-title: Teaching Philosophy
+title: Teaching
 author_profile: true
 permalink: /teaching/
 header:
-  image: /assets/images/header_boreal2.jpg
-As an educator, my role is to promote learning in an atmosphere that inspires creativity, interest, and critical thinking. I believe education should go beyond routine memorization and lecture-driven learning, and that students learn best when there is a captivating opportunity to share and discuss new information.
-
-My teaching philosophy is built upon the following:
-
-+ Balancing fundamentals and critical thinking skills
-+ Student focused learning outcomes 
-+ Modular and flexible lesson plans 
-+ Learning through active engagement
-
+  image: /assets/images/syn_wells.jpg
 ---
 
-# Current Courses
+### Diversity and inclusion
+Science is most successful when ideas and knowledge from a variety of perspectives and experiences are openly and respectfully exchanged. Together, our team works to cultivate a safe environment where everyone is treated with respect regardless of race, ethnicity, religion, gender identification, sexual orientation, age, disability status, or economic background. Members of under-represented groups are especially encouraged to contact us about opportunities in the lab. Indiana University does not discriminate and is a equal opportunity and affirmative action employer [see here](https://policies.iu.edu/files/policy-pdfs/ua-01-equal-opportunity-affirmative-action.pdf)
 
-**Microbiology (Biol 342)**
-Morphology and physiology of microorganisms. The role of these organisms in the environment and their relationship to humans. Concepts of immunology. Laboratory stresses aseptic techniques for handling microorganisms.
+### Undergraduate Students
+Getting hands-on lab experience as an undergraduate is a great way to determine if research is the right path for you. Our lab often has several undergraduate students working with specific graduate students or postdocs on research projects. Students interested in working in the lab should send an email containing research interests and a resume so we can determine if our lab will be a good fit. Undergrads should expect to spend 6-12 hours a week in the lab throughout the semester. Students are encouraged to earn course credit ([X490](https://biology.indiana.edu/student-portal/undergraduate/courses/x490.html)) and consider developing an [Honor's thesis](https://biology.indiana.edu/student-portal/undergraduate/honors-program/thesis.html) based on their research projects. 
 
-Student learning outcomes
-+ Develop a strong foundation in microbiology
-+ Gain skills in microbiological lab techniques
-+ Conduct original research by isolating, identifying and characterizing a bacterium
-+ Develop scientific literature research, writing and oral presentation skills
-+ Develop creativity and practice interdisciplinary integration across the arts, humanities, and sciences
+### Graduate Students
+Opportunities are available for motivated graduate students interested in pursuing a Ph.D. in microbial ecology and evolution. Prospective students may apply either to the Prospectives may apply either to the [Evolution, Ecology, & Behavior Program (EEB)](https://biology.indiana.edu/graduate/evolution-ecology-behavior/index.html) or the [Microbiology Program](https://biology.indiana.edu/graduate/microbiology/index.html), both of which are in the [Department of Biology](https://biology.indiana.edu/). The application deadline is December 1. Students are funded through research grants, teaching assistantships, and university fellowships. Prospectives should send an overview of their research interests along with a CV. 
 
-
-
----
-
-# Previous Courses
-
-**Evolution of Molecules and Cells** <br>
-*Years Taught*: 2018 <br>
-Upper-level undergraduate course that explores the major evolutionary transitions that have shaped life on Earth. Through lectures students are exposed to diverse advanced research areas including molecular biology, genetics, bioinformatics, metabolomics, systems biology, and genomics. And through laboratory exercises these topics are reinforced as students use both wet-lab (e.g., RNAi) and computational biology approaches to unravel how genotypes influence an organism's phenotype. 
-
-**Quantitative Biodiversity** <br>
-*Years Taught*: 2016 <br>
-Graduate-level course that focuses on theory, patterns, metrics, and tools used to study biodiversity. Students calculate diversity metrics, generate and quantify diversity relationships, visualize multivariate data, and conduct phylogenetic tests. Students use modern statistical computing and graphics environments (i.e., R), as well as version control tools (i.e., GitHub). See previous course website for more information.
-
-+ repo: https://github.com/quantitativebiodiversity
-+ website: http://documentup.com/QuantitativeBiodiversity/QuantitativeBiodiversity
-
-**Microbial Metagenomics** <br>
-*Years Taught*: 2011, 2012<br>
-Graduate-level course that focused the teaching students general skills in microbial metagenomics. Lessons included: hypothesis generation, sample collection and processing, sequencing methods, sequence data analysis, general statistics, hypothesis testing approaches.
-
-**Environmental Microbiology** <br>
-*Years Taught*: 2013<br>
-Undergraduate-leve course designed to introduce students with the fundamental skills needed in environmental microbiology including how experiments are: designed, performed, analyzed, and communicated.
-
-**Introductory Microbiology Lab** <br>
-*Years Taught*: 2012<br>
-Undergraduate-level course that focused on teaching the fundamental skills needed for microbiology
-
-
-**Introductory Biology Lab** <br>
-*Years Taught*: 2011, 2013, <br>
-Undergraduate-level course that focused on cellular and molecular biology fundamentals.
+### Postdocs
+Potential postdocs with interests that broadly align with questions being asked in our lab are encouraged to contact us. We often have interdisciplinary grants submitted that would fund postdocs to work on topics related to the ecology and evolutionary biology of microbial systems. We are also open to assisting with the development of independent fellowship applications. 
