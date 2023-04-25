@@ -52,7 +52,6 @@ feature_row6:
     title: "Jasmine Ahmed"
     excerpt: "**Master's student** <br> 
               *Research Interests*: Sporulatoin and enviromental change"
-"
 
 feature_row7:
   - image_path: /assets/images/HillHead.jpg
