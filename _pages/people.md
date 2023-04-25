@@ -40,45 +40,47 @@ feature_row4:
               *Research Interests*: Physical complexity and microbial communities [website](https://emmiamueller.weebly.com/)"
 
 feature_row5:
-  - image_path: /assets/images/OBrienHead.jpeg
+  - image_path: /assets/images/OBrienHead.jpg
     alt: "Joy"
     title: "Joy O'Brien"
     excerpt: "**Ph.D. student** <br> 
               *Research Interests*: Microbial dormancy, permafrost soils, and global change in the Arctic"
               
 feature_row6:
-  - image_path: /assets/images/Jacobs.jpeg
-    alt: "Jill"
-    title: "Jill Jacobs"
-    excerpt: "**Undergraduate Research Assistant** <br> 
-              **BLaST Scholar** <br> 
-              *Research Interests*: The Berry Microbiome"
+  - image_path: /assets/images/JasmineHead.jpg
+    alt: "Jasmine"
+    title: "Jasmine Ahmed"
+    excerpt: "**Master's student** <br> 
+              *Research Interests*: Sporulatoin and enviromental change"
+"
 
 feature_row7:
-  - image_path: /assets/images/Baker-Chapman.png
-    alt: "Tyler"
-    title: "Tyler Baker-Chapman"
-    excerpt: "**Undergraduate Research Assistant** <br> 
-              **BLaST Scholar** <br> 
-              *Research Interests*: Bacteria-Phage Co-Evolution"
-
+  - image_path: /assets/images/HillHead.jpg
+    alt: "Caleb"
+    title: "Caleb Hill"
+    excerpt: "**Undergraduate student** <br> 
+              *Research Interests*: Evolutionary genomics of symbiosis"  
+              
 feature_row8:
-  - image_path: /assets/images/Blank-profile-picture-circle-hd.png
-    alt: "Rya"
-    title: "Rya"
-    excerpt: "**The Newest Lab member** <br> "
-    url: "/opportunities/"
-    btn_class: "btn--primary"
-    btn_label: " More Info "
+  - image_path: /assets/images/JaziriHead.jpg
+    alt: "Ryan"
+    title: "Ryan Jaziri"
+    excerpt: "**Undergraduate student** <br> 
+   *Research Interests*: Microbiology"  
 
-feature_rowX:
-  - image_path: /assets/images/Blank-profile-picture-circle-hd.png
-    alt: "You"
-    title: "You!!!"
-    excerpt: "**The Next Lab member** <br> "
-    url: "/opportunities/"
-    btn_class: "btn--primary"
-    btn_label: " More Info "
+feature_row9:
+  - image_path: /assets/images/McHughHead.jpg
+    alt: "Alison"
+    title: "Alison McHugh"
+    excerpt: "**Undergraduate** <br> 
+              *Research Interests*: Microbial ecology and phage-host coevolution"
+
+feature_row10:
+  - image_path: /assets/images/CaseHead.jpg
+    alt: "Emily"
+    title: "Emily Case"
+    excerpt: "**Undergraduate student** <br> 
+   *Research Interests*: Division of labor"  
 ---
 
 ---
@@ -99,7 +101,9 @@ feature_rowX:
 
 {% include feature_row id="feature_row8" type="left" %}
 
-{% include feature_row id="feature_rowX" type="left" %}
+{% include feature_row id="feature_row9" type="left" %}
+
+{% include feature_row id="feature_row10" type="left" %}
 
 
 ---
