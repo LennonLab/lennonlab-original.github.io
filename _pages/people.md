@@ -28,7 +28,7 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/KarakocHead.jpg
     alt: "Canan"
-    title: "Karakoc"
+    title: "Canan Karakoç"
     excerpt: "**Postdoct** <br> 
               *Research Interests*: Species interactions and coexistence; eco-evolutionary dynamics; experimental evolution; energy limitation and evolution of dormancy [website](https://canankarakoc.netlify.app/)"
 
@@ -85,8 +85,12 @@ feature_row10:
 ---
 
 {% include feature_row id="feature_row1" type="left" %}
+  <img src="JayHead.jpg" alt="Jay" width="200" height="188">
+  {% endinclude %}
 
 {% include feature_row id="feature_row2" type="left" %}
+  <img src="McMullenHead.jpg" alt="Jay" width="200" height="188">
+  {% endinclude %}
 
 {% include feature_row id="feature_row3" type="left" %}
 
@@ -103,7 +107,6 @@ feature_row10:
 {% include feature_row id="feature_row9" type="left" %}
 
 {% include feature_row id="feature_row10" type="left" %}
-
 
 ---
 ##  Past Lab Members
