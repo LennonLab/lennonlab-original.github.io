@@ -84,9 +84,9 @@ feature_row10:
 
 ---
 
-{% include feature_row id="feature_row1" type="left" width="200"%}
+{% include feature_row id="feature_row1" type="left" size = "small"%}
 
-{% include feature_row id="feature_row2" type="left" % width="200"}
+{% include feature_row id="feature_row2" type="left" size = "small"%}
 
 {% include feature_row id="feature_row3" type="left" %}
 
