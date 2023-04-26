@@ -48,10 +48,10 @@ feature_row5:
 
 feature_row6:
   - image_path: /assets/images/McMullenHead.jpg
-    alt: "Jasmine"
-    title: "Jasmine Ahmed"
-    excerpt: "**Master's student** <br> 
-              *Research Interests*:  Sporulation and enviromental change"
+    alt: "John"
+    title: "John McMullen"
+    excerpt: "**Postdoctorlal researcher** <br> 
+              *Research Interests*:  Among-microbe interactions in microbiomes, nutritional symbioses, chemical ecology"
 
 feature_row7:
   - image_path: /assets/images/McMullenHead.jpg
