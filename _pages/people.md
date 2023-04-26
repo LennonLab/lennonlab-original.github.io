@@ -47,7 +47,7 @@ feature_row5:
               *Research Interests*: Microbial dormancy, permafrost soils, and global change in the Arctic"
 
 feature_row6:
-  - image_path: /assets/images/McMullenHead.jpg
+  - image_path: /assets/images/JasmineHead.jpg
     alt: "John"
     title: "John McMullen"
     excerpt: "**Postdoctorlal researcher** <br> 
