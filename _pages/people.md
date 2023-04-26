@@ -7,9 +7,9 @@ author_profile: true
 header:
   image: /assets/images/syn_wells.jpg
 feature_row1:
-  - image_path: /assets/images/Muscarella_UAF_2020_5x7.jpg
-    alt: "Mario"
-    title: "Mario Muscarella"
+  - image_path: /assets/images/JayHead.jpg
+    alt: "Jay"
+    title: "Jay T. Lennon"
     excerpt: "**Principal Investigator** <br> 
               *Research Interests*: Microbial Ecology, Ecophysiology, Growth Efficiency <br>
               [Google Scholar](https://scholar.google.com/citations?user=8i5qwBQAAAAJ&hl=en) <br>
