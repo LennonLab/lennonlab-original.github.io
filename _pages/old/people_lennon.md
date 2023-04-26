@@ -6,18 +6,17 @@ permalink: /people/
 author_profile: true
 header:
   image: /assets/images/syn_wells.jpg
----
 feature_row1:
   - image_path: /assets/images/JayHead.jpg
     alt: "Jay"
     title: "Jay T. Lennon"
     excerpt: "**Principal Investigator** <br> 
-              *Research Interests*: Microbial ecology, evolution, biodiversity <br>
+              *Research Interests*: Microbial ecology, evolution, biodiversity" <br>
               [Google Scholar](https://scholar.google.com/citations?user=d-hWatsAAAAJ&hl=en&inst=13098912254855678857) <br>
               [ORCiD](https://orcid.org/0000-0003-3126-6111)"
     url: "/cv/"
     btn_class: "btn--primary"
-    btn_label: "CV"
+    btn_label: "   CV   "
 
 feature_row2:
   - image_path: /assets/images/McMullenHead.jpg
@@ -30,60 +29,67 @@ feature_row3:
   - image_path: /assets/images/KarakocHead.jpg
     alt: "Canan"
     title: "Canan Karakoç"
-    excerpt: "**Postdoct** <br> 
+    excerpt: "**Postdoc** <br> 
               *Research Interests*: Species interactions and coexistence; eco-evolutionary dynamics; experimental evolution; energy limitation and evolution of dormancy [website](https://canankarakoc.netlify.app/)"
 
 feature_row4:
   - image_path: /assets/images/MuellerHead.jpg
     alt: "Emmi"
     title: "Emmi Mueller"
-    excerpt: "**Ph.D. student** <br> 
+    excerpt: "**Ph.D. Student** <br> 
               *Research Interests*: Physical complexity and microbial communities [website](https://emmiamueller.weebly.com/)"
-
+                  
 feature_row5:
   - image_path: /assets/images/OBrienHead.jpg
     alt: "Joy"
     title: "Joy O'Brien"
-    excerpt: "**Ph.D. student** <br> 
+    excerpt: "**Ph.D. Student** <br> 
               *Research Interests*: Microbial dormancy, permafrost soils, and global change in the Arctic"
-              
+
 feature_row6:
   - image_path: /assets/images/JasmineHead.jpg
-    alt: "Jasmine"
+    alt: "Joy"
     title: "Jasmine Ahmed"
-    excerpt: "**Master's student** <br> 
+    excerpt: "**Master's stduent** <br> 
               *Research Interests*: Sporulatoin and enviromental change"
-
+              
 feature_row7:
   - image_path: /assets/images/HillHead.jpg
     alt: "Caleb"
     title: "Caleb Hill"
-    excerpt: "**Undergraduate student** <br> 
+    excerpt: "**Undergraduate** <br> 
               *Research Interests*: Evolutionary genomics of symbiosis"  
               
 feature_row8:
   - image_path: /assets/images/JaziriHead.jpg
     alt: "Ryan"
-    title: "Ryan Jaziri"
-    excerpt: "**Undergraduate student** <br> 
-   *Research Interests*: Microbiology"  
+    title: "Rayan Jaziri"
+    excerpt: "**Undergraduate** <br> 
+              *Research Interests*: Microbiology"      
 
 feature_row9:
+  - image_path: /assets/images/HillHead.jpg
+    alt: "Ryan"
+    title: "Rayan Jaziri"
+    excerpt: "**Undergraduate** <br> 
+              *Research Interests*: Microbiology"     
+
+feature_row10:
   - image_path: /assets/images/McHughHead.jpg
     alt: "Alison"
     title: "Alison McHugh"
     excerpt: "**Undergraduate** <br> 
               *Research Interests*: Microbial ecology and phage-host coevolution"
 
-feature_row10:
+feature_row11:
   - image_path: /assets/images/CaseHead.jpg
-    alt: "Emily"
-    title: "Emily Case"
-    excerpt: "**Undergraduate student** <br> 
-   *Research Interests*: Division of labor"  
+    alt: "Emmi"
+    title: "Emmi Case"
+    excerpt: "**Undergraduate** <br> 
+              *Research Interests*: Division of labor in microbes" 
+                         
 ---
-
-
+---
 {% include feature_row id="feature_row1" type="left" %}
 
 {% include feature_row id="feature_row2" type="left" %}
@@ -104,6 +110,9 @@ feature_row10:
 
 {% include feature_row id="feature_row10" type="left" %}
 
+{% include feature_row id="feature_row11" type="left" %}
+
+
 ---
 ##  Past Lab Members
 
@@ -121,9 +130,9 @@ feature_row10:
 
 **Nathan Wisnoski**, Ph.D. student, Assistant Professor at Mississippi State University<br>
 
-**Megan Behringer**, Postdoctoral Researcher, Asssistant Professor Vanderbilt University<br>
+**Megan Behringer**, Postdoctoral Researcher, Asssistant Professor Vanderbilt Universitybr>
 
-**Chian-Jun Chen**, Graduate Student, Bioetchnologist<br>
+**Chian-Jun** Chen, Graduate Student, Bioetchnologist<br>
 
 **Jordan Bird**, Postdoctoral Researcher, Bioinformatician, University of Arkansas for Medical Sciences<br>
 
@@ -135,7 +144,7 @@ feature_row10:
 
 **Mario Muscarella**, Ph.D. student, Assistant Professor University of Alaska Fairbanks<br>
 
-**Megan Larsen**, Ph.D. student, Data Scientist at Pivot Bio<br>
+**Megan Larsen**, Ph.D. student, Data Scientist at Pivot Bio
 
 **Ariane Peralta**, Postdoctoral Researcher, Associate Professor East Carolina University<br>
 
