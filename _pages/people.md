@@ -51,14 +51,14 @@ feature_row6:
     alt: "Jasmine"
     title: "Jasmine Ahmed"
     excerpt: "**Master's student** <br> 
-              *Research Interests*:  Sporulation and environmental change"
+              *Research Interests*: Among-microbe interactions in microbiomes, nutritional symbioses, chemical ecology"
 
 feature_row7:
   - image_path: /assets/images/McMullenHead.jpg
     alt: "Caleb"
     title: "Caleb Hill"
     excerpt: "**Undergraduate student** <br> 
-              *Research Interests*:  Evolutionary genomics of symbiosis"
+              *Research Interests*: Evolutionary genomics of symbiosis"
 
 feature_row8:
   - image_path: /assets/images/McMullenHead.jpg
@@ -72,7 +72,7 @@ feature_row9:
     alt: "Alison"
     title: "Alison McHugh"
     excerpt: "**Undergraduate student** <br> 
-              *Research Interests*:  Microbial ecology and host-phage coevolution"
+              *Research Interests*: Microbial ecology and host-phage coevolution"
 
 feature_row10:
   - image_path: /assets/images/McMullenHead.jpg
