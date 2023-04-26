@@ -5,7 +5,7 @@ title: People
 permalink: /people/
 author_profile: true
 header:
-  image: /assets/images/header_boreal2.jpg
+  image: /assets/images/syn_wells.jpg
 feature_row1:
   - image_path: /assets/images/Muscarella_UAF_2020_5x7.jpg
     alt: "Mario"
