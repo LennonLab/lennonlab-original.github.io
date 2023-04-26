@@ -19,11 +19,11 @@ feature_row1:
     btn_label: "   CV   "
 
 feature_row2:
-  - image_path: /assets/images/Bird_2021.jpg
-    alt: "Shannyn"
-    title: "Shannyn Bird"
-    excerpt: "**Lab Technician** <br> 
-              *Research Interests*: Computational biology, molecular genetics, metabolic biochemistry, and cell cycle control"
+  - image_path: /assets/images/McMullenHead.jpg
+    alt: "John"
+    title: "John McMullen"
+    excerpt: "**Postdoctorlal researcher** <br> 
+              *Research Interests*:  Among-microbe interactions in microbiomes, nutritional symbioses, chemical ecology"
 
 feature_row3:
   - image_path: /assets/images/Haughn.jpg
