@@ -17,7 +17,7 @@ feature_row:
               [ORCiD](https://orcid.org/0000-0003-3126-6111)"
     url: "/cv/"
     btn_class: "btn--primary"
-    btn_label: "   CV   "
+    btn_label: "CV"
 
 feature_row2:
   - image_path: /assets/images/McMullenHead.jpg
