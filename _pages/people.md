@@ -54,14 +54,14 @@ feature_row6:
               *Research Interests*: Sporulation of bacteria and virospore formation in soils and permafrost"
 
 feature_row7:
-  - image_path: /assets/images/McMullenHead.jpg
+  - image_path: /assets/images/HillHead.jpg
     alt: "Caleb"
     title: "Caleb Hill"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Evolutionary genomics of leguem-rhizobia symbiosis under nitrogen enrichment"
 
 feature_row8:
-  - image_path: /assets/images/McMullenHead.jpg
+  - image_path: /assets/images/JaziriHead.jpg
     alt: "Ryan"
     title: "Ryan Jaziri"
     excerpt: "**Undergraduate student** <br> 
@@ -75,7 +75,7 @@ feature_row9:
               *Research Interests*: Microbial ecology and host-phage coevolution across plant and soil habitats "
 
 feature_row10:
-  - image_path: /assets/images/McMullenHead.jpg
+  - image_path: /assets/images/CaseHead.jpg
     alt: "Emily"
     title: "Emily Case"
     excerpt: "**Undergradate student** <br> 
