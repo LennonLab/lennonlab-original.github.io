@@ -40,7 +40,7 @@ feature_row4:
               *Research Interests*: Physical complexity and microbial communities [website](https://emmiamueller.weebly.com/)"
 
 feature_row5:
-  - image_path: /assets/images/OBrienHead.jpg.jpg
+  - image_path: /assets/images/OBrienHead.jpg
     alt: "Joy"
     title: "O'Brien"
     excerpt: "**Ph.D. student** <br> 
