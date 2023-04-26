@@ -22,14 +22,14 @@ feature_row2:
   - image_path: /assets/images/McMullenHead.jpg
     alt: "John"
     title: "John McMullen"
-    excerpt: "**Postdoctorlal researcher** <br> 
+    excerpt: "**Postdoctoral researcher** <br> 
               *Research Interests*:  Among-microbe interactions in microbiomes, nutritional symbioses, chemical ecology"
 
 feature_row3:
   - image_path: /assets/images/KarakocHead.jpg
     alt: "Canan"
     title: "Canan Karacoç"
-    excerpt: "**Postdoctorlal researcher** <br> 
+    excerpt: "**Postdoctoral researcher** <br> 
               *Research Interests*: Species interactions and coexistence; eco-evolutionary dynamics; experimental evolution; energy limitation and evolution of dormancy [website](https://canankarakoc.netlify.app/)"
 
 feature_row4:
@@ -50,7 +50,7 @@ feature_row6:
   - image_path: /assets/images/JasmineHead.jpg
     alt: "Jasmine"
     title: "Jasmine Ahmed"
-    excerpt: "**Postdoctorlal researcher** <br> 
+    excerpt: "**Master's student** <br> 
               *Research Interests*:  Among-microbe interactions in microbiomes, nutritional symbioses, chemical ecology"
 
 feature_row7:
