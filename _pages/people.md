@@ -7,8 +7,7 @@ author_profile: true
 header:
   image: /assets/images/syn_wells.jpg
 ---
-
-feature_row1:
+feature_row:
   - image_path: /assets/images/JayHead.jpg
     alt: "Jay"
     title: "Jay T. Lennon"
