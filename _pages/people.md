@@ -42,23 +42,23 @@ feature_row4:
 feature_row5:
   - image_path: /assets/images/OBrienHead.jpg
     alt: "Joy"
-    title: "O'Brien"
+    title: "Joy O'Brien"
     excerpt: "**Ph.D. student** <br> 
               *Research Interests*: Microbial dormancy, permafrost soils, and global change in the Arctic"
-              
+
 feature_row6:
   - image_path: /assets/images/JasmineHead.jpg
     alt: "Jasmine"
     title: "Jasmine Ahmed"
     excerpt: "**Master's student** <br> 
-              *Research Interests*: Sporulation and enviromental change"
+              *Research Interests*: Sporulattion and enviromental change"
 
 feature_row7:
   - image_path: /assets/images/HillHead.jpg
     alt: "Caleb"
-    title: "Caleb Hil"
+    title: "Caleb Hill"
     excerpt: "**Undergraduate student** <br> 
-              *Research Interests*: Evolutionary genomics of symbiosis"
+              *Research Interests*: Microbial dormancy, permafrost soils, and global change in the Arctic"
 
 feature_row8:
   - image_path: /assets/images/JaziriHead.jpg
@@ -71,14 +71,14 @@ feature_row9:
   - image_path: /assets/images/McHughHead.jpg
     alt: "Alison"
     title: "Alison McHugh"
-    excerpt: "**Undergraduate student** <br> 
-              *Research Interests*: Microbial ecology and phage-host coevolution"
-              
+    excerpt: "**Ph.D. student** <br> 
+              *Research Interests*: Microbial ecology and phage-host interaction"
+
 feature_row10:
   - image_path: /assets/images/CaseHead.jpg
     alt: "Emily"
     title: "Emily Case"
-    excerpt: "**Undergraduate student** <br> 
+    excerpt: "**Ph.D. student** <br> 
               *Research Interests*: Division of labor among microbes"
 
 ---
