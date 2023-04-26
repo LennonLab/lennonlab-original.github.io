@@ -47,39 +47,39 @@ feature_row5:
               *Research Interests*: Microbial dormancy, permafrost soils, and global change in the Arctic"
 
 feature_row6:
-  - image_path: /assets/images/JasmineHead.jpg
-    alt: "Jasmine"
-    title: "Jasmine Ahmed"
-    excerpt: "**Master's student** <br> 
-              *Research Interests*: Sporulattion and enviromental change"
+  - image_path: /assets/images/McMullenHead.jpg
+    alt: "John"
+    title: "John McMullen"
+    excerpt: "**Postdoctorlal researcher** <br> 
+              *Research Interests*:  Among-microbe interactions in microbiomes, nutritional symbioses, chemical ecology"
 
 feature_row7:
-  - image_path: /assets/images/HillHead.jpg
-    alt: "Caleb"
-    title: "Caleb Hill"
-    excerpt: "**Undergraduate student** <br> 
-              *Research Interests*: Microbial dormancy, permafrost soils, and global change in the Arctic"
+  - image_path: /assets/images/McMullenHead.jpg
+    alt: "John"
+    title: "John McMullen"
+    excerpt: "**Postdoctorlal researcher** <br> 
+              *Research Interests*:  Among-microbe interactions in microbiomes, nutritional symbioses, chemical ecology"
 
 feature_row8:
-  - image_path: /assets/images/JaziriHead.jpg
-    alt: "Ryan"
-    title: "Ryan Jaziri"
-    excerpt: "**Undergraduate student** <br> 
-              *Research Interests*: Microbiology"
+  - image_path: /assets/images/McMullenHead.jpg
+    alt: "John"
+    title: "John McMullen"
+    excerpt: "**Postdoctorlal researcher** <br> 
+              *Research Interests*:  Among-microbe interactions in microbiomes, nutritional symbioses, chemical ecology"
 
 feature_row9:
-  - image_path: /assets/images/McHughHead.jpg
-    alt: "Alison"
-    title: "Alison McHugh"
-    excerpt: "**Ph.D. student** <br> 
-              *Research Interests*: Microbial ecology and phage-host interaction"
+  - image_path: /assets/images/McMullenHead.jpg
+    alt: "John"
+    title: "John McMullen"
+    excerpt: "**Postdoctorlal researcher** <br> 
+              *Research Interests*:  Among-microbe interactions in microbiomes, nutritional symbioses, chemical ecology"
 
 feature_row10:
-  - image_path: /assets/images/CaseHead.jpg
-    alt: "Emily"
-    title: "Emily Case"
-    excerpt: "**Ph.D. student** <br> 
-              *Research Interests*: Division of labor among microbes"
+  - image_path: /assets/images/McMullenHead.jpg
+    alt: "John"
+    title: "John McMullen"
+    excerpt: "**Postdoctorlal researcher** <br> 
+              *Research Interests*:  Among-microbe interactions in microbiomes, nutritional symbioses, chemical ecology"
 
 ---
 
