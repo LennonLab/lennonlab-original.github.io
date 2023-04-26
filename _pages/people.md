@@ -7,7 +7,7 @@ author_profile: true
 header:
   image: /assets/images/syn_wells.jpg
 ---
-feature_row:
+feature_row1:
   - image_path: /assets/images/JayHead.jpg
     alt: "Jay"
     title: "Jay T. Lennon"
@@ -83,7 +83,6 @@ feature_row10:
    *Research Interests*: Division of labor"  
 ---
 
----
 
 {% include feature_row id="feature_row1" type="left" %}
 
@@ -122,9 +121,9 @@ feature_row10:
 
 **Nathan Wisnoski**, Ph.D. student, Assistant Professor at Mississippi State University<br>
 
-**Megan Behringer**, Postdoctoral Researcher, Asssistant Professor Vanderbilt Universitybr>
+**Megan Behringer**, Postdoctoral Researcher, Asssistant Professor Vanderbilt University<br>
 
-**Chian-Jun** Chen, Graduate Student, Bioetchnologist<br>
+**Chian-Jun Chen**, Graduate Student, Bioetchnologist<br>
 
 **Jordan Bird**, Postdoctoral Researcher, Bioinformatician, University of Arkansas for Medical Sciences<br>
 
