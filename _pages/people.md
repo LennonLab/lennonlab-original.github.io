@@ -81,7 +81,6 @@ feature_row10:
     excerpt: "**Ph.D. student** <br> 
               *Research Interests*: Division of labor among microbes"
 
----
 
 {% include feature_row id="feature_row1" type="left" %}
 
