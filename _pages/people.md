@@ -26,11 +26,11 @@ feature_row2:
               *Research Interests*:  Among-microbe interactions in microbiomes, nutritional symbioses, chemical ecology"
 
 feature_row3:
-  - image_path: /assets/images/Haughn.jpg
-    alt: "Kodi"
-    title: "Kodi Haughn"
-    excerpt: "**PhD Student** (Co-Advised w/ Brandon Briggs at UAA) <br> 
-              *Research Interests*: "
+  - image_path: /assets/images/KarakocHead.jpg
+    alt: "Canan"
+    title: "Canan Karacoç"
+    excerpt: "**Postdoctorlal researcher** <br> 
+              *Research Interests*: Species interactions and coexistence; eco-evolutionary dynamics; experimental evolution; energy limitation and evolution of dormancy [website](https://canankarakoc.netlify.app/)"
 
 feature_row4:
   - image_path: /assets/images/Pender.jpg
