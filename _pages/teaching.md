@@ -1,21 +1,138 @@
 ---
 layout: single
 classes: wide
-title: Teaching
-author_profile: true
+title: People
 permalink: /teaching/
+author_profile: true
 header:
   image: /assets/images/syn_wells.jpg
+feature_row1:
+  - image_path: /assets/images/QB_weblogo.jpg
+    alt: "QB"
+    title: "Quantitative Biodiversity (QB)"
+    excerpt: "In this graduate-level course we focus on theory, patterns, metrics, and tools used to study biodiversity. We calculate diversity metrics, generate and quantify diversity relationships, visualize multivariate data, and conduct phylogenetic tests. We use modern statistical computing and graphics environments (i.e., R), as well as version control tools (i.e., [GitHub](https://github.com/QuantitativeBiodiversity)). See [course website](https://qbiodiversity.netlify.app/) for more information." 
+
+feature_row2:
+  - image_path: /assets/images/colormicro.jpg
+    alt: "L472"
+    title: "Microbiomes: host and environmental health"
+    excerpt: "In this [upper-level course]({{ site.url }}/assets/images/L472_Advert.pdf), we cover fundamental concepts of ecology & evolutionary biology as they pertain to to microbial systems. In addition to lectures and discussion of papers from the primary literature, we engage in biodiversity projects that result in oral presentations and a contribution to [MicrobeWiki](https://microbewiki.kenyon.edu/index.php/MicrobeWiki), a open resource on microbes and microbiology. Course offered in spring semesters. See course [syllabus]({{ site.url }}/assets/images/L472_Syllabus.pdf) and [schedule]({{ site.url }}/assets/images/L472_Schedule.pdf)." 
+    
+reature_row3:
+  - image_path: /assets/images/microbiomes.jpg
+    alt: "Microbiomes"
+    title: "Microbiomes"
+    excerpt: "In this graduate-level class, we focus on the microbiomes of different hosts (humans, model systems, and non-model systems). We highlight the genetic and immunological processes involved in the microbiome that influence the behavior, physiology, ecology, and fitness of their hosts. Products from the course include a comprehensive, open-access bibliography and the generation of a conceptual model for approaching microbiome research."
+    
+    
 ---
 
-### Diversity and inclusion
-Science is most successful when ideas and knowledge from a variety of perspectives and experiences are openly and respectfully exchanged. Together, our team works to cultivate a safe environment where everyone is treated with respect regardless of race, ethnicity, religion, gender identification, sexual orientation, age, disability status, or economic background. Members of under-represented groups are especially encouraged to contact us about opportunities in the lab. Indiana University does not discriminate and is a equal opportunity and affirmative action employer [see here](https://policies.iu.edu/files/policy-pdfs/ua-01-equal-opportunity-affirmative-action.pdf)
+---
+{% include feature_row id="feature_row1" type="left" %}
 
-### Undergraduate Students
-Getting hands-on lab experience as an undergraduate is a great way to determine if research is the right path for you. Our lab often has several undergraduate students working with specific graduate students or postdocs on research projects. Students interested in working in the lab should send an email containing research interests and a resume so we can determine if our lab will be a good fit. Undergrads should expect to spend 6-12 hours a week in the lab throughout the semester. Students are encouraged to earn course credit ([X490](https://biology.indiana.edu/student-portal/undergraduate/courses/x490.html)) and consider developing an [Honor's thesis](https://biology.indiana.edu/student-portal/undergraduate/honors-program/thesis.html) based on their research projects. 
+{% include feature_row id="feature_row2" type="left" %}
 
-### Graduate Students
-Opportunities are available for motivated graduate students interested in pursuing a Ph.D. in microbial ecology and evolution. Prospective students may apply either to the Prospectives may apply either to the [Evolution, Ecology, & Behavior Program (EEB)](https://biology.indiana.edu/graduate/evolution-ecology-behavior/index.html) or the [Microbiology Program](https://biology.indiana.edu/graduate/microbiology/index.html), both of which are in the [Department of Biology](https://biology.indiana.edu/). The application deadline is December 1. Students are funded through research grants, teaching assistantships, and university fellowships. Prospectives should send an overview of their research interests along with a CV. 
+{% include feature_row id="feature_row3" type="left" %}
 
-### Postdocs
-Potential postdocs with interests that broadly align with questions being asked in our lab are encouraged to contact us. We often have interdisciplinary grants submitted that would fund postdocs to work on topics related to the ecology and evolutionary biology of microbial systems. We are also open to assisting with the development of independent fellowship applications. 
+{% include feature_row id="feature_row4" type="left" %}
+
+{% include feature_row id="feature_row5" type="left" %}
+
+{% include feature_row id="feature_row6" type="left" %}
+
+{% include feature_row id="feature_row7" type="left" %}
+
+{% include feature_row id="feature_row8" type="left" %}
+
+{% include feature_row id="feature_row9" type="left" %}
+
+{% include feature_row id="feature_row10" type="left" %}
+
+---
+### Postdocs and Graduate Students
+
+**Daniel Schwartz**, Postdoc, Microbiologist at DSM<br>
+
+**Pat Wall**, Master's student<br>
+
+**Ford Fishman**, Master's student, Data Analysis Specialist at Brandeis University <br>
+
+**Roy Moger-Reischer**, Ph.D. student, Scientist at Arzeda<br>
+
+**Will Shoemaker**, Ph.D. student, Postdoc at The Abdus Salam International Centre for Theoretical Physics<br>
+
+**Nathan Wisnoski**, Ph.D. student, Assistant Professor at Mississippi State University<br>
+
+**Megan Behringer**, Postdoctoral Researcher, Asssistant Professor Vanderbilt University<br>
+
+**Chian-Jun Chen**, Graduate Student, Bioetchnologist<br>
+
+**Jordan Bird**, Postdoctoral Researcher, Bioinformatician, University of Arkansas for Medical Sciences<br>
+
+**Ken Locey**, Postdoctoral Researcher, Data Analyst, Rush University Medical Center<br>
+
+**Venus Kuo**, Master's Student, Data Scientist<br>
+
+**Kevin Webster**, Ph.D. student, Assistant Professor Diné College<br>
+
+**Mario Muscarella**, Ph.D. student, Assistant Professor University of Alaska Fairbanks<br>
+
+**Megan Larsen**, Ph.D. student, Data Scientist at Pivot Bio<br>
+
+**Ariane Peralta**, Postdoctoral Researcher, Associate Professor East Carolina University<br>
+
+**Sarah Placella**, Postdoctoral Researcher, CEO Root Applied Sciences<br>
+
+**Stuart Jones**, Postdoctoral Researcher, Professor University of Notre Dame<br>
+
+**Ed Hall**, Postdoctoral Researcher, Associate Professor Colorado State University<br>
+
+**Zach Aanderud**, Postdoctoral Researcher, Professor at Brigham Young University<br>
+
+**Evan Kane**, Postdoctoral Researcher, Associate Professor Michigan Tech<br>
+
+**Kali Bird**, Master's Student, Associate Director Catksill Center for Conservation and Development<br>
+
+### Visiting Scholars and Teachers
+**Melany Fisk**, Professor, Miami University<br>
+
+**Sarah Bray**, Professor, Transylvania University<br>
+
+**Marty Green**, Teacher, Plainwell Middle School<br>
+
+**Sandy Erwin**, Teacher, Harper Creek High School<br>
+
+
+### Research Technicians and Assistants
+
+**Brent Lehmkuhl**, Technician<br>
+
+**Emily Long**, Technician<br>
+
+**Kyle Miller**, Technician<br>
+
+**McKenzie Givens**, Technician<br>
+
+**Steve Reynolds**, Technician<br>
+
+**Evgeniya Polezhaeva**, Technician<br>
+
+**Sophie Kranke**, Technician<br>
+
+**Sarah Widney**, Technician<br>
+
+**Sarah Kuenzel**, Technician<br>
+
+**Brent Nowinski**, Technician<br>
+
+**Megan Lowenberg**, Technician<br>
+
+**Lewis Wooster**, Technician<br>
+
+**Rob Morrison**, Technician<br>
+
+**Cathy McMinn**, Technician<br>
+
+**Justin Rensch**, Assistant<br>
+
+**Bryan Wallace**, Assistant<br>

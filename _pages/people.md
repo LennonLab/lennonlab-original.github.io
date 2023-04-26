@@ -113,7 +113,7 @@ feature_row10:
 
 **Ford Fishman**, Master's student, Data Analysis Specialist at Brandeis University <br>
 
-**Roy Moger-Reischer** ,Ph.D. student, Scientist at Arzeda<br>
+**Roy Moger-Reischer**, Ph.D. student, Scientist at Arzeda<br>
 
 **Will Shoemaker**, Ph.D. student, Postdoc at The Abdus Salam International Centre for Theoretical Physics<br>
 
