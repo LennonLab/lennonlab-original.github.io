@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: People
+title: Teaching
 permalink: /teaching/
 author_profile: true
 header:
@@ -33,10 +33,4 @@ feature_row3:
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="left" %}
-
-
----
-### Postdocs and Graduate Students
-
-**Daniel Schwartz**, Postdoc, Microbiologist at DSM<br>
 
