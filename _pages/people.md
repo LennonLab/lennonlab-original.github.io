@@ -106,13 +106,90 @@ feature_row10:
 {% include feature_row id="feature_row10" type="left" %}
 
 ---
-##  Past Lab Members
+### Postdocs and Graduate Students
 
-**Belen Muniz**, University of Illinois at Urbana-Champaign<br>
-*The Resource Interference Model*: Aquatic environments often contain a diverse selection of resources which microorganisms can use. Often this consists of a mixture of allochthonous resources when enter from outside the system and autochthonous resources which are produced within the system. Belen worked on a theoretical framework to understand how allochthonous and autochthonous resources interact and influence the composition and stability of communities.
+**Daniel Schwartz**, Postdoc, Microbiologist at DSM<br>
 
-**Mollie Carrison**, Indiana University <br>
-*Physiological Responses to Starvation*: Microorganisms often contend with prolonged resource limitation and full starvation. Yet do not fully understand how different organisms respond to these situation. Mollie worked on an experiment system to quantify the variation in population size decay when microbial populations are starving (i.e., no available resources).
+**Pat Wall**, Master's student<br>
 
-**Xia Meng Howey**, Indiana University <br>
-*Microbial Carbon Traits & The HMWF Culture Collection*: Microorganisms often have the ability to use various resources to meet their physiological requirements. Yet, organisms may use resources in different ways. Xia Meng worked on establishing a culture collection from Lakes in the Huron Mountain Wildlife Preserve to explore variation in resource use. Once the collection was established she worked on developing methods and testing competitive strategies between isolates.
+**Ford Fishman**, Master's student, Data Analysis Specialist at Brandeis University <br>
+
+**Roy Moger-Reischer** ,Ph.D. student, Scientist at Arzeda<br>
+
+**Will Shoemaker**, Ph.D. student, Postdoc at The Abdus Salam International Centre for Theoretical Physics<br>
+
+**Nathan Wisnoski**, Ph.D. student, Assistant Professor at Mississippi State University<br>
+
+**Megan Behringer**, Postdoctoral Researcher, Asssistant Professor Vanderbilt University<br>
+
+**Chian-Jun Chen**, Graduate Student, Bioetchnologist<br>
+
+**Jordan Bird**, Postdoctoral Researcher, Bioinformatician, University of Arkansas for Medical Sciences<br>
+
+**Ken Locey**, Postdoctoral Researcher, Data Analyst, Rush University Medical Center<br>
+
+**Venus Kuo**, Master's Student, Data Scientist<br>
+
+**Kevin Webster**, Ph.D. student, Assistant Professor Diné College<br>
+
+**Mario Muscarella**, Ph.D. student, Assistant Professor University of Alaska Fairbanks<br>
+
+**Megan Larsen**, Ph.D. student, Data Scientist at Pivot Bio<br>
+
+**Ariane Peralta**, Postdoctoral Researcher, Associate Professor East Carolina University<br>
+
+**Sarah Placella**, Postdoctoral Researcher, CEO Root Applied Sciences<br>
+
+**Stuart Jones**, Postdoctoral Researcher, Professor University of Notre Dame<br>
+
+**Ed Hall**, Postdoctoral Researcher, Associate Professor Colorado State University<br>
+
+**Zach Aanderud**, Postdoctoral Researcher, Professor at Brigham Young University<br>
+
+**Evan Kane**, Postdoctoral Researcher, Associate Professor Michigan Tech<br>
+
+**Kali Bird**, Master's Student, Associate Director Catksill Center for Conservation and Development<br>
+
+### Visiting Scholars and Teachers
+**Melany Fisk**, Professor, Miami University<br>
+
+**Sarah Bray**, Professor, Transylvania University<br>
+
+**Marty Green**, Teacher, Plainwell Middle School<br>
+
+**Sandy Erwin**, Teacher, Harper Creek High School<br>
+
+
+### Research Technicians and Assistants
+
+**Brent Lehmkuhl**, Technician<br>
+
+**Emily Long**, Technician<br>
+
+**Kyle Miller**, Technician<br>
+
+**McKenzie Givens**, Technician<br>
+
+**Steve Reynolds**, Technician<br>
+
+**Evgeniya Polezhaeva**, Technician<br>
+
+**Sophie Kranke**, Technician<br>
+
+**Sarah Widney**, Technician<br>
+
+**Sarah Kuenzel**, Technician<br>
+
+**Brent Nowinski**, Technician<br>
+
+**Megan Lowenberg**, Technician<br>
+
+**Lewis Wooster**, Technician<br>
+
+**Rob Morrison**, Technician<br>
+
+**Cathy McMinn**, Technician<br>
+
+**Justin Rensch**, Assistant<br>
+
+**Bryan Wallace**, Assistant<br>
