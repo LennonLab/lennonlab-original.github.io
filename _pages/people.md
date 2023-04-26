@@ -51,7 +51,7 @@ feature_row6:
     alt: "Jasmine"
     title: "Jasmine Ahmed"
     excerpt: "**Master's student** <br> 
-              *Research Interests*: Sporulation and environmental change                                   m"
+              *Research Interests*: Sporulation of bacteria and virospore formation in soils and permafrost"
 
 feature_row7:
   - image_path: /assets/images/McMullenHead.jpg
