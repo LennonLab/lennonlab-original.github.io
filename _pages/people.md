@@ -48,38 +48,38 @@ feature_row5:
 
 feature_row6:
   - image_path: /assets/images/McMullenHead.jpg
-    alt: "John"
-    title: "John McMullen"
-    excerpt: "**Postdoctorlal researcher** <br> 
-              *Research Interests*:  Among-microbe interactions in microbiomes, nutritional symbioses, chemical ecology"
+    alt: "Jasmine"
+    title: "Jasmine Ahmed"
+    excerpt: "**Master's student** <br> 
+              *Research Interests*:  Sporulation and enviromental change"
 
 feature_row7:
   - image_path: /assets/images/McMullenHead.jpg
-    alt: "John"
-    title: "John McMullen"
-    excerpt: "**Postdoctorlal researcher** <br> 
-              *Research Interests*:  Among-microbe interactions in microbiomes, nutritional symbioses, chemical ecology"
+    alt: "Caleb"
+    title: "Caleb Hill"
+    excerpt: "**Undergraduate student** <br> 
+              *Research Interests*:  Evolutionary genomics of symbiosis"
 
 feature_row8:
   - image_path: /assets/images/McMullenHead.jpg
-    alt: "John"
-    title: "John McMullen"
-    excerpt: "**Postdoctorlal researcher** <br> 
-              *Research Interests*:  Among-microbe interactions in microbiomes, nutritional symbioses, chemical ecology"
+    alt: "Ryan"
+    title: "Ryan Jaziri"
+    excerpt: "**Undergraduate student** <br> 
+              *Research Interests*: Microbiology"
 
 feature_row9:
   - image_path: /assets/images/McMullenHead.jpg
-    alt: "John"
-    title: "John McMullen"
-    excerpt: "**Postdoctorlal researcher** <br> 
-              *Research Interests*:  Among-microbe interactions in microbiomes, nutritional symbioses, chemical ecology"
+    alt: "Alison"
+    title: "Alison McHugh"
+    excerpt: "**Undergraduate student** <br> 
+              *Research Interests*:  Microbial ecology and host-phage coevolution"
 
 feature_row10:
   - image_path: /assets/images/McMullenHead.jpg
-    alt: "John"
-    title: "John McMullen"
-    excerpt: "**Postdoctorlal researcher** <br> 
-              *Research Interests*:  Among-microbe interactions in microbiomes, nutritional symbioses, chemical ecology"
+    alt: "Emily"
+    title: "Emily Case"
+    excerpt: "**Undergradate student** <br> 
+              *Research Interests*: Division of labor among microbes"
 
 ---
 
