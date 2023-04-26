@@ -51,7 +51,7 @@ feature_row6:
     alt: "Jasmine"
     title: "Jasmine Ahmed"
     excerpt: "**Master's student** <br> 
-              *Research Interests*:  Among-microbe sporulation and environmental change, chemical ecology"
+              *Research Interests*:  Sporulation and environmental change, chemical ecology"
 
 feature_row7:
   - image_path: /assets/images/McMullenHead.jpg
