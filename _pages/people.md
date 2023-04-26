@@ -58,28 +58,28 @@ feature_row7:
     alt: "Caleb"
     title: "Caleb Hill"
     excerpt: "**Undergraduate student** <br> 
-              *Research Interests*: Evolutionary genomics of symbiosis"
+              *Research Interests*: Evolutionary genomics of leguem-rhizobia symbiosis under nitrogen enrichment"
 
 feature_row8:
   - image_path: /assets/images/McMullenHead.jpg
     alt: "Ryan"
     title: "Ryan Jaziri"
     excerpt: "**Undergraduate student** <br> 
-              *Research Interests*: Microbiology"
+              *Research Interests*: Microbiology of spore-forming bacteria and metabolite exchange among auxotrophs"
 
 feature_row9:
   - image_path: /assets/images/McHughHead.jpg
     alt: "Alison"
     title: "Alison McHugh"
     excerpt: "**Undergraduate student** <br> 
-              *Research Interests*: Microbial ecology and host-phage coevolution"
+              *Research Interests*: Microbial ecology and host-phage coevolution across plant and soil habitats "
 
 feature_row10:
   - image_path: /assets/images/McMullenHead.jpg
     alt: "Emily"
     title: "Emily Case"
     excerpt: "**Undergradate student** <br> 
-              *Research Interests*: Division of labor among microbes"
+              *Research Interests*: Division of labor among engineered strains of spore-forming bacteria using experimental evolution"
 
 ---
 
