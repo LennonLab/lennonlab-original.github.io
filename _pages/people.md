@@ -51,7 +51,7 @@ feature_row6:
     alt: "Jasmine"
     title: "Jasmine Ahmed"
     excerpt: "**Master's student** <br> 
-              *Research Interests*: Among-microbe interactions in microbiomes, nutritional symbioses, chemical ecology"
+              *Research Interests*: Sporulation microbial ecology"
 
 feature_row7:
   - image_path: /assets/images/McMullenHead.jpg
@@ -68,7 +68,7 @@ feature_row8:
               *Research Interests*: Microbiology"
 
 feature_row9:
-  - image_path: /assets/images/McMullenHead.jpg
+  - image_path: /assets/images/McHughHead.jpg
     alt: "Alison"
     title: "Alison McHugh"
     excerpt: "**Undergraduate student** <br> 
