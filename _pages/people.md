@@ -49,7 +49,7 @@ feature_row5:
 feature_row6:
   - image_path: /assets/images/JasmineHead.jpg
     alt: "Jasmine"
-    title: "John McMullen"
+    title: "Jasmine McMullen"
     excerpt: "**Postdoctorlal researcher** <br> 
               *Research Interests*:  Among-microbe interactions in microbiomes, nutritional symbioses, chemical ecology"
 
