@@ -5,7 +5,7 @@ title: Research
 author_profile: true
 permalink: /research/
 header:
-  image: /assets/images/syn_wells.jpg
+  image: /assets/images/megaterium.jpg
 feature_row1:
   - image_path: /assets/images/spore.jpg
     alt: "Seed banks"

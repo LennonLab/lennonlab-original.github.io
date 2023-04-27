@@ -5,7 +5,7 @@ title: Teaching
 permalink: /teaching/
 author_profile: true
 header:
-  image: /assets/images/syn_wells.jpg
+  image: /assets/images/megaterium.jpg
 feature_row1:
   - image_path: /assets/images/QB_weblogo.jpg
     alt: "QB"

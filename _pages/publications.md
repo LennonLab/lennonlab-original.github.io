@@ -5,7 +5,7 @@ title: Lab Publications
 author_profile: true
 permalink: /publications/
 header:
-  image: /assets/images/syn_wells.jpg
+  image: /assets/images/megaterium.jpg
 ---
 
 ### In Review, In Revision, and/or Preprints:
