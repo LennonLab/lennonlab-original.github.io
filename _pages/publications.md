@@ -32,7 +32,7 @@ Wu W, Hsieh C, Logares R, <u>Lennon JT</u>, Liu H (In Revision) Selection exceed
 
 
 <!--- pub entry --->		
-Schwartz DA, Rodríguez-Ramos J, Shaffer M, Flynn F, Daly R, Wrighton KC, <u>Lennon JT</u>  (2023) Human-gut phages harbor sporulation genes. mBio e0018223 [(pdf)]({{ site.url }}/assets/publications/Schwartz_etal_2023.pdf) 
+Schwartz DA, Rodríguez-Ramos J, Shaffer M, Flynn F, Daly R, Wrighton KC, <u>Lennon JT</u>  (2023) Human-gut phages harbor sporulation genes. mBio e0018223 [(pdf)]({{ site.url }}/assets/publications/Schwartz_etal_2023a.pdf) 
 
 
 <!--- pub entry --->
@@ -50,10 +50,11 @@ Bolin LG, Lennon JT, Lau JA (2023) Traits of soil bacteria predict plant respons
 	
 	
 <!--- pub entry --->		
-Irvine R, Houser M, Marquart-Pyatt ST, Bolin L, Browning EG, Dott G, Evans SE, Howard M, Lau J, <u>Lennon JT</u> (2023) Soil health through farmers’ eyes: Toward a better understanding of how farmers view, value, and manage for healthier soils. Journal of Soil and Water Conservation 78: 82-92 [(pdf)]({{ site.url }}/assets/publications/Irvine_etal_2023)	
+Irvine R, Houser M, Marquart-Pyatt ST, Bolin L, Browning EG, Dott G, Evans SE, Howard M, Lau J, <u>Lennon JT</u> (2023) Soil health through farmers’ eyes: Toward a better understanding of how farmers view, value, and manage for healthier soils. Journal of Soil and Water Conservation 78: 82-92 [(pdf)]({{ site.url }}/assets/publications/Irvine_etal_2023.pdf)	
+	
 	
 <!--- pub entry --->
-McMullen JG, <u>Lennon JT</u> (2022) Mark-recapture of microorganisms. Environmental Microbiology 25: 150-157 [(pdf)]({{ site.url }}/assets/publications/McMullen_Lennon_2023.pdf)	
+McMullen JG, <u>Lennon JT</u> (2023) Mark-recapture of microorganisms. Environmental Microbiology 25: 150-157 [(pdf)]({{ site.url }}/assets/publications/McMullen_Lennon_2023.pdf)	
 	
 	
 <!--- pub entry --->
@@ -85,18 +86,18 @@ Shoemaker WR, <u>Lennon JT</u> (2022) Predicting parallelism and quantifying div
 	
 <!--- pub entry --->	
 
-Shoemaker WR, Jones SE, Muscarella ME, Behringer MG, Lehmkuhl BK, <u>Lennon JT</u> (2021) Microbial population dynamics and evolutionary outcomes under extreme energy-limitation. Proceedings of the National Academy of Sciences of the United States of America. 118: e2101691118 [(pdf]({{ site.url }}/assets/publications/Shoemaker_etal_2021a.pdf), [PNAS Commentary]({{ site.url }}/assets/publications/Rillig_etal_2021.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Shoemaker_etal_2021b_Suppl.pdf))
+Shoemaker WR, Jones SE, Muscarella ME, Behringer MG, Lehmkuhl BK, <u>Lennon JT</u> (2021) Microbial population dynamics and evolutionary outcomes under extreme energy-limitation. Proceedings of the National Academy of Sciences of the United States of America. 118: e2101691118 [(pdf]({{ site.url }}/assets/publications/Shoemaker_etal_2021b.pdf), [PNAS Commentary]({{ site.url }}/assets/publications/Rillig_etal_2021.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Shoemaker_etal_2021b_Suppl.pdf))
 
 	
 <!--- pub entry --->	
-<u>Lennon JT</u>, den Hollander F, Wilke-Berenguer M, Blath J (2021) Principles of seed banks: complexity emerging from dormancy. Nature Communications 2: 4807 [(pdf)]({{ site.url }}/assets/publications/Lennon_etal_2021.pdf)
+<u>Lennon JT</u>, den Hollander F, Wilke-Berenguer M, Blath J (2021) Principles of seed banks: complexity emerging from dormancy. Nature Communications 2: 4807 [(pdf)]({{ site.url }}/assets/publications/Lennon_etal_2021a.pdf)
 	
 	
 <!--- pub entry --->
 Wisnoski NI, <u>Lennon JT</u> (2021) Stabilising role of seed banks and the maintenance of bacterial diversity. Ecology Letters 24: 2328–2338 [(pdf]({{ site.url }}/assets/publications/Wisnoski_Lennon_2021.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Wisnoski_Lennon_2021_Suppl.pdf))
 	
 <!--- pub entry --->
-Shoemaker WR, Polezhaeva E, Givens KB, <u>Lennon JT</u> (2021) Molecular evolutionary dynamics of energy limited microorganisms. Molecular Biology and Evolution 38: msab195 [(pdf]({{ site.url }}/assets/publications/Shoemaker_etal_2021a.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Shoemaker etal_2021a_Suppl.zip))
+Shoemaker WR, Polezhaeva E, Givens KB, <u>Lennon JT</u> (2021) Molecular evolutionary dynamics of energy limited microorganisms. Molecular Biology and Evolution 38: msab195 [(pdf]({{ site.url }}/assets/publications/Shoemaker_etal_2021a.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Shoemaker_etal_2021a_Suppl.zip))
 
 
 <!--- pub entry --->
@@ -120,7 +121,7 @@ Mobilian C, Wisnoski NI, <u>Lennon JT</u>, Abler M, Widney S, Craft CB (2020) Di
 
 
 <!--- pub entry --->
-Muscarella ME, Howey XM, <u>Lennon JT</u> (2020) Trait-based approach to bacterial growth efficiency. Environmental Microbiology 22: 3494–3504 [(pdf]({{ site.url }}/assets/publications/Muscarella_etal_2020.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Muscarella_etal_Supplement_2020.pdf.pdf))
+Muscarella ME, Howey XM, <u>Lennon JT</u> (2020) Trait-based approach to bacterial growth efficiency. Environmental Microbiology 22: 3494–3504 [(pdf]({{ site.url }}/assets/publications/Muscarella_etal_2020.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Muscarella_etal_Supplement_2020.pdf))
 
 
 <!--- pub entry --->
