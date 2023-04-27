@@ -193,7 +193,7 @@ Shoemaker WR, <u>Lennon JT</u> (2018) Evolution with a seed bank: the population
 
 
 <!--- pub entry --->
-Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, Evans SE, Graham EB, Jones SE, <u>Lennon JT</u>, Nemergut D, Osborne B, Rocca JD, Schimel JS, Waldrop MS, Wallenstein MW (2018) Understanding how microbiomes influence the systems they inhabit. Nature Microbiology 3: 977–982 ([pdf]({{ site.url }}/assets/publications/Hall_etal_2018.pdf), [Behind the Paper](https://naturemicrobiologycommunity.nature.com/users/122444-edward-hall/posts/38466-understanding-how-microbiomes-influence-the-systems-they-inhabit"))
+Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, Evans SE, Graham EB, Jones SE, <u>Lennon JT</u>, Nemergut D, Osborne B, Rocca JD, Schimel JS, Waldrop MS, Wallenstein MW (2018) Understanding how microbiomes influence the systems they inhabit. Nature Microbiology 3: 977–982 ([pdf]({{ site.url }}/assets/publications/Hall_etal_2018.pdf), [Behind the Paper](https://naturemicrobiologycommunity.nature.com/users/122444-edward-hall/posts/38466-understanding-how-microbiomes-influence-the-systems-they-inhabit))
 
 
 <!--- pub entry --->
@@ -217,7 +217,7 @@ Shoemaker WR, Locey KJ, <u>Lennon JT</u> (2017) A macroecological theory of micr
 
 
 <!--- pub entry --->
-Kuo V, Shoemaker WR, Muscarella ME, <u>Lennon JT</u> (2017) Whole genome sequence of the soil bacterium Micrococcus sp. KBS0714. Genome Announcements 5: e00697-17 ([pdf]({{ site.url }}/assets/publications/Kuo_etal_2017.pdf))
+Kuo V, Shoemaker WR, Muscarella ME, <u>Lennon JT</u> (2017) Whole genome sequence of the soil bacterium <u>Micrococcus</u> sp. KBS0714. Genome Announcements 5: e00697-17 ([pdf]({{ site.url }}/assets/publications/Kuo_etal_2017.pdf))
 
 
 <!--- pub entry --->
@@ -269,7 +269,7 @@ Locey KJ, <u>Lennon JT</u> (2016) Powerful predictions of biodiversity from ecol
 	
 
 <!--- pub entry --->
-Lennon JT</u>, Locey KJ (2016) The underestimation of global microbial diversity. mBio 7: e01298-16 [(pdf)]({{ site.url }}/assets/publications/Lennon_Locey_2016_mBio.pdf); a correspondence [to]({{ site.url }}/assets/publications/Amann_Rosello-Mora_2016_commentary.pdf) and [from]({{ site.url }}/assets/Amann_Rosello-Mora_2016_response.pdf) Amann and Rosello-Mora
+<u>Lennon JT</u>, Locey KJ (2016) The underestimation of global microbial diversity. mBio 7: e01298-16 [(pdf)]({{ site.url }}/assets/publications/Lennon_Locey_2016_mBio.pdf); a correspondence [to]({{ site.url }}/assets/publications/Amann_Rosello-Mora_2016_commentary.pdf) and [from]({{ site.url }}/assets/Amann_Rosello-Mora_2016_response.pdf) Amann and Rosello-Mora
 
 
 <!--- pub entry --->
