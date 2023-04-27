@@ -74,7 +74,7 @@ Hu A, Choi M, Tanentzap AJ, Liu J, Jang KS, <u>Lennon JT</u>, Liu Y, Soininen J,
 	
 	
 <!--- pub entry --->	
-Hu A, Jang KS, Meng F, Stegen J, Tanentzap AJ, Choi M, <u>Lennon JT</u>, Soinenen J, Wang J (2022) Microbial and environmental processes shape the link between organic matter functional traits and composition. Enviromnetal Science and Technology 56: 10504−10516 ([pdf]({{ site.url }}/assets/publications/Hu_etal_2022b.pdf))
+Hu A, Jang KS, Meng F, Stegen J, Tanentzap AJ, Choi M, <u>Lennon JT</u>, Soinenen J, Wang J (2022) Microbial and environmental processes shape the link between organic matter functional traits and composition. Environmental Science and Technology 56: 10504−10516 ([pdf]({{ site.url }}/assets/publications/Hu_etal_2022b.pdf))
 	
 	
 <!--- pub entry --->
@@ -177,7 +177,7 @@ Locey KJ, <u>Lennon JT</u> (2019) A residence-time framework for biodiversity. A
 
 
 <!--- pub entry --->
-Sprunger CD, Culman SW, Peralta AP, Tianna DuPont ST, <u>Lennon JT</u>, Snapp SS (2019) Perennial grain crop roots and nitrogen management shape soil food webs and soil carbon dynamics. Soil Biology and Biochemistry 137: 107573 ([pdf)]({{ site.url }}/assets/publications/Sprunger_etal_2019.pdf))
+Sprunger CD, Culman SW, Peralta AP, Tianna DuPont ST, <u>Lennon JT</u>, Snapp SS (2019) Perennial grain crop roots and nitrogen management shape soil food webs and soil carbon dynamics. Soil Biology and Biochemistry 137: 107573 ([pdf]({{ site.url }}/assets/publications/Sprunger_etal_2019.pdf))
 
 
 <!--- pub entry --->
@@ -185,7 +185,7 @@ Shade A, Dunn RR, Blowes SA, Keil P, Bohannan BMJ, M Hermann, K Küsel, <u>Lenno
 
 
 <!--- pub entry --->
-Lennon JT</u>, Muscarella ME, Placella SA, Lehmkuhl BK (2018) How, when, and where relic DNA biases estimates of microbial diversity. mBio 9:e00637-18 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2018.pdf))
+<u>Lennon JT</u>, Muscarella ME, Placella SA, Lehmkuhl BK (2018) How, when, and where relic DNA biases estimates of microbial diversity. mBio 9:e00637-18 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2018.pdf))
 
 
 <!--- pub entry --->
@@ -193,7 +193,7 @@ Shoemaker WR, <u>Lennon JT</u> (2018) Evolution with a seed bank: the population
 
 
 <!--- pub entry --->
-Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, Evans SE, Graham EB, Jones SE, <u>Lennon JT</u>, Nemergut D, Osborne B, Rocca JD, Schimel JS, Waldrop MS, Wallenstein MW (2018) Understanding how microbiomes influence the systems they inhabit. Nature Microbiology 3: 977–982 ([pdf]({{ site.url }}/assets/publications/Hall_etal_2018.pdf), [Behind the Paper](https://naturemicrobiologycommunity.nature.com/users/122444-edward-hall/posts/38466-understanding-how-microbiomes-influence-the-systems-they-inhabit">Behind the Paper))
+Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, Evans SE, Graham EB, Jones SE, <u>Lennon JT</u>, Nemergut D, Osborne B, Rocca JD, Schimel JS, Waldrop MS, Wallenstein MW (2018) Understanding how microbiomes influence the systems they inhabit. Nature Microbiology 3: 977–982 ([pdf]({{ site.url }}/assets/publications/Hall_etal_2018.pdf), [Behind the Paper](https://naturemicrobiologycommunity.nature.com/users/122444-edward-hall/posts/38466-understanding-how-microbiomes-influence-the-systems-they-inhabit"))
 
 
 <!--- pub entry --->
@@ -258,22 +258,22 @@ Skelton J, Geyer KM, <u>Lennon JT</u>, Creed RP, Brown BL (2017) Multi-scale eco
 
 
 <!--- pub entry --->
-Moger-Reischer RZ, <u>Lennon JT</u> (2017) Book Review. The human superorganism: how the microbiome is revolutionizing the pursuit of a healthy life by Rodney Dietert. Quarterly Review of Biology 92: 203 ([pdf]({{ site.url }}/assets/publications/Moger-Reicher_Lennon_2017))
+Moger-Reischer RZ, <u>Lennon JT</u> (2017) Book Review. The human superorganism: how the microbiome is revolutionizing the pursuit of a healthy life by Rodney Dietert. Quarterly Review of Biology 92: 203 ([pdf]({{ site.url }}/assets/publications/Moger-Reicher_Lennon_2017.pdf))
 
 
 <!--- pub entry --->
-Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emergence of ecological patterns. PeerJ Preprints. 5:e1469v3 ([pdf]({{ site.url }}/assets/publications/Locey_Lennon_2017))
+Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emergence of ecological patterns. PeerJ Preprints. 5:e1469v3 ([pdf]({{ site.url }}/assets/publications/Locey_Lennon_2017.pdf))
 
 <!--- pub entry --->
 Locey KJ, <u>Lennon JT</u> (2016) Powerful predictions of biodiversity from ecological models and scaling laws. Proceedings of the National Academy of Sciences of the United States of America 113: E5097 ([Reply]({{ site.url }}/assets/publications/Lau_etal_2017.pdf) to [Willis]({{ site.url }}/assets/Willis_2016.pdf))
 	
 
 <!--- pub entry --->
-Lennon JT</u>, Locey KJ (2016) The underestimation of global microbial diversity. mBio 7: e01298-16 [(pdf)]({{ site.url }}/assets/publications/Lennon_Locey_2016_mBio.pdf); a correspondence [to] ({{ site.url }}/assets/publications/Amann_Rosello-Mora_2016_commentary.pdf) and [from]({{ site.url }}/assets/Amann_Rosello-Mora_2016_response.pdf) Amann and Rosello-Mora
+Lennon JT</u>, Locey KJ (2016) The underestimation of global microbial diversity. mBio 7: e01298-16 [(pdf)]({{ site.url }}/assets/publications/Lennon_Locey_2016_mBio.pdf); a correspondence [to]({{ site.url }}/assets/publications/Amann_Rosello-Mora_2016_commentary.pdf) and [from]({{ site.url }}/assets/Amann_Rosello-Mora_2016_response.pdf) Amann and Rosello-Mora
 
 
 <!--- pub entry --->
-Locey KJ, <u>Lennon JT</u> (2016) Scaling laws predict global microbial diversity. Proceedings of the National Academy of Sciences of the United States of America 113: 5970-5975 ([pdf]({{ site.url }}/assets/publications/Locey_Lennon_2016), [Supplementary Information]({{ site.url }}/assets/Locey_Lennon_2016_SI.pdf), [PNAS Commentary]({{ site.url }}/assets/Pedros-Alio_Manrubia_2016.pdf), [F1000 Recommendaton](https://f1000.com/prime/726327633))
+Locey KJ, <u>Lennon JT</u> (2016) Scaling laws predict global microbial diversity. Proceedings of the National Academy of Sciences of the United States of America 113: 5970-5975 ([pdf]({{ site.url }}/assets/publications/Locey_Lennon_2016.pdf), [Supplementary Information]({{ site.url }}/assets/Locey_Lennon_2016_SI.pdf), [PNAS Commentary]({{ site.url }}/assets/Pedros-Alio_Manrubia_2016.pdf), [F1000 Recommendaton](https://f1000.com/prime/726327633))
 
 <!--- pub entry --->
 <u>Lennon JT</u>, Lehmkuhl (2016) A trait-based approach to biofilms in soil. Environmental Microbiology 18: 2732–2742 ([pdf]({{ site.url }}/assets/publications/Lennon_Lehmkuhl_2016.pdf))
@@ -284,7 +284,7 @@ Muscarella ME, Jones SE, <u>Lennon JT</u> (2016) Species sorting along a subsidy
 
 
 <!--- pub entry --->
-Aanderud ZT, Vert JC, Magnusson TW, <u>Lennon JT</u>, Breakwell DP, Harker AR (2016) Bacterial dormancy is more prevalent in freshwater than hypersaline lakes. Frontiers in Microbiology 7: 853 ([pdf)]({{ site.url }}/assets/publications/Aanderud_etal_2016.pdf))
+Aanderud ZT, Vert JC, Magnusson TW, <u>Lennon JT</u>, Breakwell DP, Harker AR (2016) Bacterial dormancy is more prevalent in freshwater than hypersaline lakes. Frontiers in Microbiology 7: 853 ([pdf]({{ site.url }}/assets/publications/Aanderud_etal_2016.pdf))
 
 
 <!--- pub entry --->
@@ -387,7 +387,7 @@ Shade A, Peter H, Allison S, Baho D, Berga M, Burgmann H, Huber D, Langenheder S
 
 
 <!--- pub entry --->
-Lau JA, <u>Lennon JT</u> (2012) Rapid responses of soil microorganisms improve plant fitness in novel environments. Proceedings of the National Academy of Sciences of the United States of America 109: 14058-14062 ([pdf]({{ site.url }}/assets/publications/Lau_Lennon_2012.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Lau_Lennon_2012_Suppl.pdf), [press release](https://www.sciencedaily.com/releases/2012/08/120814110957.htm), [pod cast](www.bacteriofiles.com/2012/09/bacteriofiles-micro-edition-103.html), [F1000 Recommendation](https://f1000.com/prime/717978110), [Correction](https://www.pnas.org/doi/10.1073/pnas.2118690118))
+Lau JA, <u>Lennon JT</u> (2012) Rapid responses of soil microorganisms improve plant fitness in novel environments. Proceedings of the National Academy of Sciences of the United States of America 109: 14058-14062 ([pdf]({{ site.url }}/assets/publications/Lau_Lennon_2012.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Lau_Lennon_2012_Suppl.pdf), [press release](https://www.sciencedaily.com/releases/2012/08/120814110957.htm), [pod cast](http://www.bacteriofiles.com/2012/09/bacteriofiles-micro-edition-103.html), [F1000 Recommendation](https://f1000.com/prime/717978110), [Correction](https://www.pnas.org/doi/10.1073/pnas.2118690118))
 
 
 <!--- pub entry --->
@@ -420,7 +420,7 @@ Fierer N, <u>Lennon JT</u> (2011) The generation and maintenance of diversity in
 
 
 <!--- pub entry --->
-<u>Lennon JT</u>, Jones SE (2011) Microbial seed banks: ecological and evolutionary implications of dormancy. Nature Reviews Microbiology 9:119-130 ([pdf]({{ site.url }}/assets/publications/Lennon_Jones.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Lennon_Jones_Suppl.pdf))
+<u>Lennon JT</u>, Jones SE (2011) Microbial seed banks: ecological and evolutionary implications of dormancy. Nature Reviews Microbiology 9:119-130 ([pdf]({{ site.url }}/assets/publications/Lennon_Jones_2011.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Lennon_Jones_2011_Suppl.pdf))
 
 
 <!--- pub entry --->
@@ -500,7 +500,7 @@ Thum RA, <u>Lennon JT</u>, Connor J, Smagula AP (2005) A DNA fingerprinting appr
 
 
 <!--- pub entry --->
-<u>Lennon JT</u> (2004) Experimental evidence that terrestrial carbon subsidies increase CO2 flux from lake ecosystems. Oecologia 138: 584-591 ([pdf]({{ site.url }}/assets/publications/Lennnon_2004.pdf))
+<u>Lennon JT</u> (2004) Experimental evidence that terrestrial carbon subsidies increase CO2 flux from lake ecosystems. Oecologia 138: 584-591 ([pdf]({{ site.url }}/assets/publications/Lennon_2004.pdf))
 
 <!--- pub entry --->
 <u>Lennon JT</u> (2004) The energetic importance of terrestrial carbon in lake ecosystems. Dartmouth College (USA), 169 pp. ([pdf]({{ site.url }}/assets/publications/Lennon_2004_Thesis.pdf))
