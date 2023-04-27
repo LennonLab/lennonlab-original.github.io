@@ -5,7 +5,7 @@ title: People
 permalink: /people/
 author_profile: true
 header:
-  image: /assets/images/syn_wells.jpg
+  image: /assets/images/megaterium.jpg
 feature_row1:
   - image_path: /assets/images/JayHead.jpg
     alt: "Jay"
