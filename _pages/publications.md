@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: Lab Publications
+title: Publications
 author_profile: true
 permalink: /publications/
 header:
@@ -169,11 +169,11 @@ Muscarella ME, Boot CM, Broeckling CD, <u>Lennon JT</u> (2019) Resource diversit
 
 
 <!--- pub entry --->
-Larsen ML, Wilhelm SW, <u>Lennon JT</u> (2019) Nutrient stoichiometry shapes microbial coevolution. Ecology Letters 22: 1009–1018 [(pdf]({{ site.url }}/assets/publications/Larsen_etal_2019.pdf), [Supplementary Information]({{ site.url }}/assets/Larsen_etal_Suppl_2019.pdf))
+Larsen ML, Wilhelm SW, <u>Lennon JT</u> (2019) Nutrient stoichiometry shapes microbial coevolution. Ecology Letters 22: 1009–1018 [(pdf]({{ site.url }}/assets/publications/Larsen_etal_2019.pdf), [Supplementary Information]({{ site.url }}/assets/Larsen_etal_2019_Suppl.pdf))
 
 
 <!--- pub entry --->
-Locey KJ, <u>Lennon JT</u> (2019) A residence-time framework for biodiversity. American Naturalist 194: 59-72 [(pdf]({{ site.url }}/assets/publications/Locey_Lennon_2019.pdf), [Supplementary Information]({{ site.url }}/assets/Locey_Lennon_2019_Suppl.pdf), [code]({{ site.url }}/assets/publications/Wisonski_etal_2019_Code.zip))
+Locey KJ, <u>Lennon JT</u> (2019) A residence-time framework for biodiversity. American Naturalist 194: 59-72 [(pdf]({{ site.url }}/assets/publications/Locey_Lennon_2019.pdf), [Supplementary Information]({{ site.url }}/assets/Locey_Lennon_2019_Suppl.pdf), [code]({{ site.url }}/assets/publications/Locey_Lennon_2019_code.zip))
 
 
 <!--- pub entry --->
@@ -267,16 +267,13 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 
 <!--- pub entry --->
 Locey KJ, <u>Lennon JT</u> (2016) Powerful predictions of biodiversity from ecological models and scaling laws. Proceedings of the National Academy of Sciences of the United States of America 113: E5097 [(Reply]({{ site.url }}/assets/publications/Lau_etal_2017.pdf) to [Willis]({{ site.url }}/assets/Willis_2016.pdf))
+	
+
+<!--- pub entry --->
+Lennon JT</u>, Locey KJ (2016) The underestimation of global microbial diversity. mBio 7: e01298-16 [(pdf)]({{ site.url }}/assets/publications/Lennon_Locey_2016_mBio.pdf), a correspondence [to] ({{ site.url }}/assets/publications/Amann_Rosello-Mora_2016_commentary.pdf) and [from]({{ site.url }}/assets/Amann_Rosello-Mora_2016_response.pdf) Amann and Rosello-Mora
 
 
 <!--- pub entry --->
-<p>
-<u>Lennon JT</u>, Locey KJ (2016) The underestimation of global microbial diversity. mBio 7: e01298-16 (<a href="https://microbes.sitehost.iu.edu/publications/Lennon_Locey_2016_mBio.pdf">pdf</a>; a correspondence <a href="https://microbes.sitehost.iu.edu/publications/Amann_Rosello-Mora_2016_commentary.pdf">to</a> and <a href="https://microbes.sitehost.iu.edu/publications/Amann_Rosello-Mora_2016_response.pdf">from</a> Amann and Rosello-Mora)
-</p>
-
-
-<!--- pub entry --->
-<p>
 Locey KJ, <u>Lennon JT</u> (2016) Scaling laws predict global microbial diversity. Proceedings of the National Academy of Sciences of the United States of America 113: 5970-5975 (<a href="https://microbes.sitehost.iu.edu/publications/Locey_Lennon_2016.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Locey_Lennon_2016_SI.pdf">supplementary information</a>, <a href="https://microbes.sitehost.iu.edu/publications/Pedros-Alio_Manrubia_2016.pdf">PNAS Commentary</a>, <a href="https://f1000.com/prime/726327633">F1000 Recommendation</a>)
 </p>
 
