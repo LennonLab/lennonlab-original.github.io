@@ -7,7 +7,7 @@ author_profile: true
 header:
   image: /assets/images/megaterium.jpg
 feature_row1:
-  - image_path: /assets/images/JayHead.jpg
+  - image_path: /assets/images/JayHead.png
     alt: "Jay"
     title: "Jay T. Lennon"
     excerpt: "**Principal Investigator** <br> 
@@ -19,63 +19,63 @@ feature_row1:
     btn_label: "   CV   "
 
 feature_row2:
-  - image_path: /assets/images/McMullenHead.jpg
+  - image_path: /assets/images/McMullenHead.png
     alt: "John"
     title: "John McMullen"
     excerpt: "**Postdoctoral researcher** <br> 
               *Research Interests*:  Among-microbe interactions in microbiomes, nutritional symbioses, chemical ecology"
 
 feature_row3:
-  - image_path: /assets/images/KarakocHead.jpg
+  - image_path: /assets/images/KarakocHead.png
     alt: "Canan"
     title: "Canan Karacoç"
     excerpt: "**Postdoctoral researcher** <br> 
               *Research Interests*: Species interactions and coexistence; eco-evolutionary dynamics; experimental evolution; energy limitation and evolution of dormancy [website](https://canankarakoc.netlify.app/)"
 
 feature_row4:
-  - image_path: /assets/images/MuellerHead.jpg
+  - image_path: /assets/images/MuellerHead.png
     alt: "Emmi"
     title: "Emmi Mueller"
     excerpt: "**Ph.D. student** <br> 
               *Research Interests*: Physical complexity and microbial communities [website](https://emmiamueller.weebly.com/)"
 
 feature_row5:
-  - image_path: /assets/images/OBrienHead.jpg
+  - image_path: /assets/images/OBrienHead.png
     alt: "Joy"
     title: "Joy O'Brien"
     excerpt: "**Ph.D. student** <br> 
               *Research Interests*: Microbial dormancy, permafrost soils, and global change in the Arctic"
 
 feature_row6:
-  - image_path: /assets/images/JasmineHead.jpg
+  - image_path: /assets/images/JasmineHead.png
     alt: "Jasmine"
     title: "Jasmine Ahmed"
     excerpt: "**Master's student** <br> 
               *Research Interests*: Sporulation of bacteria and virospore formation in soils and permafrost"
 
 feature_row7:
-  - image_path: /assets/images/HillHead.jpg
+  - image_path: /assets/images/HillHead.png
     alt: "Caleb"
     title: "Caleb Hill"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Evolutionary genomics of leguem-rhizobia symbiosis under nitrogen enrichment"
 
 feature_row8:
-  - image_path: /assets/images/JaziriHead.jpg
+  - image_path: /assets/images/JaziriHead.png
     alt: "Ryan"
     title: "Ryan Jaziri"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Microbiology of spore-forming bacteria and metabolite exchange among auxotrophs"
 
 feature_row9:
-  - image_path: /assets/images/McHughHead.jpg
+  - image_path: /assets/images/McHughHead.png
     alt: "Alison"
     title: "Alison McHugh"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Microbial ecology and host-phage coevolution across plant and soil habitats "
 
 feature_row10:
-  - image_path: /assets/images/CaseHead.jpg
+  - image_path: /assets/images/CaseHead.png
     alt: "Emily"
     title: "Emily Case"
     excerpt: "**Undergradate student** <br> 
