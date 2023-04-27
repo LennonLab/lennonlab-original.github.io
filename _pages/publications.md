@@ -125,210 +125,148 @@ Muscarella ME, Howey XM, <u>Lennon JT</u> (2020) Trait-based approach to bacteri
 
 
 <!--- pub entry --->
-<p>Moger-Reischer RZ, Snider EZ, McKenzie KL, <u>Lennon JT</u> (2020) Low costs of adaptation to dietary restriction. Biology Letters 16:20200008 (<a href="https://microbes.sitehost.iu.edu/publications/Moger-Reischer_etal_2020.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Moger-Reischer_etal_2020_Supplement.pdf">supplementary information</a>)
-</p>
+Moger-Reischer RZ, Snider EZ, McKenzie KL, <u>Lennon JT</u> (2020) Low costs of adaptation to dietary restriction. Biology Letters 16:20200008 [(pdf]({{ site.url }}/assets/publications/Moger-Reischer_etal_2020.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Moger-Reischer_etal_2020_Supplement.pdf))
 
 
 <!--- pub entry --->
-<p> Locey KJ, Muscarella ME, Larsen ML, Bray SR, Jones SE, <u>Lennon JT</u> (2020) Dormancy dampens the microbial distance-decay relationship. Philosophical Transactions of the Royal Society B. 375: 20190243 (<a href="https://microbes.sitehost.iu.edu/publications/Locey_etal_2020.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Locey_etal_2020_Supplement.pdf">supplementary information</a>)
-</p> 
+Locey KJ, Muscarella ME, Larsen ML, Bray SR, Jones SE, <u>Lennon JT</u> (2020) Dormancy dampens the microbial distance-decay relationship. Philosophical Transactions of the Royal Society B. 375: 20190243 [(pdf]({{ site.url }}/assets/publications/Locey_etal_2020.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Locey_etal_2020_Supplement.pdf))
 
 
 <!--- pub entry --->
-<p> <u>Lennon JT</u>, Locey KJ (2020) More evidence for Earth's massive microbiome. Biology Direct 15: 5 (<a href="https://microbes.sitehost.iu.edu/publications/Lennon_Locey_2020.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Lennon_Locey_2020_Supplement.pdf">supplementary information</a>)
-</p>
+<u>Lennon JT</u>, Locey KJ (2020) More evidence for Earth's massive microbiome. Biology Direct 15: 5 [(pdf]({{ site.url }}/assets/publications/Lennon_Locey_2020.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Lennon_Locey_2020_Supplement.pdf))
 
 
 <!--- pub entry --->
-<p><u>Lennon JT</u> (2020) Microbial life underfoot. mBio 11:e03201-19 (<a href="https://microbes.sitehost.iu.edu/publications/Lennon_2020.pdf">pdf</a>) 
-</p>
+<u>Lennon JT</u> (2020) Microbial life underfoot. mBio 11:e03201-19 [(pdf)]({{ site.url }}/assets/publications/Lennon_2020.pdf)
 
 
 <!--- pub entry --->
-<p> Wisnoski NI, Mucarella ME, Larsen ML, Peralta AP, <u>Lennon JT</u> (2020) Metabolic insight into bacterial community assembly across ecosystem boundaries. Ecology 101: e02968 (<a href="https://microbes.sitehost.iu.edu/publications/Wisnoski_etal_2020.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Wisnoski_etal_2020_Supplement.pdf">supplementary information</a>)
-</p>
+Wisnoski NI, Mucarella ME, Larsen ML, Peralta AP, <u>Lennon JT</u> (2020) Metabolic insight into bacterial community assembly across ecosystem boundaries. Ecology 101: e02968 [(pdf]({{ site.url }}/assets/publications/Wisnoski_etal_2020.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Wisnoski_etal_2020_Supplement.pdf))
 
 
 <!--- pub entry --->
-<p>  Yin Y, Masalerz M, <u>Lennon JT</u>, Drobniak A, Schimmelmann A (2020) Characterization and microbial mitigation of fugitive methane emissions from oil and gas wells: Example from Indiana, USA. Applied Geochemistry 118: 104619 (<a href="https://microbes.sitehost.iu.edu/publications/Yin_etal_2020.pdf">pdf</a>) 
-</p>
+Yin Y, Masalerz M, <u>Lennon JT</u>, Drobniak A, Schimmelmann A (2020) Characterization and microbial mitigation of fugitive methane emissions from oil and gas wells: Example from Indiana, USA. Applied Geochemistry 118: 104619 [(pdf)]({{ site.url }}/assets/publications/Yin_etal_2020.pdf)
 
 
 <!--- pub entry --->
-<p>  Mueller EA, Wisnoski NI, Peralta AL, <u>Lennon JT</u> (2019) Microbial rescue effects: how microbiomes can save hosts from extinction. Functional Ecology 34: 2055–2064 (<a href="https://microbes.sitehost.iu.edu/publications/Mueller_etal_2019.pdf">pdf</a>) 
-</p>
+Mueller EA, Wisnoski NI, Peralta AL, <u>Lennon JT</u> (2019) Microbial rescue effects: how microbiomes can save hosts from extinction. Functional Ecology 34: 2055–2064 [(pdf)]({{ site.url }}/assets/publications/Mueller_etal_2019.pdf)
 
 
 <!--- pub entry --->
-<p> Moger-Reischer RZ, <u>Lennon JT</u> (2019) Microbial aging and longevity. Nature Reviews Microbiology 17: 79-690 (<a href="https://microbes.sitehost.iu.edu/publications/Moger-Reischer_Lennon_2019.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Moger-Reischer_Lennon_Supplementary_2019.pdf">supplementary information</a>, <a href="https://microbes.sitehost.iu.edu/publications/Moger-Reischer_Lennon_Cover_2019.pdf">Cover of Issue</a>)
-</p>
+Moger-Reischer RZ, <u>Lennon JT</u> (2019) Microbial aging and longevity. Nature Reviews Microbiology 17: 79-690 [(pdf]({{ site.url }}/assets/publications/Moger-Reischer_Lennon_2019.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Moger-Reischer_Lennon_Supplementary_2019.pdf), [Cover of Issue]({{ site.url }}/assets/publications/Moger-Reischer_Lennon_Cover_2019.pdf))
 
 
 <!--- pub entry --->
-<p> 
-Wisnoski NI, Leibold MA, <u>Lennon JT</u> (2019) Dormancy in metacommunities. American Naturalist 194: 131-151 (<a href="https://microbes.sitehost.iu.edu/publications/Wisnoski_etal_2019.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Wisnoski_etal_2019_Supplement.pdf">supplementary information</a>, <a href="https://microbes.sitehost.iu.edu/publications/Wisonski_etal_2019_Code.zip">code</a>)
-</p>
+Wisnoski NI, Leibold MA, <u>Lennon JT</u> (2019) Dormancy in metacommunities. American Naturalist 194: 131-151 [(pdf]({{ site.url }}/assets/publications/Wisnoski_etal_2019.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Wisnoski_etal_2019_Supplement.pdf), [code]({{ site.url }}/assets/publications/Wisonski_etal_2019_Code.zip))
 
 
 <!--- pub entry --->
-<p> 
-Salazar A, <u>Lennon JT</u>, Dukes JS (2019) Microbial activity improves predictability of soil respiration dynamics. Biogeochemistry 144: 103-116 (<a href="https://microbes.sitehost.iu.edu/publications/Salazar_etal_2019.pdf">pdf</a>) 
-</p>
+Salazar A, <u>Lennon JT</u>, Dukes JS (2019) Microbial activity improves predictability of soil respiration dynamics. Biogeochemistry 144: 103-116 [(pdf)]({{ site.url }}/assets/publications/Salazar_etal_2019.pdf)
 
 
 <!--- pub entry --->
-<p> Muscarella ME, Boot CM, Broeckling CD, <u>Lennon JT</u> (2019) Resource diversity structures aquatic bacterial communities. ISMEJ 13: 2183–2195 (<a href="https://microbes.sitehost.iu.edu/publications/Muscarella_etal_2019.pdf">pdf</a>,  <a href="https://microbes.sitehost.iu.edu/publications/Muscarella_etal_Supplement_2019.pdf">supplementary information</a>) 
-</p>
+Muscarella ME, Boot CM, Broeckling CD, <u>Lennon JT</u> (2019) Resource diversity structures aquatic bacterial communities. ISMEJ 13: 2183–2195 [(pdf]({{ site.url }}/assets/publications/Muscarella_etal_2019.pdf), [Supplementary Information]({{ site.url }}/assets/Muscarella_etal_Supplement_2019.pdf))
 
 
 <!--- pub entry --->
-<p> 
-Larsen ML, Wilhelm SW, <u>Lennon JT</u> (2019) Nutrient stoichiometry shapes microbial coevolution. Ecology Letters 22: 1009–1018 (<a href="https://microbes.sitehost.iu.edu/publications/Larsen_etal_2019.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Larsen_etal_2019_Suppl.pdf">supplementary information</a>)
-</p>
+Larsen ML, Wilhelm SW, <u>Lennon JT</u> (2019) Nutrient stoichiometry shapes microbial coevolution. Ecology Letters 22: 1009–1018 [(pdf]({{ site.url }}/assets/publications/Larsen_etal_2019.pdf), [Supplementary Information]({{ site.url }}/assets/Larsen_etal_Suppl_2019.pdf))
 
 
 <!--- pub entry --->
-<p> 
-Locey KJ, <u>Lennon JT</u> (2019) A residence-time framework for biodiversity. American Naturalist 194: 59-72 (<a href="https://microbes.sitehost.iu.edu/publications/Locey_Lennon_2019.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Locey_Lennon_2019_Suppl.pdf">supplementary information</a>, <a href="https://microbes.sitehost.iu.edu/publications/Loecy_Lennon_2019_code.zip">code</a>)
-</p>
+Locey KJ, <u>Lennon JT</u> (2019) A residence-time framework for biodiversity. American Naturalist 194: 59-72 [(pdf]({{ site.url }}/assets/publications/Locey_Lennon_2019.pdf), [Supplementary Information]({{ site.url }}/assets/Locey_Lennon_2019_Suppl.pdf), [code]({{ site.url }}/assets/publications/Wisonski_etal_2019_Code.zip))
 
 
 <!--- pub entry --->
-<p>
-Sprunger CD, Culman SW, Peralta AP, Tianna DuPon S, <u>Lennon JT</u>, Snapp SS (2019) Perennial grain crop roots and nitrogen management shape soil food webs and soil carbon dynamics. Soil Biology and Biochemistry 137: 107573 (<a href="https://microbes.sitehost.iu.edu/publications/Sprunger_etal_2019.pdf">pdf</a>)
-</p>
+Sprunger CD, Culman SW, Peralta AP, Tianna DuPon S, <u>Lennon JT</u>, Snapp SS (2019) Perennial grain crop roots and nitrogen management shape soil food webs and soil carbon dynamics. Soil Biology and Biochemistry 137: 107573 [(pdf)]({{ site.url }}/assets/publications/Sprunger_etal_2019.pdf)
 
 
 <!--- pub entry --->
-<p> Shade A, Dunn RR, Blowes SA, Keil P, Bohannan BMJ, M Hermann, K Küsel, <u>Lennon JT</u>, Sanders NJ, D Storch, J Chase (2018) Macroecology to unite all biodiversity great and small. Trends in Ecology and Evolution 33: 731-744 (<a href="https://microbes.sitehost.iu.edu/publications/Shade_etal_2018.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Shade_etal_2018_Suppl.pdf">supplementary information</a>)
-</p>
+Shade A, Dunn RR, Blowes SA, Keil P, Bohannan BMJ, M Hermann, K Küsel, <u>Lennon JT</u>, Sanders NJ, D Storch, J Chase (2018) Macroecology to unite all biodiversity great and small. Trends in Ecology and Evolution 33: 731-744 [(pdf]({{ site.url }}/assets/publications/Shade_etal_2018.pdf), [Supplementary Information]({{ site.url }}/assets/Shade_etal_2018_Suppl.pdf))
 
 
 <!--- pub entry --->
-<p> 
-<u>Lennon JT</u>, Muscarella ME, Placella SA, Lehmkuhl BK (2018) How, when, and where relic DNA biases estimates of microbial diversity. mBio 9:e00637-18 (<a href="https://microbes.sitehost.iu.edu/publications/Lennon_etal_2018.pdf">pdf</a>)
-</p>
+Lennon JT</u>, Muscarella ME, Placella SA, Lehmkuhl BK (2018) How, when, and where relic DNA biases estimates of microbial diversity. mBio 9:e00637-18 [(pdf)]({{ site.url }}/assets/publications/Lennon_etal_2018.pdf)
 
 
 <!--- pub entry --->
-<p> 
-Shoemaker WR, <u>Lennon JT</u> (2018) Evolution with a seed bank: the population genetic consequences of microbial dormancy. Evolutionary Applications 11: 60–75 (<a href="https://microbes.sitehost.iu.edu/publications/Shoemaker_Lennon_2018.pdf">pdf</a>)
-</p>
+Shoemaker WR, <u>Lennon JT</u> (2018) Evolution with a seed bank: the population genetic consequences of microbial dormancy. Evolutionary Applications 11: 60–75 [(pdf)]({{ site.url }}/assets/publications/Shoemaker_Lennon_2018.pdf)
 
 
 <!--- pub entry --->
-<p> 
-Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, Evans SE, Graham EB, Jones SE, <u>Lennon JT</u>, Nemergut D, Osborne B, Rocca JD, Schimel JS, Waldrop MS, Wallenstein MW (2018) Understanding how microbiomes influence the systems they inhabit. Nature Microbiology 3: 977–982 (<a href="https://microbes.sitehost.iu.edu/publications/Hall_etal_2018.pdf">pdf</a>, <a href="https://naturemicrobiologycommunity.nature.com/users/122444-edward-hall/posts/38466-understanding-how-microbiomes-influence-the-systems-they-inhabit">Behind the Paper</a>)
-</p>
+Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, Evans SE, Graham EB, Jones SE, <u>Lennon JT</u>, Nemergut D, Osborne B, Rocca JD, Schimel JS, Waldrop MS, Wallenstein MW (2018) Understanding how microbiomes influence the systems they inhabit. Nature Microbiology 3: 977–982 [(pdf]({{ site.url }}/assets/publications/Hall_etal_2018.pdf), [Behind the Paper](https://naturemicrobiologycommunity.nature.com/users/122444-edward-hall/posts/38466-understanding-how-microbiomes-influence-the-systems-they-inhabit">Behind the Paper))
 
 
 <!--- pub entry --->
-<p> 
-<u>Lennon JT</u>, Locey KJ (2018) There are more microbial species on Earth than stars in the galaxy. Aeon (<a href="https://aeon.co/ideas/there-are-more-microbial-species-on-earth-than-stars-in-the-sky">Link</a>)
-</p>
+<u>Lennon JT</u>, Locey KJ (2018) There are more microbial species on Earth than stars in the galaxy. Aeon [link](https://aeon.co/ideas/there-are-more-microbial-species-on-earth-than-stars-in-the-sky)
 
 
 <!--- pub entry --->
-<p>
-Peralta AL, Sun Y, McDaniel MD, <u>Lennon JT</u> (2018) Crop diversity increases disease suppressive capacity of soil microbiomes. Ecosphere 9: e02235 (<a href="https://microbes.sitehost.iu.edu/publications/Peralta_etal_2018.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Peralta_etal_2018_Suppl.pdf">supplementary information</a>)
-</p>
+Peralta AL, Sun Y, McDaniel MD, <u>Lennon JT</u> (2018) Crop diversity increases disease suppressive capacity of soil microbiomes. Ecosphere 9: e02235 [(pdf]({{ site.url }}/assets/publications/Peralta_etal_2018.pdf), [Supplementary Information]({{ site.url }}/assets/Peralta_etal_2018_Suppl.pdf))
 
 
 <!--- pub entry --->
-<p>
-Long H, Sung W, Kucukyildirim S, Williams E, Miller S, Guo W, Patterson C, Gregory C, Strauss C, Stone C, Berne C, Kysela D, Shoemaker WR, Muscarella M, Luo H, <u>Lennon JT</u>, Brun YV, Lynch M (2018) Evolutionary determinants of genome-wide nucleotide composition. Nature Ecology and Evolution 2: 237-240 (<a href="https://microbes.sitehost.iu.edu/publications/Long_etal_2018.pdf">pdf</a>)
-</p>
+Long H, Sung W, Kucukyildirim S, Williams E, Miller S, Guo W, Patterson C, Gregory C, Strauss C, Stone C, Berne C, Kysela D, Shoemaker WR, Muscarella M, Luo H, <u>Lennon JT</u>, Brun YV, Lynch M (2018) Evolutionary determinants of genome-wide nucleotide composition. Nature Ecology and Evolution 2: 237-240 [(pdf)]({{ site.url }}/assets/publications/Long_etal_2018.pdf)
 
 
 <!--- pub entry --->
-<p> 
-Schimmelmann A, Streil T, Fernandez-Cortes A, Cuezva S, <u>Lennon JT</u> (2018) Radiolysis via radioactivity is not responsible for rapid methane oxidation in subterranean air. PLOS ONE 113: 020650 (<a href="https://microbes.sitehost.iu.edu/publications/Schimmelmann_etal_2018.pdf">pdf</a>)
-</p>
+Schimmelmann A, Streil T, Fernandez-Cortes A, Cuezva S, <u>Lennon JT</u> (2018) Radiolysis via radioactivity is not responsible for rapid methane oxidation in subterranean air. PLOS ONE 113: 020650 [(pdf)]({{ site.url }}/assets/publications/Schimmelmann_etal_2018.pdf)
 
 
 <!--- pub entry --->
-<p>
-Shoemaker WR, Locey KJ, <u>Lennon JT</u> (2017) A macroecological theory of microbial biodiversity. Nature Ecology and Evolution 1: 0107 (<a href="https://microbes.sitehost.iu.edu/publications/Shoemaker_etal_2017.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Shoemaker_etal_2017_Supplement.pdf">supplementary information</a>)
-</p>
+Shoemaker WR, Locey KJ, <u>Lennon JT</u> (2017) A macroecological theory of microbial biodiversity. Nature Ecology and Evolution 1: 0107 [(pdf]({{ site.url }}/assets/publications/Shoemaker_etal_2017.pdf), [Supplementary Information]({{ site.url }}/assets/Shoemaker_etal_2017_Supplement.pdf))
 
 
 <!--- pub entry --->
-<p>
-Kuo V, Shoemaker WR, Muscarella ME, <u>Lennon JT</u> (2017) Whole genome sequence of the soil bacterium Micrococcus sp. KBS0714. Genome Announcements 5: e00697-17 (<a href="https://microbes.sitehost.iu.edu/publications/Kuo_etal_2017.pdf">pdf</a>)
-</p>
+Kuo V, Shoemaker WR, Muscarella ME, <u>Lennon JT</u> (2017) Whole genome sequence of the soil bacterium Micrococcus sp. KBS0714. Genome Announcements 5: e00697-17 [(pdf)]({{ site.url }}/assets/publications/Kuo_etal_2017.pd)
 
 
 <!--- pub entry --->
-<p>
-Nguyễn-Thuỳ D, Schimmelmann A, Nguyễn-Văn H, Drobniak A, <u>Lennon JT</u>, Tạ PH, Nguyễn NTA (2017) Subterranean microbial oxidation of atmospheric methane in cavernous tropical karst. Chemical Geology 466: 229-238 (<a href="https://microbes.sitehost.iu.edu/publications/Nguyen-Thuy_etal_2017.pdf">pdf</a>)
-</p>
+Nguyễn-Thuỳ D, Schimmelmann A, Nguyễn-Văn H, Drobniak A, <u>Lennon JT</u>, Tạ PH, Nguyễn NTA (2017) Subterranean microbial oxidation of atmospheric methane in cavernous tropical karst. Chemical Geology 466: 229-238 [(pdf)]({{ site.url }}/assets/publications/Nguyen-Thuy_etal_2017.pdf)
 
 
 <!--- pub entry --->
-<p>
 Lau JA, <u>Lennon JT</u>, Heath KD (2017) Trees harness the power of microbes to survive
-climate change. Proceedings of the National Academy of Sciences of the United States of America 114: 11009-11011 (<a href="https://microbes.sitehost.iu.edu/publications/Lau_etal_2017.pdf">pdf</a>; a Commentary on <a href="https://microbes.sitehost.iu.edu/publications/Gehring_etal_2017.pdf"> Gehring et al. 2017</a>)
-</p>
+climate change. Proceedings of the National Academy of Sciences of the United States of America 114: 11009-11011 [(Commmentary]({{ site.url }}/assets/publications/Lau_etal_2017.pdf) on [Gehring et al. 2017]({{ site.url }}/assets/Gehring_etal_2017.pdf))
 
 
 <!--- pub entry --->
-<p>
-Lamit LJ, Romanowicz JH, Potvin LR, Rivers A, Singh K, <u>Lennon JT</u>, Tringe S, Kane E, Lilleskov E (2017) Patterns and drivers of fungal community depth stratification in Sphagnum peat. FEMS Microbiology Ecology 93: fix082 (<a href="https://microbes.sitehost.iu.edu/publications/Lamit_etal_2017.pdf">pdf</a>)
-</p> 
+Lamit LJ, Romanowicz JH, Potvin LR, Rivers A, Singh K, <u>Lennon JT</u>, Tringe S, Kane E, Lilleskov E (2017) Patterns and drivers of fungal community depth stratification in Sphagnum peat. FEMS Microbiology Ecology 93: fix082 [(pdf)]({{ site.url }}/assets/publications/Lamit_etal_2017.pdf)
 
 
 <!--- pub entry --->
-<p>
-Locey KJ, Fisk MC, <u>Lennon JT</u> (2017) Microscale insight into microbial seed banks. Frontiers in Microbiology 7: 2040 (<a href="https://microbes.sitehost.iu.edu/publications/Locey_etal_2017.pdf">pdf</a>)
-</p>
+Locey KJ, Fisk MC, <u>Lennon JT</u> (2017) Microscale insight into microbial seed banks. Frontiers in Microbiology 7: 2040 [(pdf)]({{ site.url }}/assets/publications/Locey_etal_2017.pdf)
 
 
 <!--- pub entry --->
-<p>
-Webster KD, Lagarde LR, Sauer PE, Schimmelmann A, <u>Lennon JT</u>, Boston PJ (2017) Isotopic evidence for the migration of thermogenic methane in Cueva de Villa Luz cave, Tabasco, Mexico. Journal of Cave and Karst Studies 79: 24-34 (<a href="https://microbes.sitehost.iu.edu/publications/Webster_etal_2017.pdf">pdf</a>)
-</p>
+Webster KD, Lagarde LR, Sauer PE, Schimmelmann A, <u>Lennon JT</u>, Boston PJ (2017) Isotopic evidence for the migration of thermogenic methane in Cueva de Villa Luz cave, Tabasco, Mexico. Journal of Cave and Karst Studies 79: 24-34 [(pdf)]({{ site.url }}/assets/publications/Webster_etal_2017.pdf)
 
 
 <!--- pub entry --->
-<p>
-<u>Lennon JT</u>, Locey KJ (2017) Macroecology for microbiology. Environmental Microbiology Reports 9: 38-40 (<a href="https://microbes.sitehost.iu.edu/publications/Lennon_Locey_2017.pdf">pdf</a>)
-</p>
+<u>Lennon JT</u>, Locey KJ (2017) Macroecology for microbiology. Environmental Microbiology Reports 9: 38-40 [(pdf)]({{ site.url }}/assets/publications/Lennon_Locey_2017.pdf)
 
 
 <!--- pub entry --->
-<p>
-LaSarre B, McCully AL, <u>Lennon JT</u>, McKinlay JB (2017) Microbial mutualism dynamics governed by dose-dependent toxicity and growth-independent production of a cross-fed nutrient. ISMEJ 11: 337–348 (<a href="https://microbes.sitehost.iu.edu/publications/LaSarre_etal_2017.pdf">pdf</a>)
-</p>
+LaSarre B, McCully AL, <u>Lennon JT</u>, McKinlay JB (2017) Microbial mutualism dynamics governed by dose-dependent toxicity and growth-independent production of a cross-fed nutrient. ISMEJ 11: 337–348 [(pdf)]({{ site.url }}/assets/publications/LaSarre_etal_2017.pdf)
 
 
 <!--- pub entry --->
-<p>
-<u>Lennon JT</u>, Nguyễn Thùy D, Phạm Ðức N, Drobniak A, Tạ PH, Phạm NÐ, Streil T, Webster KD, Schimmelmann A (2017) Microbial contributions to subterranean methane sinks. Geobiology 15: 254-258  (<a href="https://microbes.sitehost.iu.edu/publications/Lennon_etal_2017.pdf">pdf</a>)
-</p>
+<u>Lennon JT</u>, Nguyễn Thùy D, Phạm Ðức N, Drobniak A, Tạ PH, Phạm NÐ, Streil T, Webster KD, Schimmelmann A (2017) Microbial contributions to subterranean methane sinks. Geobiology 15: 254-258 [(pdf)]({{ site.url }}/assets/publications/Lennon_etal_2017.pdf)
 
 
 <!--- pub entry --->
-<p>
-Skelton J, Geyer KM, <u>Lennon JT</u>, Creed RP, Brown BL (2017) Multi-scale ecological filters shape crayfish microbiome assembly. Symbiosis 72: 159-170 (<a href="https://microbes.sitehost.iu.edu/publications/Skelton_etal_2017.pdf">pdf</a>)
-</p>
+Skelton J, Geyer KM, <u>Lennon JT</u>, Creed RP, Brown BL (2017) Multi-scale ecological filters shape crayfish microbiome assembly. Symbiosis 72: 159-170 [(pdf)]({{ site.url }}/assets/publications/Skelton_etal_2017.pdf)
 
 
 <!--- pub entry --->
-<p>
-*Moger-Reischer RZ, <u>Lennon JT</u> (2017) Book Review. The human superorganism: how the microbiome is revolutionizing the pursuit of a healthy life by Rodney Dietert. Quarterly Review of Biology 92: 203 (<a href="https://microbes.sitehost.iu.edu/publications/Moger-Reicher_Lennon_2017.pdf">pdf</a>)
-</p>
+Moger-Reischer RZ, <u>Lennon JT</u> (2017) Book Review. The human superorganism: how the microbiome is revolutionizing the pursuit of a healthy life by Rodney Dietert. Quarterly Review of Biology 92: 203 [(pdf)]({{ site.url }}/assets/publications/Moger-Reicher_Lennon_2017)
 
 
 <!--- pub entry --->
-<p>
-*Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emergence of ecological patterns. PeerJ Preprints. 5:e1469v3 <a href ="https://doi.org/10.7287/peerj.preprints.1469v3">doi: https://doi.org/10.7287/peerj.preprints.1469v3 </a>
-</p>
+Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emergence of ecological patterns. PeerJ Preprints. 5:e1469v3 [link](https://doi.org/10.7287/peerj.preprints.1469v3)
 
 
 <!--- pub entry --->
-<p>
-Locey KJ, <u>Lennon JT</u> (2016) Powerful predictions of biodiversity from ecological models and scaling laws. Proceedings of the National Academy of Sciences of the United States of America 113: E5097 (<a href="https://microbes.sitehost.iu.edu/publications/Locey_Lennon_2016_Reply.pdf">pdf</a>; a reply to <a href="https://microbes.sitehost.iu.edu/publications/Willis_2016.pdf">Willis</a>)
-</p>
+Locey KJ, <u>Lennon JT</u> (2016) Powerful predictions of biodiversity from ecological models and scaling laws. Proceedings of the National Academy of Sciences of the United States of America 113: E5097 [(Reply]({{ site.url }}/assets/publications/Lau_etal_2017.pdf) to [Willis]({{ site.url }}/assets/Willis_2016.pdf))
 
 
 <!--- pub entry --->
