@@ -5,7 +5,7 @@ title: Opportunities
 author_profile: true
 permalink: /opportunities/
 header:
-  image: /assets/images/syn_wells.jpg
+  image: /assets/images/megaterium.jpg
 ---
 
 ### Diversity and inclusion
