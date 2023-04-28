@@ -102,7 +102,6 @@ feature_row10:
 {% include feature_row id="feature_row9" type="left" %}
 
 {% include feature_row id="feature_row10" type="left" %}
----
 
 
 ## Former Lab Members
