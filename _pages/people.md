@@ -103,16 +103,16 @@ feature_row10:
 
 {% include feature_row id="feature_row10" type="left" %}
 
----
+
 
 ## Former Lab Members
 
-#### *Postdocs and Graduate Students*
+#### Postdocs and Graduate Students
 ---
 
-*Daniel Schwartz*, Postdoc (Microbiologist at DSM)<br>
+* *Daniel Schwartz*, Postdoc (Microbiologist at DSM)<br>
 
-*Pat Wall*, MS<br>
+* *Pat Wall*, MS<br>
 
 *Ford Fishman*, MS (Data Analysis Specialist at Brandeis University) <br>
 
@@ -142,7 +142,7 @@ feature_row10:
 
 *Sarah Placella*, Postdoc (CEO Root Applied Sciences)<br>
 
-*Stuart Jones**, Postdoc (Professor University of Notre Dame)<br>
+*Stuart Jones*, Postdoc (Professor University of Notre Dame)<br>
 
 *Ed Hall*, Postdoc (Associate Professor Colorado State University)<br>
 
@@ -154,7 +154,7 @@ feature_row10:
 
 
 
-#### *Visiting Scholars and Teachers*
+#### Visiting Scholars and Teachers
 ---
 *Melany Fisk*, Professor, Miami University<br>
 
@@ -166,7 +166,7 @@ feature_row10:
 
 
 
-#### *Research Technicians and Assistants*
+#### Research Technicians and Assistants
 ---
 *Brent Lehmkuhl*, Technician<br>
 
@@ -194,7 +194,7 @@ feature_row10:
 
 *Rob Morrison*, Technician<br>
 
-*Cathy McMinn** Technician<br>
+*Cathy McMinn* Technician<br>
 
 *Justin Rensch*, Assistant<br>
 
