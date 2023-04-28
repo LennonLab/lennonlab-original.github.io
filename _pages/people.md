@@ -82,7 +82,7 @@ feature_row10:
               *Research Interests*: Division of labor among engineered strains of spore-forming bacteria using experimental evolution"
 
 
----
+
 {% include feature_row id="feature_row1" type="left" %}
 
 {% include feature_row id="feature_row2" type="left" %}
@@ -110,9 +110,9 @@ feature_row10:
 #### Postdocs and Graduate Students
 ---
 
-* *Daniel Schwartz*, Postdoc (Microbiologist at DSM)<br>
+*Daniel Schwartz*, Postdoc (Microbiologist at DSM)<br>
 
-* *Pat Wall*, MS<br>
+*Pat Wall*, MS<br>
 
 *Ford Fishman*, MS (Data Analysis Specialist at Brandeis University) <br>
 
