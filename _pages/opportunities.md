@@ -6,7 +6,9 @@ author_profile: true
 permalink: /opportunities/
 header:
   image: /assets/images/megaterium.jpg
+
 ---
+
 
 ### Diversity and inclusion
 Science is most successful when ideas and knowledge from a variety of perspectives and experiences are openly and respectfully exchanged. Together, our team works to cultivate a safe environment where everyone is treated with respect regardless of race, ethnicity, religion, gender identification, sexual orientation, age, disability status, or economic background. Members of under-represented groups are especially encouraged to contact us about opportunities in the lab. Indiana University does not discriminate and is a equal opportunity and affirmative action employer [see here](https://policies.iu.edu/files/policy-pdfs/ua-01-equal-opportunity-affirmative-action.pdf)
