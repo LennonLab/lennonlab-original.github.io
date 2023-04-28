@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: Opportunities
+<!--title: Opportunities-->
 author_profile: true
 permalink: /opportunities/
 header:
