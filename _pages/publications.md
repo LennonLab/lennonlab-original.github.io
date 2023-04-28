@@ -165,8 +165,7 @@ Salazar A, <u>Lennon JT</u>, Dukes JS (2019) Microbial activity improves predict
 
 
 <!--- pub entry --->
-Muscarella ME, Boot CM, Broeckling CD, <u>Lennon JT</u> (2019) Resource diversity structures aquatic bacterial communities. ISMEJ 13: 2183–2195 ([pdf]({{ site.url }}/assets/publications/Muscarella_etal_2019.pdf), [Supplementary Information]({{ site.url }}/assets/Muscarella_etal_Supplement_2019.pdf))
-
+Muscarella ME, Boot CM, Broeckling CD, <u>Lennon JT</u> (2019) Resource diversity structures aquatic bacterial communities. ISMEJ 13: 2183–2195 ([pdf]({{ site.url }}/assets/publications/Muscarella_etal_2019.pdf),[Supplementary Information]({{ site.url }}/assets/publications/Muscarella_etal_Supplement_2019.pdf))
 
 <!--- pub entry --->
 Larsen ML, Wilhelm SW, <u>Lennon JT</u> (2019) Nutrient stoichiometry shapes microbial coevolution. Ecology Letters 22: 1009–1018 ([pdf]({{ site.url }}/assets/publications/Larsen_etal_2019.pdf), [Supplementary Information]({{ site.url }}/assets/Larsen_etal_2019_Suppl.pdf))
