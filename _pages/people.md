@@ -82,7 +82,7 @@ feature_row10:
               *Research Interests*: Division of labor among engineered strains of spore-forming bacteria using experimental evolution"
 
 
-
+---
 {% include feature_row id="feature_row1" type="left" %}
 
 {% include feature_row id="feature_row2" type="left" %}
@@ -102,7 +102,7 @@ feature_row10:
 {% include feature_row id="feature_row9" type="left" %}
 
 {% include feature_row id="feature_row10" type="left" %}
-
+---
 
 
 ## Former Lab Members
