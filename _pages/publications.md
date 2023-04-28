@@ -168,7 +168,7 @@ Salazar A, <u>Lennon JT</u>, Dukes JS (2019) Microbial activity improves predict
 Muscarella ME, Boot CM, Broeckling CD, <u>Lennon JT</u> (2019) Resource diversity structures aquatic bacterial communities. ISMEJ 13: 2183–2195 ([pdf]({{ site.url }}/assets/publications/Muscarella_etal_2019.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Muscarella_etal_Supplement_2019.pdf))
 
 <!--- pub entry --->
-Larsen ML, Wilhelm SW, <u>Lennon JT</u> (2019) Nutrient stoichiometry shapes microbial coevolution. Ecology Letters 22: 1009–1018 ([pdf]({{ site.url }}/assets/publications/Larsen_etal_2019.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Larsen_etal_2019_Suppl.pdf)
+Larsen ML, Wilhelm SW, <u>Lennon JT</u> (2019) Nutrient stoichiometry shapes microbial coevolution. Ecology Letters 22: 1009–1018 ([pdf]({{ site.url }}/assets/publications/Larsen_etal_2019.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Larsen_etal_2019_Suppl.pdf))
 
 <!--- pub entry --->
 Locey KJ, <u>Lennon JT</u> (2019) A residence-time framework for biodiversity. American Naturalist 194: 59-72 ([pdf]({{ site.url }}/assets/publications/Locey_Lennon_2019.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Locey_Lennon_2019_Suppl.pdf), [code]({{ site.url }}/assets/publications/Locey_Lennon_2019_code.zip))
@@ -271,7 +271,7 @@ Locey KJ, <u>Lennon JT</u> (2016) Powerful predictions of biodiversity from ecol
 
 
 <!--- pub entry --->
-Locey KJ, <u>Lennon JT</u> (2016) Scaling laws predict global microbial diversity. Proceedings of the National Academy of Sciences of the United States of America 113: 5970-5975 ([pdf]({{ site.url }}/assets/publications/Locey_Lennon_2016.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Locey_Lennon_SI_2016.pdf), [PNAS Commentary]({{ site.url }}/assets/publications/Pedros-Alio_Manrubia_2016.pdf), [F1000 Recommendaton](https://f1000.com/prime/726327633))
+Locey KJ, <u>Lennon JT</u> (2016) Scaling laws predict global microbial diversity. Proceedings of the National Academy of Sciences of the United States of America 113: 5970-5975 ([pdf]({{ site.url }}/assets/publications/Locey_Lennon_2016.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Locey_Lennon_2016_SI.pdf) [PNAS Commentary]({{ site.url }}/assets/publications/Pedros-Alio_Manrubia_2016.pdf), [F1000 Recommendaton](https://f1000.com/prime/726327633))
 
 
 <!--- pub entry --->
@@ -279,7 +279,7 @@ Locey KJ, <u>Lennon JT</u> (2016) Scaling laws predict global microbial diversit
 
 
 <!--- pub entry --->
-Muscarella ME, Jones SE, <u>Lennon JT</u> (2016) Species sorting along a subsidy gradient alters community stability. Ecology 97: 2034-2043 ([pdf]({{ site.url }}/assets/publications/Muscarella_etal_2016.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Muscarella_etal_2015_Supplement.pdf))
+Muscarella ME, Jones SE, <u>Lennon JT</u> (2016) Species sorting along a subsidy gradient alters community stability. Ecology 97: 2034-2043 ([pdf]({{ site.url }}/assets/publications/Muscarella_etal_2016.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Muscarella_etal_Supplement_2016.pdf))
 
 
 <!--- pub entry --->
