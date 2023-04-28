@@ -165,14 +165,13 @@ Salazar A, <u>Lennon JT</u>, Dukes JS (2019) Microbial activity improves predict
 
 
 <!--- pub entry --->
-Muscarella ME, Boot CM, Broeckling CD, <u>Lennon JT</u> (2019) Resource diversity structures aquatic bacterial communities. ISMEJ 13: 2183–2195 ([pdf]({{ site.url }}/assets/publications/Muscarella_etal_2019.pdf),[Supplementary Information]({{ site.url }}/assets/publications/Muscarella_etal_Supplement_2019.pdf))
+Muscarella ME, Boot CM, Broeckling CD, <u>Lennon JT</u> (2019) Resource diversity structures aquatic bacterial communities. ISMEJ 13: 2183–2195 ([pdf]({{ site.url }}/assets/publications/Muscarella_etal_2019.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Muscarella_etal_Supplement_2019.pdf))
 
 <!--- pub entry --->
-Larsen ML, Wilhelm SW, <u>Lennon JT</u> (2019) Nutrient stoichiometry shapes microbial coevolution. Ecology Letters 22: 1009–1018 ([pdf]({{ site.url }}/assets/publications/Larsen_etal_2019.pdf), [Supplementary Information]({{ site.url }}/assets/Larsen_etal_2019_Suppl.pdf))
-
+Larsen ML, Wilhelm SW, <u>Lennon JT</u> (2019) Nutrient stoichiometry shapes microbial coevolution. Ecology Letters 22: 1009–1018 ([pdf]({{ site.url }}/assets/publications/Larsen_etal_2019.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Larsen_etal_2019_Suppl.pdf)
 
 <!--- pub entry --->
-Locey KJ, <u>Lennon JT</u> (2019) A residence-time framework for biodiversity. American Naturalist 194: 59-72 ([pdf]({{ site.url }}/assets/publications/Locey_Lennon_2019.pdf), [Supplementary Information]({{ site.url }}/assets/Locey_Lennon_2019_Suppl.pdf), [code]({{ site.url }}/assets/publications/Locey_Lennon_2019_code.zip))
+Locey KJ, <u>Lennon JT</u> (2019) A residence-time framework for biodiversity. American Naturalist 194: 59-72 ([pdf]({{ site.url }}/assets/publications/Locey_Lennon_2019.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Locey_Lennon_2019_Suppl.pdf), [code]({{ site.url }}/assets/publications/Locey_Lennon_2019_code.zip))
 
 
 <!--- pub entry --->
@@ -180,7 +179,7 @@ Sprunger CD, Culman SW, Peralta AP, Tianna DuPont ST, <u>Lennon JT</u>, Snapp SS
 
 
 <!--- pub entry --->
-Shade A, Dunn RR, Blowes SA, Keil P, Bohannan BMJ, M Hermann, K Küsel, <u>Lennon JT</u>, Sanders NJ, D Storch, J Chase (2018) Macroecology to unite all biodiversity great and small. Trends in Ecology and Evolution 33: 731-744 ([pdf]({{ site.url }}/assets/publications/Shade_etal_2018.pdf), [Supplementary Information]({{ site.url }}/assets/Shade_etal_2018_Suppl.pdf))
+Shade A, Dunn RR, Blowes SA, Keil P, Bohannan BMJ, M Hermann, K Küsel, <u>Lennon JT</u>, Sanders NJ, D Storch, J Chase (2018) Macroecology to unite all biodiversity great and small. Trends in Ecology and Evolution 33: 731-744 ([pdf]({{ site.url }}/assets/publications/Shade_etal_2018.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Shade_etal_2018_Suppl.pdf))
 
 
 <!--- pub entry --->
@@ -200,7 +199,7 @@ Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, 
 
 
 <!--- pub entry --->
-Peralta AL, Sun Y, McDaniel MD, <u>Lennon JT</u> (2018) Crop diversity increases disease suppressive capacity of soil microbiomes. Ecosphere 9: e02235 ([pdf]({{ site.url }}/assets/publications/Peralta_etal_2018.pdf), [Supplementary Information]({{ site.url }}/assets/Peralta_etal_2018_Suppl.pdf))
+Peralta AL, Sun Y, McDaniel MD, <u>Lennon JT</u> (2018) Crop diversity increases disease suppressive capacity of soil microbiomes. Ecosphere 9: e02235 ([pdf]({{ site.url }}/assets/publications/Peralta_etal_2018.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Peralta_etal_2018_Suppl.pdf))
 
 
 <!--- pub entry --->
@@ -212,7 +211,7 @@ Schimmelmann A, Streil T, Fernandez-Cortes A, Cuezva S, <u>Lennon JT</u> (2018) 
 
 
 <!--- pub entry --->
-Shoemaker WR, Locey KJ, <u>Lennon JT</u> (2017) A macroecological theory of microbial biodiversity. Nature Ecology and Evolution 1: 0107 ([pdf]({{ site.url }}/assets/publications/Shoemaker_etal_2017.pdf), [Supplementary Information]({{ site.url }}/assets/Shoemaker_etal_2017_Supplement.pdf))
+Shoemaker WR, Locey KJ, <u>Lennon JT</u> (2017) A macroecological theory of microbial biodiversity. Nature Ecology and Evolution 1: 0107 ([pdf]({{ site.url }}/assets/publications/Shoemaker_etal_2017.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Shoemaker_etal_2017_Supplement.pdf))
 
 
 <!--- pub entry --->
@@ -225,7 +224,7 @@ Nguyễn-Thuỳ D, Schimmelmann A, Nguyễn-Văn H, Drobniak A, <u>Lennon JT</u>
 
 <!--- pub entry --->
 Lau JA, <u>Lennon JT</u>, Heath KD (2017) Trees harness the power of microbes to survive
-climate change. Proceedings of the National Academy of Sciences of the United States of America 114: 11009-11011 ([Commmentary]({{ site.url }}/assets/publications/Lau_etal_2017.pdf) on [Gehring et al. 2017]({{ site.url }}/assets/Gehring_etal_2017.pdf))
+climate change. Proceedings of the National Academy of Sciences of the United States of America 114: 11009-11011 ([Commmentary]({{ site.url }}/assets/publications/Lau_etal_2017.pdf) on [Gehring et al. 2017]({{ site.url }}/assets/publications/Gehring_etal_2017.pdf)
 
 
 <!--- pub entry --->
@@ -264,22 +263,23 @@ Moger-Reischer RZ, <u>Lennon JT</u> (2017) Book Review. The human superorganism:
 Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emergence of ecological patterns. PeerJ Preprints. 5:e1469v3 ([pdf]({{ site.url }}/assets/publications/Locey_Lennon_2017.pdf))
 
 <!--- pub entry --->
-Locey KJ, <u>Lennon JT</u> (2016) Powerful predictions of biodiversity from ecological models and scaling laws. Proceedings of the National Academy of Sciences of the United States of America 113: E5097 ([Reply]({{ site.url }}/assets/publications/Lau_etal_2017.pdf) to [Willis]({{ site.url }}/assets/Willis_2016.pdf))
-	
-
-<!--- pub entry --->
-<u>Lennon JT</u>, Locey KJ (2016) The underestimation of global microbial diversity. mBio 7: e01298-16 [(pdf)]({{ site.url }}/assets/publications/Lennon_Locey_2016_mBio.pdf); a correspondence [to]({{ site.url }}/assets/publications/Amann_Rosello-Mora_2016_commentary.pdf) and [from]({{ site.url }}/assets/Amann_Rosello-Mora_2016_response.pdf) Amann and Rosello-Mora
+Locey KJ, <u>Lennon JT</u> (2016) Powerful predictions of biodiversity from ecological models and scaling laws. Proceedings of the National Academy of Sciences of the United States of America 113: E5097 ([Reply]({{ site.url }}/assets/publications/Locey_Lennon_2016_Reply.pdf) to [Willis]({{ site.url }}/assets/publications/Willis_2016.pdf))
 
 
 <!--- pub entry --->
-Locey KJ, <u>Lennon JT</u> (2016) Scaling laws predict global microbial diversity. Proceedings of the National Academy of Sciences of the United States of America 113: 5970-5975 ([pdf]({{ site.url }}/assets/publications/Locey_Lennon_2016.pdf), [Supplementary Information]({{ site.url }}/assets/Locey_Lennon_2016_SI.pdf), [PNAS Commentary]({{ site.url }}/assets/Pedros-Alio_Manrubia_2016.pdf), [F1000 Recommendaton](https://f1000.com/prime/726327633))
+<u>Lennon JT</u>, Locey KJ (2016) The underestimation of global microbial diversity. mBio 7: e01298-16 [(pdf)]({{ site.url }}/assets/publications/Lennon_Locey_2016_mBio.pdf); a correspondence [to]({{ site.url }}/assets/publications/Amann_Rosello-Mora_2016_commentary.pdf) and [from]({{ site.url }}/assets/publications/Amann_Rosello-Mora_2016_response.pdf))
+
+
+<!--- pub entry --->
+Locey KJ, <u>Lennon JT</u> (2016) Scaling laws predict global microbial diversity. Proceedings of the National Academy of Sciences of the United States of America 113: 5970-5975 ([pdf]({{ site.url }}/assets/publications/Locey_Lennon_2016.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Locey_Lennon_SI_2016.pdf), [PNAS Commentary]({{ site.url }}/assets/publications/Pedros-Alio_Manrubia_2016.pdf), [F1000 Recommendaton](https://f1000.com/prime/726327633))
+
 
 <!--- pub entry --->
 <u>Lennon JT</u>, Lehmkuhl (2016) A trait-based approach to biofilms in soil. Environmental Microbiology 18: 2732–2742 ([pdf]({{ site.url }}/assets/publications/Lennon_Lehmkuhl_2016.pdf))
 
 
 <!--- pub entry --->
-Muscarella ME, Jones SE, <u>Lennon JT</u> (2016) Species sorting along a subsidy gradient alters community stability. Ecology 97: 2034-2043 ([pdf]({{ site.url }}/assets/publications/Muscarella_etal_2016.pdf), [Supplementary Information]({{ site.url }}/assets/Muscarella_etal_Supplement_2016.pdf))
+Muscarella ME, Jones SE, <u>Lennon JT</u> (2016) Species sorting along a subsidy gradient alters community stability. Ecology 97: 2034-2043 ([pdf]({{ site.url }}/assets/publications/Muscarella_etal_2016.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Muscarella_etal_2015_Supplement.pdf))
 
 
 <!--- pub entry --->
