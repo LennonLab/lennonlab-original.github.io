@@ -107,95 +107,95 @@ feature_row10:
 
 ## Former Lab Members
 
-#### Postdocs and Graduate Students
+#### *Postdocs and Graduate Students*
 ---
 
-**Daniel Schwartz**, Postdoc, Microbiologist at DSM<br>
+*Daniel Schwartz*, Postdoc (Microbiologist at DSM)<br>
 
-**Pat Wall**, Master's student<br>
+*Pat Wall*, MS<br>
 
-**Ford Fishman**, Master's student, Data Analysis Specialist at Brandeis University <br>
+*Ford Fishman*, MS (Data Analysis Specialist at Brandeis University) <br>
 
-**Roy Moger-Reischer**, Ph.D. student, Scientist at Arzeda<br>
+*Roy Moger-Reischer*, Ph.D. (Scientist at Arzeda)<br>
 
-**Will Shoemaker**, Ph.D. student, Postdoc at The Abdus Salam International Centre for Theoretical Physics<br>
+*Will Shoemaker*, Ph.D. (Postdoc at The Abdus Salam International Centre for Theoretical Physics)<br>
 
-**Nathan Wisnoski**, Ph.D. student, Assistant Professor at Mississippi State University<br>
+*Nathan Wisnoski*, Ph.D. (Assistant Professor, Mississippi State University)<br>
 
-**Megan Behringer**, Postdoctoral Researcher, Asssistant Professor Vanderbilt University<br>
+*Megan Behringer*, Postdoc (Asssistant Professor, Vanderbilt University)<br>
 
-**Chian-Jun Chen**, Graduate Student, Bioetchnologist<br>
+*Chian-Jun Chen*, MS<br>
 
-**Jordan Bird**, Postdoctoral Researcher, Bioinformatician, University of Arkansas for Medical Sciences<br>
+*Jordan Bird*, Postdoc (Bioinformatician, University of Arkansas for Medical Sciences)<br>
 
-**Ken Locey**, Postdoctoral Researcher, Data Analyst, Rush University Medical Center<br>
+*Ken Locey*, Postdoc (Data Analyst, Rush University Medical Center)<br>
 
-**Venus Kuo**, Master's Student, Data Scientist<br>
+*Venus Kuo*, MS<br>
 
-**Kevin Webster**, Ph.D. student, Assistant Professor Diné College<br>
+*Kevin Webster*, Ph.D. (Assistant Professor Diné College)<br>
 
-**Mario Muscarella**, Ph.D. student, Assistant Professor University of Alaska Fairbanks<br>
+*Mario Muscarella*, Ph.D. (Assistant Professor University of Alaska Fairbanks)<br>
 
-**Megan Larsen**, Ph.D. student, Data Scientist at Pivot Bio<br>
+*Megan Larsen*, Ph.D. (Data Scientist at Pivot Bio)<br>
 
-**Ariane Peralta**, Postdoctoral Researcher, Associate Professor East Carolina University<br>
+*Ariane Peralta*, Postdoc (Associate Professor East Carolina University)<br>
 
-**Sarah Placella**, Postdoctoral Researcher, CEO Root Applied Sciences<br>
+*Sarah Placella*, Postdoc (CEO Root Applied Sciences)<br>
 
-**Stuart Jones**, Postdoctoral Researcher, Professor University of Notre Dame<br>
+*Stuart Jones**, Postdoc (Professor University of Notre Dame)<br>
 
-**Ed Hall**, Postdoctoral Researcher, Associate Professor Colorado State University<br>
+*Ed Hall*, Postdoc (Associate Professor Colorado State University)<br>
 
-**Zach Aanderud**, Postdoctoral Researcher, Professor at Brigham Young University<br>
+*Zach Aanderud*, Postdoc (Professor at Brigham Young University)<br>
 
-**Evan Kane**, Postdoctoral Researcher, Associate Professor Michigan Tech<br>
+*Evan Kane*, Postdoc (Associate Professor Michigan Tech)<br>
 
-**Kali Bird**, Master's Student, Associate Director Catksill Center for Conservation and Development<br>
+*Kali Bird*, MS (Associate Director Catksill Center for Conservation and Development)<br>
 
 
 
-#### Visiting Scholars and Teachers
+#### *Visiting Scholars and Teachers*
 ---
-**Melany Fisk**, Professor, Miami University<br>
+*Melany Fisk*, Professor, Miami University<br>
 
-**Sarah Bray**, Professor, Transylvania University<br>
+*Sarah Bray*, Professor, Transylvania University<br>
 
-**Marty Green**, Teacher, Plainwell Middle School<br>
+*Marty Green*, Teacher, Plainwell Middle School<br>
 
-**Sandy Erwin**, Teacher, Harper Creek High School<br>
+*Sandy Erwin*, Teacher, Harper Creek High School<br>
 
 
 
-#### Research Technicians and Assistants
+#### *Research Technicians and Assistants*
 ---
-**Brent Lehmkuhl**, Technician<br>
+*Brent Lehmkuhl*, Technician<br>
 
-**Emily Long**, Technician<br>
+*Emily Long*, Technician<br>
 
-**Kyle Miller**, Technician<br>
+*Kyle Miller*, Technician<br>
 
-**McKenzie Givens**, Technician<br>
+*McKenzie Givens*, Technician<br>
 
-**Steve Reynolds**, Technician<br>
+*Steve Reynolds*, Technician<br>
 
-**Evgeniya Polezhaeva**, Technician<br>
+*Evgeniya Polezhaeva*, Technician<br>
 
-**Sophie Kranke**, Technician<br>
+*Sophie Kranke*, Technician<br>
 
-**Sarah Widney**, Technician<br>
+*Sarah Widney*, Technician<br>
 
-**Sarah Kuenzel**, Technician<br>
+*Sarah Kuenzel*, Technician<br>
 
-**Brent Nowinski**, Technician<br>
+*Brent Nowinski*, Technician<br>
 
-**Megan Lowenberg**, Technician<br>
+*Megan Lowenberg*, Technician<br>
 
-**Lewis Wooster**, Technician<br>
+*Lewis Wooster*, Technician<br>
 
-**Rob Morrison**, Technician<br>
+*Rob Morrison*, Technician<br>
 
-**Cathy McMinn**, Technician<br>
+*Cathy McMinn** Technician<br>
 
-**Justin Rensch**, Assistant<br>
+*Justin Rensch*, Assistant<br>
 
-**Bryan Wallace**, Assistant<br>
+*Bryan Wallace*, Assistant<br>
