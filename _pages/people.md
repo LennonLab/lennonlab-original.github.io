@@ -105,7 +105,11 @@ feature_row10:
 {% include feature_row id="feature_row10" type="left" %}
 
 ---
-### Postdocs and Graduate Students
+
+## Former Lab Members
+
+#### Postdocs and Graduate Students
+---
 
 **Daniel Schwartz**, Postdoc, Microbiologist at DSM<br>
 
@@ -149,7 +153,10 @@ feature_row10:
 
 **Kali Bird**, Master's Student, Associate Director Catksill Center for Conservation and Development<br>
 
-### Visiting Scholars and Teachers
+
+
+#### Visiting Scholars and Teachers
+---
 **Melany Fisk**, Professor, Miami University<br>
 
 **Sarah Bray**, Professor, Transylvania University<br>
@@ -159,8 +166,9 @@ feature_row10:
 **Sandy Erwin**, Teacher, Harper Creek High School<br>
 
 
-### Research Technicians and Assistants
 
+#### Research Technicians and Assistants
+---
 **Brent Lehmkuhl**, Technician<br>
 
 **Emily Long**, Technician<br>
