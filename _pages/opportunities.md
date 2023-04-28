@@ -1,12 +1,11 @@
 ---
 layout: single
 classes: wide
-<!--title: Opportunities-->
+title: 
 author_profile: true
 permalink: /opportunities/
 header:
   image: /assets/images/megaterium.jpg
-
 ---
 
 
