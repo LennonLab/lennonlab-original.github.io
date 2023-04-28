@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lennon Lab"
+  #name             : "Lennon Lab"
   avatar           : "/assets/images/plaques.png"
-  bio              : "Microbial Biodiversity"
+  #bio              : "Microbial Biodiversity"
   location         : "Bloomington, Indiana"
   links:
     - label: "Email"
