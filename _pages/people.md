@@ -81,7 +81,6 @@ feature_row10:
     excerpt: "**Undergradate student** <br> 
               *Research Interests*: Division of labor among engineered strains of spore-forming bacteria using experimental evolution"
 
----
 
 ---
 {% include feature_row id="feature_row1" type="left" %}
