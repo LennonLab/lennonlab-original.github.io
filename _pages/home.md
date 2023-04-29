@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/plaques.png
   overlay_filter: 0.30
 excerpt: 
-  Microbial Biodiversity <br>
+  Ecology and evolution of microbial systems <br>
   Department of Biology <br>
   Indiana University
 

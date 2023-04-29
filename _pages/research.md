@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-<!--title: Research-->
+title: Research
 author_profile: true
 permalink: /research/
 header:
