@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/plaques.png
   overlay_filter: 0.30
 excerpt: 
-  Evolutionary ecology of microbial systems <br>
+  Evolutionary ecology of microbial life <br>
   Department of Biology <br>
   Indiana University
 
