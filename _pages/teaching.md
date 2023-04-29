@@ -23,7 +23,7 @@ feature_row3:
     excerpt: "In this graduate-level class, we focus on the microbiomes of different hosts (humans, model systems, and non-model systems). We highlight the genetic and immunological processes involved in the microbiome that influence the behavior, physiology, ecology, and fitness of their hosts. Products from the course include a comprehensive, open-access bibliography and the generation of a conceptual model for approaching microbiome research."
     
     
----
+
 
 ---
 {% include feature_row id="feature_row1" type="center" %}
