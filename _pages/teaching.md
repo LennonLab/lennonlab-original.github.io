@@ -15,7 +15,7 @@ feature_row2:
   - image_path: /assets/images/microbiomes.bw.png
     alt: "L472"
     title: "Microbiomes: host and environmental health"
-    excerpt: "In this [upper-level course]({{ site.url }}/assets/teaching/L472_Advert.pdf), we cover fundamental concepts of ecology and evolutionary biology as they pertain to to microbial systems. In addition to lectures and discussion of papers from the primary literature, we engage in biodiversity projects that result in oral presentations and a contribution to [MicrobeWiki](https://microbewiki.kenyon.edu/index.php/MicrobeWiki), a open resource on microbes and microbiology. Course offered in spring semesters. See course [syllabus]({{ site.url }}/assets/teaching/L472_Syllabus.pdf) and [schedule]({{ site.url }}/assets/teaching/L472_Schedule.pdf)."
+    excerpt: "In this [upper-level course]({{ site.url }}/assets/teaching/Aadnerud_etal_2016.pdf), we cover fundamental concepts of ecology and evolutionary biology as they pertain to to microbial systems. In addition to lectures and discussion of papers from the primary literature, we engage in biodiversity projects that result in oral presentations and a contribution to [MicrobeWiki](https://microbewiki.kenyon.edu/index.php/MicrobeWiki), a open resource on microbes and microbiology. Course offered in spring semesters. See course [syllabus]({{ site.url }}/assets/teaching/L472_Syllabus.pdf) and [schedule]({{ site.url }}/assets/teaching/L472_Schedule.pdf)."
 feature_row3:
   - image_path: /assets/images/colormicro.bw.png
     alt: "Microbiomes"
