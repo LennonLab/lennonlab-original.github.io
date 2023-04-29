@@ -11,7 +11,6 @@ feature_row1:
     alt: "QB"
     title: "Quantitative Biodiversity (QB)"
     excerpt: "In this graduate-level course we focus on theory, patterns, metrics, and tools used to study biodiversity. We calculate diversity metrics, generate and quantify diversity relationships, visualize multivariate data, and conduct phylogenetic tests. We use modern statistical computing and graphics environments (i.e., R), as well as version control tools (i.e., [GitHub](https://github.com/QuantitativeBiodiversity)). See [course website](https://qbiodiversity.netlify.app/) for more information." 
-
 feature_row2:
   - image_path: /assets/images/microbiomes.bw.png
     alt: "L472"
