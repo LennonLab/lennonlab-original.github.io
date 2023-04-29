@@ -24,6 +24,7 @@ feature_row3:
 
 ---
 
+From test tubes to the globe, we study the ecology and evolution of microbial communities. We are interested in the factors that generate and maintain microbial biodiversity. In turn, we seek to understand the implications of microbial diversity for ecosystem functioning. To address these questions, our team uses a combination of molecular biology, modeling, data mining and synthesis, laboratory experiments, and field surveys in a wide range of habitats. 
 
 {% include feature_row id="feature_row1" type="center" %}
 
@@ -31,5 +32,3 @@ feature_row3:
 
 {% include feature_row id="feature_row3" type="center" %}
 
----
-From test tubes to the globe, we study the ecology and evolution of microbial communities. We are interested in the factors that generate and maintain microbial biodiversity. In turn, we seek to understand the implications of microbial diversity for ecosystem functioning. To address these questions, our team uses a combination of molecular biology, modeling, data mining and synthesis, laboratory experiments, and field surveys in a wide range of habitats. For additional information and news, visit the [lab wiki](https://lennon.bio.indiana.edu/index.php?title=Main_Page). Data and code for our projects can be found on [GitHub](https://github.com/LennonLab).
