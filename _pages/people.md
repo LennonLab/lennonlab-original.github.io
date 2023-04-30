@@ -109,47 +109,47 @@ feature_row10:
 #### Postdocs and Graduate Students
 ---
 
-*Daniel Schwartz*, Postdoc (Microbiologist at DSM)<br>
+*[Daniel Schwartz](https://www.linkedin.com/in/danschw/)*, Postdoc (Microbiologist at DSM)<br>
 
-*Pat Wall*, MS<br>
+*[Pat Wall](https://www.linkedin.com/in/pat-wall-56a082185/)*, MS<br>
 
-*Ford Fishman*, MS (Data Analysis Specialist at Brandeis University) <br>
+*[Ford Fishman](https://www.linkedin.com/in/ford-fishman-64a698203/)*, MS (Data Analysis Specialist at Brandeis University) <br>
 
-*Roy Moger-Reischer*, Ph.D. (Scientist at Arzeda)<br>
+*[Roy Moger-Reischer](https://www.linkedin.com/in/roy-moger-reischer/)*, Ph.D. (Scientist at Arzeda)<br>
 
-*Will Shoemaker*, Ph.D. (Postdoc at The Abdus Salam International Centre for Theoretical Physics)<br>
+*[Will Shoemaker](https://wrshoemaker.github.io/)*, Ph.D. (Postdoc at The Abdus Salam International Centre for Theoretical Physics)<br>
 
-*Nathan Wisnoski*, Ph.D. (Assistant Professor, Mississippi State University)<br>
+*[Nathan Wisnoski](https://www.nathanwisnoski.com/)*, Ph.D. (Assistant Professor, Mississippi State University)<br>
 
-*Megan Behringer*, Postdoc (Asssistant Professor, Vanderbilt University)<br>
+*[Megan Behringer](https://as.vanderbilt.edu/biological-sciences/bio/megan-behringer/)*, Postdoc (Asssistant Professor, Vanderbilt University)<br>
 
 *Chian-Jun Chen*, MS<br>
 
-*Jordan Bird*, Postdoc (Bioinformatician, University of Arkansas for Medical Sciences)<br>
+*[Jordan Bird](https://www.linkedin.com/in/jordan-bird-9291a357/)*, Postdoc (Bioinformatician, University of Arkansas for Medical Sciences)<br>
 
-*Ken Locey*, Postdoc (Data Analyst, Rush University Medical Center)<br>
+*[Ken Locey](https://www.weecology.org/author/ken-locey/)*, Postdoc (Data Analyst, Rush University Medical Center)<br>
 
 *Venus Kuo*, MS<br>
 
-*Kevin Webster*, Ph.D. (Assistant Professor Diné College)<br>
+*[Kevin Webster](https://websterkgd.com/)*, Ph.D. (Assistant Professor Diné College)<br>
 
-*Mario Muscarella*, Ph.D. (Assistant Professor University of Alaska Fairbanks)<br>
+*[Mario Muscarella](https://muscarellalab.github.io/)*, Ph.D. (Assistant Professor University of Alaska Fairbanks)<br>
 
-*Megan Larsen*, Ph.D. (Data Scientist at Pivot Bio)<br>
+*[Megan Larsen](https://www.linkedin.com/in/meganllarsen/)*, Ph.D. (Data Scientist at Pivot Bio)<br>
 
-*Ariane Peralta*, Postdoc (Associate Professor East Carolina University)<br>
+*[Ariane Peralta](https://www.peraltalab.com/)*, Postdoc (Associate Professor East Carolina University)<br>
 
-*Sarah Placella*, Postdoc (CEO Root Applied Sciences)<br>
+*[Sarah Placella](https://www.linkedin.com/in/sarah-placella-0a21565/)*, Postdoc (CEO Root Applied Sciences)<br>
 
-*Stuart Jones*, Postdoc (Professor University of Notre Dame)<br>
+*[Stuart Jones](https://www3.nd.edu/~sjones20/)*, Postdoc (Professor University of Notre Dame)<br>
 
-*Ed Hall*, Postdoc (Associate Professor Colorado State University)<br>
+*[Ed Hall](https://www.nrel.colostate.edu/investigator/ed-hall-homepage/)*, Postdoc (Associate Professor Colorado State University)<br>
 
-*Zach Aanderud*, Postdoc (Professor at Brigham Young University)<br>
+*[Zach Aanderud](https://pws.byu.edu/zach-aanderud-lab)*, Postdoc (Professor at Brigham Young University)<br>
 
-*Evan Kane*, Postdoc (Associate Professor Michigan Tech)<br>
+*[Evan Kane](https://www.mtu.edu/forest/about/faculty-staff/faculty/kane/)*, Postdoc (Associate Professor Michigan Tech)<br>
 
-*Kali Bird*, MS (Associate Director Catksill Center for Conservation and Development)<br>
+*[Kali Bird](https://www.linkedin.com/in/kali-bird-0a039964/)*, MS (Deputy Executive Director, Catksill Center for Conservation and Development)<br>
 
 
 
@@ -198,3 +198,99 @@ feature_row10:
 *Justin Rensch*, Assistant<br>
 
 *Bryan Wallace*, Assistant<br>
+
+
+
+#### Undergraduate Researchers
+---
+
+*Melih Çakar*, Middle East Technical University<br>
+
+*Danni Boylan*, Indiana University<br>
+
+*Bryan Julijanto*, Indiana University<br>
+
+*Elizabeth ("Betsy") Snider*, Indiana University<br>
+
+*Katarina Walker*, Indiana University<br>
+
+*Kelsey McKenzie*, Indiana University<br>
+
+*Ashley Justice*, Indiana University<br>
+
+*John "JD" French*, Indiana University<br>
+
+*Benjamin Kelly*, Indiana University<br>
+
+*Jessica Zellinger*, Indiana University<br>
+
+*Max Zaret*, Indiana University<br>
+
+*Derek Hocker*, Indiana University<br>
+
+*Cari Rice*, Indiana University<br>
+
+*Mollie Carrison*, Indiana University<br>
+
+*SydneyEllen Gooding*, Transylvania University<br>
+
+*Mary Wallace*, Transylvania University<br>
+
+*Benjamin Fleet*, Indiana University<br>
+
+*Bianca Blaettner*, Indiana University<br>
+
+*Catherine Meador*, Indiana University<br>
+
+*Peyton Thomas*, Transylvania University<br>
+
+*Jaylen Beatty*, Transylvania University<br>
+
+*Luke Pryke*, Indiana University<br>
+
+*Drew Meyer*, Indiana University<br>
+
+*Keaton Wieschhaus*, Indiana University<br>
+
+*Sarah Cummins*, Indiana University<br>
+
+*Rachel Ferrill*, Transylvania University<br>
+
+*Jared Brewer*, Transylvania University<br>
+
+*Zachary Wakefield*, Indiana University<br>
+
+*Shanika Daniels*, Indiana University<br>
+
+*Xia Meng Howey*, Indiana University<br>
+
+*Andrew Koultourides*, Indiana University<br>
+
+*Claire Freeman*, Colorado State University<br>
+
+*Ebony Rodgers*, Bennett College<br>
+
+*Sarah Thornburgh*, Drake University<br>
+
+*Taiquitha Robins*, Jackson State University<br>
+
+*Robbie Snyder*, The Ohio State University<br>
+
+*Ben Phillips*, Michigan State University<br>
+
+
+
+#### High School Students
+---
+
+*Ian Schowe*, East Noble High School, Kendallville, IN<br>
+
+*Nicole Nguyen*, Burris Laboratory School, Muncie, IN<br>
+
+*Samuel Iwu*, Indiana Math and Science Academy North, Indianapolis, IN<br>
+
+*Dakayla Calhoun*, Shortridge International Baccalaureate High School, Indianapolis, IN<br>
+
+*Dante Razzo*, Bloomington North High School, Bloomington, IN<br>
+
+*Nick Nelson*, Bishop Noll Institute, Hammond, IN<br>
