@@ -11,7 +11,6 @@ header:
 
 Schwartz DA, Shoemaker WR, Măgălie A, Weitz JS, Lennon JT (2022) 2023) Coevolution with a seed bank. bioRxiv [doi: 10.1101/2023.02.08.527722](https://www.biorxiv.org/content/10.1101/2023.02.08.527722v1)
 
-[upper-level course]({{ site.url }}/assets/teaching/L472_Advert.pdf)
 	
 <!--- pub entry --->	
 Zhou X, <u>Lennon JT</u>, Lu X, Ruan A (In Review) Anthropogenic activities mediate stratification and stability of microbial communities in freshwater sediments.
