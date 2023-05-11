@@ -13,7 +13,7 @@ Schwartz DA, Shoemaker WR, Măgălie A, Weitz JS, Lennon JT (2022) 2023) Coevolu
 
 	
 <!--- pub entry --->	
-Zhou X, <u>Lennon JT</u>, Lu X, Ruan A (In Review) Anthropogenic activities mediate stratification and stability of microbial communities in freshwater sediments.
+Zhou X, <u>Lennon JT</u>, Lu X, Ruan A (In Review) Anthropogenic activities mediate stratification and stability of microbial communities in freshwater sediments. Europe PMC [doi: 0.21203/rs.3.rs-2524837/v1](https://europepmc.org/article/ppr/ppr649798)
 
 	
 <!--- pub entry --->	
