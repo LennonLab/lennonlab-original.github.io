@@ -13,7 +13,7 @@ Schwartz DA, Shoemaker WR, Măgălie A, Weitz JS, Lennon JT (2022) 2023) Coevolu
 
 	
 <!--- pub entry --->	
-Zhou X, <u>Lennon JT</u>, Lu X, Ruan A (In Review) Anthropogenic activities mediate stratification and stability of microbial communities in freshwater sediments. Europe PMC [doi: 0.21203/rs.3.rs-2524837/v1](https://europepmc.org/article/ppr/ppr649798)
+Zhou X, <u>Lennon JT</u>, Lu X, Ruan A (2023) Anthropogenic activities mediate stratification and stability of microbial communities in freshwater sediments. Europe PMC [doi: 0.21203/rs.3.rs-2524837/v1](https://europepmc.org/article/ppr/ppr649798)
 
 	
 <!--- pub entry --->	
@@ -32,7 +32,7 @@ Wu W, Hsieh C, Logares R, <u>Lennon JT</u>, Liu H (In Revision) Selection exceed
 
 
 <!--- pub entry --->		
-Schwartz DA, Rodríguez-Ramos J, Shaffer M, Flynn F, Daly R, Wrighton KC, <u>Lennon JT</u>  (2023) Human-gut phages harbor sporulation genes. mBio e0018223 ([pdf]({{ site.url }}/assets/publications/Schwartz_etal_2023a.pdf)) 
+Schwartz DA, Rodríguez-Ramos J, Shaffer M, Flynn F, Daly R, Wrighton KC, <u>Lennon JT</u> (2023) Human-gut phages harbor sporulation genes. mBio e0018223 ([pdf]({{ site.url }}/assets/publications/Schwartz_etal_2023a.pdf)) 
 
 
 <!--- pub entry --->
