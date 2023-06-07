@@ -8,10 +8,10 @@ header:
   image: /assets/images/megaterium.jpg
 ---
 
+<!--- pub entry --->
+Schwartz DA, Shoemaker WR, Măgălie A, Weitz JS, Lennon JT (2022) Coevolution with a seed bank. ISMEJ 17: 10.1101/2023.02.08.527722 ([pdf]({{ site.url }}/assets/publications/Schwartz_etal_2023b.pdf)) 
 
-Schwartz DA, Shoemaker WR, Măgălie A, Weitz JS, Lennon JT (2022) 2023) Coevolution with a seed bank. bioRxiv [doi: 10.1101/2023.02.08.527722](https://www.biorxiv.org/content/10.1101/2023.02.08.527722v1)
 
-	
 <!--- pub entry --->	
 Zhou X, <u>Lennon JT</u>, Lu X, Ruan A (2023) Anthropogenic activities mediate stratification and stability of microbial communities in freshwater sediments. Europe PMC [doi: 0.21203/rs.3.rs-2524837/v1](https://europepmc.org/article/ppr/ppr649798)
 
