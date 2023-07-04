@@ -9,11 +9,15 @@ header:
 ---
 
 <!--- pub entry --->
+Moger-Reischer RZ, Glass JI, Wise KS, Sun L, Bittencourt DMC, Lynch M, <u>Lennon JT</u> (2021) Evolution of a minimal cell. bioRxiv [doi: 10.1101/2021.06.30.450565](https://www.biorxiv.org/content/10.1101/2021.06.30.450565v3)
+
+
+<!--- pub entry --->
 Schwartz DA, Shoemaker WR, Măgălie A, Weitz JS, Lennon JT (2022) Coevolution with a seed bank. ISMEJ 17: 10.1101/2023.02.08.527722 ([pdf]({{ site.url }}/assets/publications/Schwartz_etal_2023b.pdf)) 
 
 
 <!--- pub entry --->	
-Zhou X, <u>Lennon JT</u>, Lu X, Ruan A (2023) Anthropogenic activities mediate stratification and stability of microbial communities in freshwater sediments. Europe PMC [doi: 0.21203/rs.3.rs-2524837/v1](https://europepmc.org/article/ppr/ppr649798)
+Zhou X, <u>Lennon JT</u>, Lu X, Ruan A (2023) Anthropogenic activities mediate stratification and stability of microbial communities in freshwater sediments. Europe PMC [doi: 0.21203/rs.3.rs-2524837/v1](https://europepmc.org/article/ppr/ppr649798) In Press at Microbiomes
 
 	
 <!--- pub entry --->	
@@ -23,9 +27,6 @@ Hu A, Jang K-S, Tanentzap AJ, Zhao W, <u>Lennon JT</u>, Liu J, Li M, Stegen JC, 
 <!--- pub entry --->
 Fishman FJ, <u>Lennon JT</u> (2022) Macroevolutionary constraints on global microbial diversity. bioRxiv [doi: 10.1101/2022.06.04.494835/](https://www.biorxiv.org/content/10.1101/2022.06.04.494835v1)
 
-
-<!--- pub entry --->
-Moger-Reischer RZ, Glass JI, Wise KS, Sun L, Bittencourt DMC, Lynch M, <u>Lennon JT</u> (2021) Evolution of a minimal cell. bioRxiv [doi: 10.1101/2021.06.30.450565](https://www.biorxiv.org/content/10.1101/2021.06.30.450565v3)
 
 <!--- pub entry --->
 Wu W, Hsieh C, Logares R, <u>Lennon JT</u>, Liu H (In Revision) Selection exceeds homogenizing dispersal in shaping highly connected bacterial communities along strong environmental gradients.	
