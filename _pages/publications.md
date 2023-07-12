@@ -40,7 +40,7 @@ Schwartz DA, Rodríguez-Ramos J, Shaffer M, Flynn F, Daly R, Wrighton KC, <u>Len
 Wisnoski NI, <u>Lennon JT</u> (2023) Scaling up and down: movement ecology for microorganisms. Trends in Microbiology 31: 242-253 ([pdf]({{ site.url }}/assets/publications/Wisnoski_Lennon_2023.pdf)) 
 
 <!--- pub entry --->
-Măgălie A, Schwartz DA, <u>Lennon JT</u>, Weitz JS (2023) Optimal dormancy strategies in fluctuating environments given delays in phenotypic switching. Journal of Theoretical Biology ([pdf]({{ site.url }}/assets/publications/Magalie_etal_2023.pdf)) 
+Măgălie A, Schwartz DA, <u>Lennon JT</u>, Weitz JS (2023) Optimal dormancy strategies in fluctuating environments given delays in phenotypic switching. Journal of Theoretical Biology 561: ([pdf]({{ site.url }}/assets/publications/Magalie_etal_2023.pdf)) 
 
 
 <!--- pub entry --->
