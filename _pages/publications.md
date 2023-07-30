@@ -13,7 +13,7 @@ Moger-Reischer RZ, Glass JI, Wise KS, Sun L, Bittencourt DMC, Lehmkuhl BK, Schoo
 
 
 <!--- pub entry --->
-Schwartz DA, Shoemaker WR, Măgălie A, Weitz JS, Lennon JT (2022) Coevolution with a seed bank. ISMEJ 17: 10.1101/2023.02.08.527722 ([pdf]({{ site.url }}/assets/publications/Schwartz_etal_2023b.pdf)) 
+Schwartz DA, Shoemaker WR, Măgălie A, Weitz JS, Lennon JT (2022) Bacteria-phage coevolution with a seed bank. ISMEJ 17: 10.1101/2023.02.08.527722 ([pdf]({{ site.url }}/assets/publications/Schwartz_etal_2023b.pdf)) 
 
 
 <!--- pub entry --->	
@@ -25,7 +25,7 @@ Hu A, Jang K-S, Tanentzap AJ, Zhao W, <u>Lennon JT</u>, Liu J, Li M, Stegen JC, 
 
 	
 <!--- pub entry --->
-Fishman FJ, <u>Lennon JT</u> (2022) Macroevolutionary constraints on global microbial diversity. bioRxiv [doi: 10.1101/2022.06.04.494835/](https://www.biorxiv.org/content/10.1101/2022.06.04.494835v1)
+Fishman FJ, <u>Lennon JT</u> (2023) Macroevolutionary constraints on global microbial diversity. bioRxiv [doi: 10.1101/2022.06.04.494835/](https://www.biorxiv.org/content/10.1101/2022.06.04.494835v1) In press at Ecology and Evolution
 
 
 <!--- pub entry --->
@@ -110,7 +110,7 @@ Kuo V, Lehmkuhl BK <u>Lennon JT</u> (2021) Resuscitation of the microbial seed b
 
 	
 <!--- pub entry --->
-<u>Lennon JT</u>, van der Elst LA, Mueller EA, Gumennik A (2021) Gut bioreactor and method for making the same. United States Pattent Application. Pub. No. US 2021/0332314 A1 ([pdf)]({{ site.url }}/assets/publications/Lennon_etal_2021b.pdf))
+<u>Lennon JT</u>, van der Elst LA, Mueller EA, Gumennik A (2021) Gut bioreactor and method for making the same. United States Pattent Application. Pub. No. US 2021/0332314 A1 ([pdf)]({{ site.url }}/assets/publications/Lennon_etal_2021b.pdf)
 
 
 <!--- pub entry --->
