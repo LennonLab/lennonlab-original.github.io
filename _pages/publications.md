@@ -13,7 +13,7 @@ Moger-Reischer RZ, Glass JI, Wise KS, Sun L, Bittencourt DMC, Lehmkuhl BK, Schoo
 
 
 <!--- pub entry --->
-Schwartz DA, Shoemaker WR, Măgălie A, Weitz JS, Lennon JT (2022) Bacteria-phage coevolution with a seed bank. ISMEJ 17: 10.1101/2023.02.08.527722 ([pdf]({{ site.url }}/assets/publications/Schwartz_etal_2023b.pdf)) 
+Schwartz DA, Shoemaker WR, Măgălie A, Weitz JS, Lennon JT (2022) Bacteria-phage coevolution with a seed bank. ISMEJ 17:1315–1325 ([pdf]({{ site.url }}/assets/publications/Schwartz_etal_2023b.pdf)) 
 
 
 <!--- pub entry --->	
