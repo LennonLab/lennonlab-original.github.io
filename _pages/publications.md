@@ -13,7 +13,11 @@ Moger-Reischer RZ, Glass JI, Wise KS, Sun L, Bittencourt DMC, Lehmkuhl BK, Schoo
 
 
 <!--- pub entry --->
-Schwartz DA, Shoemaker WR, Măgălie A, Weitz JS, Lennon JT (2022) Bacteria-phage coevolution with a seed bank. ISMEJ 17:1315–1325 ([pdf]({{ site.url }}/assets/publications/Schwartz_etal_2023b.pdf)) 
+Schwartz DA, Shoemaker WR, Măgălie A, Weitz JS, Lennon JT (2022) Bacteria-phage coevolution with a seed bank. ISMEJ 17: 1315–1325 ([pdf]({{ site.url }}/assets/publications/Schwartz_etal_2023b.pdf)) 
+
+
+<!--- pub entry --->
+Fishman FJ, <u>Lennon JT</u> (2023) Macroevolutionary constraints on global microbial diversity. Ecology and Evolution 13: e10403 Ecology and Evolution ([pdf]({{ site.url }}/assets/publications/Fishman_Lennon_2023.pdf)) 
 
 
 <!--- pub entry --->	
@@ -22,10 +26,6 @@ Zhou X, <u>Lennon JT</u>, Lu X, Ruan A (2023) Anthropogenic activities mediate s
 	
 <!--- pub entry --->	
 Hu A, Jang K-S, Tanentzap AJ, Zhao W, <u>Lennon JT</u>, Liu J, Li M, Stegen JC, Choi M, Lu Y, Feng X, Wang J (In Review) Thermal responses of dissolved organic matter under global change.
-
-	
-<!--- pub entry --->
-Fishman FJ, <u>Lennon JT</u> (2023) Macroevolutionary constraints on global microbial diversity. bioRxiv [doi: 10.1101/2022.06.04.494835/](https://www.biorxiv.org/content/10.1101/2022.06.04.494835v1) In press at Ecology and Evolution
 
 
 <!--- pub entry --->

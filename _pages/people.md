@@ -213,6 +213,18 @@ feature_row11:
 #### Undergraduate Researchers
 ---
 
+*Michalle Mendoza*, University California Berkeley<br>
+
+*Henock Mugoovi*, Indiana University<br>
+
+*Jayda Griffin*, Indiana University<br>
+
+*Kaliyah Edwards*, Indiana University<br>
+
+*Kim Reish*, Indiana University<br>
+
+*Jainiah Harden*, Indiana University<br>
+
 *Melih Çakar*, Middle East Technical University<br>
 
 *Danni Boylan*, Indiana University<br>
