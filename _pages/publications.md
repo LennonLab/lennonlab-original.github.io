@@ -9,7 +9,7 @@ header:
 ---
 
 <!--- pub entry --->
-Moger-Reischer RZ, Glass JI, Wise KS, Sun L, Bittencourt DMC, Lehmkuhl BK, Schoolmaster DR Jr, Lynch M, <u>Lennon JT</u> (2021) Evolution of a minimal cell. Nature 619: 10.1038/s41586-023-06288-x ([pdf]({{ site.url }}/assets/publications/Moger-Reischer_etal_2023.pdf)) 
+Moger-Reischer RZ, Glass JI, Wise KS, Sun L, Bittencourt DMC, Lehmkuhl BK, Schoolmaster DR Jr, Lynch M, <u>Lennon JT</u> (2021) Evolution of a minimal cell. Nature 620: 122-127 ([pdf]({{ site.url }}/assets/publications/Moger-Reischer_etal_2023.pdf)) 
 
 
 <!--- pub entry --->
