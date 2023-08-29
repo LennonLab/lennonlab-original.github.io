@@ -9,7 +9,7 @@ header:
 ---
 
 <!--- pub entry --->
-Moger-Reischer RZ, Glass JI, Wise KS, Sun L, Bittencourt DMC, Lehmkuhl BK, Schoolmaster DR Jr, Lynch M, <u>Lennon JT</u> (2021) Evolution of a minimal cell. Nature 620: 122-127 ([pdf]({{ site.url }}/assets/publications/Moger-Reischer_etal_2023.pdf)) 
+Moger-Reischer RZ, Glass JI, Wise KS, Sun L, Bittencourt DMC, Lehmkuhl BK, Schoolmaster DR Jr, Lynch M, <u>Lennon JT</u> (2023) Evolution of a minimal cell. Nature 620: 122-127 ([pdf]({{ site.url }}/assets/publications/Moger-Reischer_etal_2023.pdf)) 
 
 
 <!--- pub entry --->
@@ -40,7 +40,7 @@ Schwartz DA, Rodríguez-Ramos J, Shaffer M, Flynn F, Daly R, Wrighton KC, <u>Len
 Wisnoski NI, <u>Lennon JT</u> (2023) Scaling up and down: movement ecology for microorganisms. Trends in Microbiology 31: 242-253 ([pdf]({{ site.url }}/assets/publications/Wisnoski_Lennon_2023.pdf)) 
 
 <!--- pub entry --->
-Măgălie A, Schwartz DA, <u>Lennon JT</u>, Weitz JS (2023) Optimal dormancy strategies in fluctuating environments given delays in phenotypic switching. Journal of Theoretical Biology 561: ([pdf]({{ site.url }}/assets/publications/Magalie_etal_2023.pdf)) 
+Măgălie A, Schwartz DA, <u>Lennon JT</u>, Weitz JS (2023) Optimal dormancy strategies in fluctuating environments given delays in phenotypic switching. Journal of Theoretical Biology 561: 111413 ([pdf]({{ site.url }}/assets/publications/Magalie_etal_2023.pdf)) 
 
 
 <!--- pub entry --->
