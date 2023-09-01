@@ -17,11 +17,11 @@ Schwartz DA, Shoemaker WR, Măgălie A, Weitz JS, Lennon JT (2022) Bacteria-phag
 
 
 <!--- pub entry --->
-Fishman FJ, <u>Lennon JT</u> (2023) Macroevolutionary constraints on global microbial diversity. Ecology and Evolution 13: e10403 Ecology and Evolution ([pdf]({{ site.url }}/assets/publications/Fishman_Lennon_2023.pdf)) 
+Fishman FJ, <u>Lennon JT</u> (2023) Macroevolutionary constraints on global microbial diversity. Ecology and Evolution 13: e10403 ([pdf]({{ site.url }}/assets/publications/Fishman_Lennon_2023.pdf)) 
 
 
 <!--- pub entry --->	
-Zhou X, <u>Lennon JT</u>, Lu X, Ruan A (2023) Anthropogenic activities mediate stratification and stability of microbial communities in freshwater sediments. Europe PMC [doi: 0.21203/rs.3.rs-2524837/v1](https://europepmc.org/article/ppr/ppr649798) In Press at Microbiomes
+Zhou X, <u>Lennon JT</u>, Lu X, Ruan A (2023) Anthropogenic activities mediate stratification and stability of microbial communities in freshwater sediments. Microbiome 11: 191 ([pdf]({{ site.url }}/assets/publications/Xhou_etal_2023.pdf)) 
 
 	
 <!--- pub entry --->	
