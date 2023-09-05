@@ -67,21 +67,21 @@ feature_row8:
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Evolutionary genomics of leguem-rhizobia symbiosis under nitrogen enrichment"
 
-<!--feature_row9:-->
-<!--  - image_path: /assets/images/JaziriHead.png
+feature_row9:-->
+- image_path: /assets/images/JaziriHead.png
     alt: "Ryan"
     title: "Ryan Jaziri"
     excerpt: "**Undergraduate student** <br> 
-              *Research Interests*: Microbiology of spore-forming bacteria and metabolite exchange among auxotrophs"-->
+              *Research Interests*: Microbiology of spore-forming bacteria and metabolite exchange among auxotrophs"
 
-feature_row9:
+feature_row10:
   - image_path: /assets/images/McHughHead.png
     alt: "Alison"
     title: "Alison McHugh"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Microbial ecology and host-phage coevolution across plant and soil habitats "
 
-feature_row10:
+feature_row11:
   - image_path: /assets/images/CaseHead.png
     alt: "Emily"
     title: "Emily Case"
@@ -110,7 +110,7 @@ feature_row10:
 
 {% include feature_row id="feature_row10" type="left" %}
 
-<!--{% include feature_row id="feature_row11" type="left" %}-->
+{% include feature_row id="feature_row11" type="left" %}
 
 
 ## Former Lab Members
