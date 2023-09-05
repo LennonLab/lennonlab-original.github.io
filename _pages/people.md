@@ -33,55 +33,62 @@ feature_row3:
               *Research Interests*: Species interactions and coexistence; eco-evolutionary dynamics; experimental evolution; energy limitation and evolution of dormancy [website](https://canankarakoc.netlify.app/)"
 
 feature_row4:
+  - image_path: /assets/images/LuoHead.png
+    alt: "Jipeng"
+    title: "Jipeng Luo"
+    excerpt: "**Postdoctoral researcher** <br> 
+              *Research Interests*: Ecology and evolution of microbial communities, plant-microbiome interactions, evolutionary genomics, soil remediation"
+
+feature_row5:
   - image_path: /assets/images/MuellerHead.png
     alt: "Emmi"
     title: "Emmi Mueller"
     excerpt: "**Ph.D. student** <br> 
               *Research Interests*: Physical complexity and microbial communities [website](https://emmiamueller.weebly.com/)"
 
-feature_row5:
+feature_row6:
   - image_path: /assets/images/OBrienHead.png
     alt: "Joy"
     title: "Joy O'Brien"
     excerpt: "**Ph.D. student** <br> 
               *Research Interests*: Microbial dormancy, permafrost soils, and global change in the Arctic"
 
-feature_row6:
+feature_row7:
   - image_path: /assets/images/JasmineHead.png
     alt: "Jasmine"
     title: "Jasmine Ahmed"
     excerpt: "**Master's student** <br> 
               *Research Interests*: Sporulation of bacteria and virospore formation in soils and permafrost"
               
-feature_row7:
+feature_row8:
   - image_path: /assets/images/GomezHead.png
     alt: "Jonathan"
     title: "Jonathan Gomez"
     excerpt: "**Research Technician** <br> 
               *Research Interests*: Molecular, biotechnological, and evolutionary aspects of viruses"
 
-feature_row8:
+feature_row9:
   - image_path: /assets/images/HillHead.png
     alt: "Caleb"
     title: "Caleb Hill"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Evolutionary genomics of leguem-rhizobia symbiosis under nitrogen enrichment"
 
-feature_row9:-->
-- image_path: /assets/images/JaziriHead.png
+feature_row10:
+  - image_path: /assets/images/JaziriHead.png
     alt: "Ryan"
     title: "Ryan Jaziri"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Microbiology of spore-forming bacteria and metabolite exchange among auxotrophs"
 
-feature_row10:
+feature_row11:
   - image_path: /assets/images/McHughHead.png
     alt: "Alison"
     title: "Alison McHugh"
     excerpt: "**Undergraduate student** <br> 
-              *Research Interests*: Ecology and host-phage coevolution across plant and soil habitats "
+              *Research Interests*: Microbial ecology and host-phage coevolution across plant and soil habitats "
 
-feature_row11:
+feature_row12:
   - image_path: /assets/images/CaseHead.png
     alt: "Emily"
     title: "Emily Case"
@@ -226,8 +233,6 @@ feature_row11:
 *Jainiah Harden*, Indiana University<br>
 
 *Melih Çakar*, Middle East Technical University<br>
-
-*Ryan Jaziri*, Indiana University<br>
 
 *Danni Boylan*, Indiana University<br>
 
