@@ -79,7 +79,7 @@ feature_row10:
     alt: "Alison"
     title: "Alison McHugh"
     excerpt: "**Undergraduate student** <br> 
-              *Research Interests*: Microbial ecology and host-phage coevolution across plant and soil habitats "
+              *Research Interests*: Ecology and host-phage coevolution across plant and soil habitats "
 
 feature_row11:
   - image_path: /assets/images/CaseHead.png
