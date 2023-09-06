@@ -88,12 +88,6 @@ feature_row11:
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Microbial ecology and host-phage coevolution across plant and soil habitats"
 
-feature_row12:
-  - image_path: /assets/images/JaziriHead.png
-    alt: "Ryan"
-    title: "Ryan Jaziri"
-    excerpt: "**Undergradate student** <br> 
-              *Research Interests*: Division of labor among engineered strains of spore-forming bacteria using experimental evolution"
 
 
 ---
