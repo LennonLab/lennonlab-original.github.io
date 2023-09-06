@@ -82,9 +82,9 @@ feature_row10:
               *Research Interests*: Division of labor among engineered strains of spore-forming bacteria using experimental evolution"
 
 feature_row11:
-  - image_path: /assets/images/McHughHead.png
-    alt: "Alison"
-    title: "Alison McHugh"
+  - image_path: /assets/images/EdwardsHead.png
+    alt: "Kaliyah"
+    title: "Kaliyah"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Microbial ecology and host-phage coevolution across plant and soil habitats "
 
