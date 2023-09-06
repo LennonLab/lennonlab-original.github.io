@@ -84,9 +84,9 @@ feature_row10:
 feature_row11:
   - image_path: /assets/images/EdwardsHead.png
     alt: "Kaliyah"
-    title: "Kaliyah"
+    title: "Kaliyah Edwards"
     excerpt: "**Undergraduate student** <br> 
-              *Research Interests*: Microbial ecology and host-phage coevolution across plant and soil habitats "
+              *Research Interests*: Microbial ecology and host-phage coevolution across plant and soil habitats"
 
 feature_row12:
   - image_path: /assets/images/JaziriHead.png
