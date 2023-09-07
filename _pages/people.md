@@ -87,6 +87,13 @@ feature_row11:
     title: "Kaliyah Edwards"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Microbial ecology and host-phage coevolution across plant and soil habitats"
+              
+feature_row12:
+  - image_path: /assets/images/MugooviHead.png
+    alt: "Henock"
+    title: "Henock Mugoovi"
+    excerpt: "**Undergraduate student** <br> 
+              *Research Interests*: Infection dynamics and evolution of legume-associated rhizobia in response to phage"
 
 
 
@@ -112,6 +119,8 @@ feature_row11:
 {% include feature_row id="feature_row10" type="left" %}
 
 {% include feature_row id="feature_row11" type="left" %}
+
+{% include feature_row id="feature_row12" type="left" %}
 
 
 ## Former Lab Members
