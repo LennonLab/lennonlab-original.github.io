@@ -225,15 +225,15 @@ feature_row12:
 
 *Michalle Mendoza*, University California Berkeley<br>
 
-*Henock Mugoovi*, Indiana University<br>
-
 *Jayda Griffin*, Indiana University<br>
-
-*Kaliyah Edwards*, Indiana University<br>
 
 *Kim Reish*, Indiana University<br>
 
 *Jainiah Harden*, Indiana University<br>
+
+*Alison McHugh*, Indiana University<br>
+
+*Rayan Jaziri*, Indiana University<br>
 
 *Melih Çakar*, Middle East Technical University<br>
 
