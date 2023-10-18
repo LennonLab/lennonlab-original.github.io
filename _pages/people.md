@@ -59,36 +59,29 @@ feature_row7:
     title: "Jasmine Ahmed"
     excerpt: "**Research Technician** <br> 
               *Research Interests*: Sporulation of bacteria and virospore formation in soils and permafrost"
-              
-feature_row8:
-  - image_path: /assets/images/GomezHead.png
-    alt: "Jonathan"
-    title: "Jonathan Gomez"
-    excerpt: "**Research Technician** <br> 
-              *Research Interests*: Molecular, biotechnological, and evolutionary aspects of viruses"
 
-feature_row9:
+feature_row8:
   - image_path: /assets/images/HillHead.png
     alt: "Caleb"
     title: "Caleb Hill"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Evolutionary genomics of leguem-rhizobia symbiosis under nitrogen enrichment"
 
-feature_row10:
+feature_row9:
   - image_path: /assets/images/CaseHead.png
     alt: "Emily"
     title: "Emily Case"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Division of labor among engineered strains of spore-forming bacteria using experimental evolution"
 
-feature_row11:
+feature_row10:
   - image_path: /assets/images/EdwardsHead.png
     alt: "Kaliyah"
     title: "Kaliyah Edwards"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Microbial ecology and host-phage coevolution across plant and soil habitats"
               
-feature_row12:
+feature_row11:
   - image_path: /assets/images/MugooviHead.png
     alt: "Henock"
     title: "Henock Mugoovi"
@@ -120,7 +113,6 @@ feature_row12:
 
 {% include feature_row id="feature_row11" type="left" %}
 
-{% include feature_row id="feature_row12" type="left" %}
 
 
 ## Former Lab Members
@@ -187,6 +179,8 @@ feature_row12:
 #### Research Technicians and Assistants
 ---
 *Brent Lehmkuhl*, Technician<br>
+
+*Bezner Jonathan Gomez Dominguez*, Technician<br>
 
 *Emily Long*, Technician<br>
 

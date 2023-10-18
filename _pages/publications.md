@@ -15,6 +15,9 @@ Moger-Reischer RZ, Glass JI, Wise KS, Sun L, Bittencourt DMC, Lehmkuhl BK, Schoo
 <!--- pub entry --->
 Schwartz DA, Shoemaker WR, Măgălie A, Weitz JS, Lennon JT (2023) Bacteria-phage coevolution with a seed bank. ISMEJ 17: 1315–1325 ([pdf]({{ site.url }}/assets/publications/Schwartz_etal_2023b.pdf)) 
 
+<!--- pub entry --->
+<u>Lennon JT</u>, Abramoff RZ, Allison SD, Burckhardt RM, DeAngelis KM, Dunne JP, Frey SD, Friedlingstein P, Hawkes CV, Hungate BA, Khurana S, Kivlin SN, Levine N, Manzoni S, Martiny AC, Martiny JBH, Nguyen N, Rawat M, Talmy D, Todd-Browne K, Vogt M, Wieder WR, Zakem E (In Review) Priorities for integrating microorganisms into Earth system models for climate change prediction
+
 
 <!--- pub entry --->
 Fishman FJ, <u>Lennon JT</u> (2023) Macroevolutionary constraints on global microbial diversity. Ecology and Evolution 13: e10403 ([pdf]({{ site.url }}/assets/publications/Fishman_Lennon_2023.pdf)) 
