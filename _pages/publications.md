@@ -8,6 +8,14 @@ header:
   image: /assets/images/megaterium.jpg
 ---
 
+<!--- pub entry --->	
+Hu A, Jang K-S, Tanentzap AJ, Zhao W, <u>Lennon JT</u>, Liu J, Li M, Stegen JC, Choi M, Lu Y, Feng X, Wang J (In Review) Thermal responses of dissolved organic matter under global change. Nature Communications 15: 576 ([pdf]({{ site.url }}/assets/publications/Hu_etal_2024.pdf)) 
+
+
+<!--- pub entry --->
+Wu W, Hsieh C, Logares R, <u>Lennon JT</u>, Liu H (In Review) Selection exceeds homogenizing dispersal in shaping highly connected bacterial communities along strong environmental gradients.	
+
+
 <!--- pub entry --->
 Moger-Reischer RZ, Glass JI, Wise KS, Sun L, Bittencourt DMC, Lehmkuhl BK, Schoolmaster DR Jr, Lynch M, <u>Lennon JT</u> (2023) Evolution of a minimal cell. Nature 620: 122-127 ([pdf]({{ site.url }}/assets/publications/Moger-Reischer_etal_2023.pdf)) 
 
@@ -26,14 +34,6 @@ Fishman FJ, <u>Lennon JT</u> (2023) Macroevolutionary constraints on global micr
 <!--- pub entry --->	
 Zhou X, <u>Lennon JT</u>, Lu X, Ruan A (2023) Anthropogenic activities mediate stratification and stability of microbial communities in freshwater sediments. Microbiome 11: 191 ([pdf]({{ site.url }}/assets/publications/Xhou_etal_2023.pdf)) 
 
-	
-<!--- pub entry --->	
-Hu A, Jang K-S, Tanentzap AJ, Zhao W, <u>Lennon JT</u>, Liu J, Li M, Stegen JC, Choi M, Lu Y, Feng X, Wang J (In Review) Thermal responses of dissolved organic matter under global change.
-
-
-<!--- pub entry --->
-Wu W, Hsieh C, Logares R, <u>Lennon JT</u>, Liu H (In Revision) Selection exceeds homogenizing dispersal in shaping highly connected bacterial communities along strong environmental gradients.	
-
 
 <!--- pub entry --->		
 Schwartz DA, Rodríguez-Ramos J, Shaffer M, Flynn F, Daly R, Wrighton KC, <u>Lennon JT</u> (2023) Human-gut phages harbor sporulation genes. mBio e0018223 ([pdf]({{ site.url }}/assets/publications/Schwartz_etal_2023a.pdf)) 
@@ -49,6 +49,7 @@ Măgălie A, Schwartz DA, <u>Lennon JT</u>, Weitz JS (2023) Optimal dormancy str
 <!--- pub entry --->
 Lennon JT, Frost SDW, Nguyen NK, Peralta AL, Place AR, Treseder KK (2023) Microbiology and climate change: a transdisciplinary imperative. mBio 13: e0335-22 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2023.pdf))
 
+
 <!--- pub entry --->
 Bolin LG, Lennon JT, Lau JA (2023) Traits of soil bacteria predict plant responses to soil moisture. Ecology 104: e3893 ([pdf]({{ site.url }}/assets/publications/Bolin_etal_2023.pdf))
 	
@@ -59,7 +60,19 @@ Irvine R, Houser M, Marquart-Pyatt ST, Bolin L, Browning EG, Dott G, Evans SE, H
 	
 <!--- pub entry --->
 McMullen JG, <u>Lennon JT</u> (2023) Mark-recapture of microorganisms. Environmental Microbiology 25: 150-157 ([pdf]({{ site.url }}/assets/publications/McMullen_Lennon_2023.pdf))	
-	
+
+
+<!--- pub entry --->
+<u>Lennon JT</u>, van der Elst LA, Mueller EA, Gumennik A (2023) Gut bioreactor and method for making the same. US Patent 11,840,681 B2 ([pdf)]({{ site.url }}/assets/publications/Lennon_etal_2023b.pdf)
+
+<!--- pub entry --->
+<u>Lennon JT</u> and 28 others (2023) Colloquium report: Microbes in models: integrating microbes into earth system models for understanding climate change. Washington, DC: American Society for Microbiology: 
+([link](https://www.ncbi.nlm.nih.gov/books/NBK592518/))
+
+
+<!--- pub entry --->
+<u>Lennon JT</u> and 28 others (2023) Colloquium report: The role of microbes in mediating methane emissions. Washington, DC: American Society for Microbiology: Microbiology: ([link](https://pubmed.ncbi.nlm.nih.gov/38194471/))
+
 	
 <!--- pub entry --->
 Webster KD, Schimmelmann A, Drobniak A, Mastalerz M, Lagarde LR, Boston PJ, <u>Lennon JT</u> (2022) Diversity and composition of cave methanotrophic communities. Microbiology Spectrum 10: e0156621 ([pdf]({{ site.url }}/assets/publications/Webster_etal_2022.pdf))
@@ -89,7 +102,6 @@ Krause SMB, Bertilsson S, Grossart HP, Bodelier PLE, van Bodegom P, <u>Lennon JT
 Shoemaker WR, <u>Lennon JT</u> (2022) Predicting parallelism and quantifying divergence in experimental evolution. mSphere 7: e00672-21 ([pdf]({{ site.url }}/assets/publications/Shoemaker_Lennon_2022.pdf))	
 	
 <!--- pub entry --->	
-
 Shoemaker WR, Jones SE, Muscarella ME, Behringer MG, Lehmkuhl BK, <u>Lennon JT</u> (2021) Microbial population dynamics and evolutionary outcomes under extreme energy-limitation. Proceedings of the National Academy of Sciences of the United States of America. 118: e2101691118 ([pdf]({{ site.url }}/assets/publications/Shoemaker_etal_2021b.pdf), [PNAS Commentary]({{ site.url }}/assets/publications/Rillig_etal_2021.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Shoemaker_etal_2021b_Suppl.pdf))
 
 	
@@ -99,6 +111,7 @@ Shoemaker WR, Jones SE, Muscarella ME, Behringer MG, Lehmkuhl BK, <u>Lennon JT</
 	
 <!--- pub entry --->
 Wisnoski NI, <u>Lennon JT</u> (2021) Stabilising role of seed banks and the maintenance of bacterial diversity. Ecology Letters 24: 2328–2338 ([pdf]({{ site.url }}/assets/publications/Wisnoski_Lennon_2021.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Wisnoski_Lennon_2021_Suppl.pdf))
+	
 	
 <!--- pub entry --->
 Shoemaker WR, Polezhaeva E, Givens KB, <u>Lennon JT</u> (2021) Molecular evolutionary dynamics of energy limited microorganisms. Molecular Biology and Evolution 38: msab195 ([pdf]({{ site.url }}/assets/publications/Shoemaker_etal_2021a.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Shoemaker_etal_2021a_Suppl.zip))
@@ -110,10 +123,6 @@ Lamit LJ, Romanowicz KJ, Potvin LR, <u>Lennon JT</u>, Tringe SG, Chimner RA, Kol
 
 <!--- pub entry --->
 Kuo V, Lehmkuhl BK <u>Lennon JT</u> (2021) Resuscitation of the microbial seed bank alters plant-soil interactions. Molecular Ecology. 30: 2905–2914 ([pdf]({{ site.url }}/assets/publications/Kuo_etal_2021.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Kuo_etal_2021_Suppl.pdf))
-
-	
-<!--- pub entry --->
-<u>Lennon JT</u>, van der Elst LA, Mueller EA, Gumennik A (2021) Gut bioreactor and method for making the same. United States Pattent Application. Pub. No. US 2021/0332314 A1 ([pdf)]({{ site.url }}/assets/publications/Lennon_etal_2021b.pdf)
 
 
 <!--- pub entry --->
@@ -171,8 +180,10 @@ Salazar A, <u>Lennon JT</u>, Dukes JS (2019) Microbial activity improves predict
 <!--- pub entry --->
 Muscarella ME, Boot CM, Broeckling CD, <u>Lennon JT</u> (2019) Resource diversity structures aquatic bacterial communities. ISMEJ 13: 2183–2195 ([pdf]({{ site.url }}/assets/publications/Muscarella_etal_2019.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Muscarella_etal_Supplement_2019.pdf))
 
+
 <!--- pub entry --->
 Larsen ML, Wilhelm SW, <u>Lennon JT</u> (2019) Nutrient stoichiometry shapes microbial coevolution. Ecology Letters 22: 1009–1018 ([pdf]({{ site.url }}/assets/publications/Larsen_etal_2019.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Larsen_etal_2019_Suppl.pdf))
+
 
 <!--- pub entry --->
 Locey KJ, <u>Lennon JT</u> (2019) A residence-time framework for biodiversity. American Naturalist 194: 59-72 ([pdf]({{ site.url }}/assets/publications/Locey_Lennon_2019.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Locey_Lennon_2019_Suppl.pdf), [code]({{ site.url }}/assets/publications/Locey_Lennon_2019_code.zip))
