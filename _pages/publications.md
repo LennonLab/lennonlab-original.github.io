@@ -66,12 +66,12 @@ McMullen JG, <u>Lennon JT</u> (2023) Mark-recapture of microorganisms. Environme
 <u>Lennon JT</u>, van der Elst LA, Mueller EA, Gumennik A (2023) Gut bioreactor and method for making the same. US Patent 11,840,681 B2 ([pdf)]({{ site.url }}/assets/publications/Lennon_etal_2023b.pdf)
 
 <!--- pub entry --->
-<u>Lennon JT</u> and 28 others (2023) Colloquium report: Microbes in models: integrating microbes into earth system models for understanding climate change. Washington, DC: American Society for Microbiology: 
+<u>Lennon JT</u> and 28 others (2023) Colloquium report: Microbes in models: integrating microbes into earth system models for understanding climate change. Washington, DC: American Society for Microbiology 
 ([link](https://www.ncbi.nlm.nih.gov/books/NBK592518/))
 
 
 <!--- pub entry --->
-<u>Lennon JT</u> and 28 others (2023) Colloquium report: The role of microbes in mediating methane emissions. Washington, DC: American Society for Microbiology: Microbiology: ([link](https://pubmed.ncbi.nlm.nih.gov/38194471/))
+<u>Lennon JT</u> and 28 others (2023) Colloquium report: The role of microbes in mediating methane emissions. Washington, DC: American Society for Microbiology: Microbiology ([link](https://pubmed.ncbi.nlm.nih.gov/38194471/))
 
 	
 <!--- pub entry --->
