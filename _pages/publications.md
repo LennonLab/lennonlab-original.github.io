@@ -8,12 +8,20 @@ header:
   image: /assets/images/megaterium.jpg
 ---
 
-<!--- pub entry --->	
-Hu A, Jang K-S, Tanentzap AJ, Zhao W, <u>Lennon JT</u>, Liu J, Li M, Stegen JC, Choi M, Lu Y, Feng X, Wang J (In Review) Thermal responses of dissolved organic matter under global change. Nature Communications 15: 576 ([pdf]({{ site.url }}/assets/publications/Hu_etal_2024.pdf)) 
-
+<!--- pub entry --->
+McGill B, Jarzyna M, Diaz R, Barnes C, Diaz FH, Economo, E, French C, Hagen O, James H, Kivlin S, Lahiri, S, Lennon JT, Mascarenhas R, Ohyama L, Rabosky DL, Zhu K, Hickerson M, Gillespie R (In Review) A call to develop a coherent discipline of biodiversity science to address global change. 
 
 <!--- pub entry --->
 Wu W, Hsieh C, Logares R, <u>Lennon JT</u>, Liu H (In Review) Selection exceeds homogenizing dispersal in shaping highly connected bacterial communities along strong environmental gradients.	
+
+<!--- pub entry --->
+Zang Z, Zhang C, Park KJ, Schwartz DA, Podicheti R, Lennon JT, Gerdt JP (2024) Bacterium secretes chemical inhibitor that sensitizes competitor to bacteriophage infection. bioRxiv [doi.org/10.1101/2024.01.31.578241](https://www.biorxiv.org/content/10.1101/2024.01.31.578241v1.full.pdf)
+
+<!--- pub entry --->	
+Hu A, Jang K-S, Tanentzap AJ, Zhao W, <u>Lennon JT</u>, Liu J, Li M, Stegen JC, Choi M, Lu Y, Feng X, Wang J (2024) Thermal responses of dissolved organic matter under global change. Nature Communications 15: 576 ([pdf]({{ site.url }}/assets/publications/Hu_etal_2024.pdf)) 
+
+<!--- pub entry --->
+<u>Lennon JT</u>, Abramoff RZ, Allison SD, Burckhardt RM, DeAngelis KM, Dunne JP, Frey SD, Friedlingstein P, Hawkes CV, Hungate BA, Khurana S, Kivlin SN, Levine N, Manzoni S, Martiny AC, Martiny JBH, Nguyen N, Rawat M, Talmy D, Todd-Browne K, Vogt M, Wieder WR, Zakem E (2024) Priorities, opportunities, and challenges for integrating microorganisms into Earth system models for climate change prediction. mBio 15: 10.1128/mbio.00455-24 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2024.pdf)) 
 
 
 <!--- pub entry --->
@@ -22,9 +30,6 @@ Moger-Reischer RZ, Glass JI, Wise KS, Sun L, Bittencourt DMC, Lehmkuhl BK, Schoo
 
 <!--- pub entry --->
 Schwartz DA, Shoemaker WR, Măgălie A, Weitz JS, Lennon JT (2023) Bacteria-phage coevolution with a seed bank. ISMEJ 17: 1315–1325 ([pdf]({{ site.url }}/assets/publications/Schwartz_etal_2023b.pdf)) 
-
-<!--- pub entry --->
-<u>Lennon JT</u>, Abramoff RZ, Allison SD, Burckhardt RM, DeAngelis KM, Dunne JP, Frey SD, Friedlingstein P, Hawkes CV, Hungate BA, Khurana S, Kivlin SN, Levine N, Manzoni S, Martiny AC, Martiny JBH, Nguyen N, Rawat M, Talmy D, Todd-Browne K, Vogt M, Wieder WR, Zakem E (In Review) Priorities for integrating microorganisms into Earth system models for climate change prediction
 
 
 <!--- pub entry --->

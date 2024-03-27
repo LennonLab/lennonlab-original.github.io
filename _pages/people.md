@@ -19,69 +19,55 @@ feature_row1:
     btn_label: "   CV   "
 
 feature_row2:
-  - image_path: /assets/images/McMullenHead.png
-    alt: "John"
-    title: "John McMullen"
-    excerpt: "**Postdoctoral researcher** <br> 
-              *Research Interests*:  Among-microbe interactions in microbiomes, nutritional symbioses, chemical ecology"
-
-feature_row3:
-  - image_path: /assets/images/KarakocHead.png
-    alt: "Canan"
-    title: "Canan Karacoç"
-    excerpt: "**Postdoctoral researcher** <br> 
-              *Research Interests*: Species interactions and coexistence; eco-evolutionary dynamics; experimental evolution; energy limitation and evolution of dormancy [website](https://canankarakoc.netlify.app/)"
-
-feature_row4:
   - image_path: /assets/images/LuoHead.png
     alt: "Jipeng"
     title: "Jipeng Luo"
     excerpt: "**Postdoctoral researcher** <br> 
               *Research Interests*: Ecology and evolution of microbial communities, plant-microbiome interactions, evolutionary genomics, soil remediation"
 
-feature_row5:
+feature_row3:
   - image_path: /assets/images/MuellerHead.png
     alt: "Emmi"
     title: "Emmi Mueller"
     excerpt: "**Ph.D. student** <br> 
               *Research Interests*: Physical complexity and microbial communities [website](https://emmiamueller.weebly.com/)"
 
-feature_row6:
+feature_row4:
   - image_path: /assets/images/OBrienHead.png
     alt: "Joy"
     title: "Joy O'Brien"
     excerpt: "**Ph.D. student** <br> 
               *Research Interests*: Microbial dormancy, permafrost soils, and global change in the Arctic"
 
-feature_row7:
+feature_row5:
   - image_path: /assets/images/JasmineHead.png
     alt: "Jasmine"
     title: "Jasmine Ahmed"
     excerpt: "**Research Technician** <br> 
               *Research Interests*: Sporulation of bacteria and virospore formation in soils and permafrost"
 
-feature_row8:
+feature_row6:
   - image_path: /assets/images/HillHead.png
     alt: "Caleb"
     title: "Caleb Hill"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Evolutionary genomics of leguem-rhizobia symbiosis under nitrogen enrichment"
 
-feature_row9:
+feature_row7:
   - image_path: /assets/images/CaseHead.png
     alt: "Emily"
     title: "Emily Case"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Division of labor among engineered strains of spore-forming bacteria using experimental evolution"
 
-feature_row10:
+feature_row8:
   - image_path: /assets/images/EdwardsHead.png
     alt: "Kaliyah"
     title: "Kaliyah Edwards"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Microbial ecology and host-phage coevolution across plant and soil habitats"
               
-feature_row11:
+feature_row9:
   - image_path: /assets/images/MugooviHead.png
     alt: "Henock"
     title: "Henock Mugoovi"
@@ -109,9 +95,6 @@ feature_row11:
 
 {% include feature_row id="feature_row9" type="left" %}
 
-{% include feature_row id="feature_row10" type="left" %}
-
-{% include feature_row id="feature_row11" type="left" %}
 
 
 
@@ -119,6 +102,9 @@ feature_row11:
 
 #### Postdocs and Graduate Students
 ---
+*[John McMullen](https://www.linkedin.com/in/john-mcmullen2)*, Postdoc (Research Scientist, Bayer)<br>
+
+*[Canan Karacoç](https://canankarakoc.netlify.app/)*, Postdoc (Research Scholar, Georgia Institute of Technology)<br>
 
 *[Daniel Schwartz](https://www.linkedin.com/in/danschw/)*, Postdoc (Microbiologist, DSM)<br>
 
