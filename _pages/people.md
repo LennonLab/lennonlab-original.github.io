@@ -38,36 +38,43 @@ feature_row4:
     title: "Joy O'Brien"
     excerpt: "**Ph.D. student** <br> 
               *Research Interests*: Microbial dormancy, permafrost soils, and global change in the Arctic"
+              
+ feature_row5:
+  - image_path: /assets/images/ParkHead.png
+    alt: "El"
+    title: "El Park"
+    excerpt: "**Ph.D. student** <br> 
+              *Research Interests*: Intracellular mechanisms of sporulation and phage infections, division of labor in spore-forming populations"
 
-feature_row5:
+feature_row6:
   - image_path: /assets/images/JasmineHead.png
     alt: "Jasmine"
     title: "Jasmine Ahmed"
     excerpt: "**Research Technician** <br> 
               *Research Interests*: Sporulation of bacteria and virospore formation in soils and permafrost"
 
-feature_row6:
+feature_row7:
   - image_path: /assets/images/HillHead.png
     alt: "Caleb"
     title: "Caleb Hill"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Evolutionary genomics of leguem-rhizobia symbiosis under nitrogen enrichment"
 
-feature_row7:
+feature_row8:
   - image_path: /assets/images/CaseHead.png
     alt: "Emily"
     title: "Emily Case"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Division of labor among engineered strains of spore-forming bacteria using experimental evolution"
 
-feature_row8:
+feature_row9:
   - image_path: /assets/images/EdwardsHead.png
     alt: "Kaliyah"
     title: "Kaliyah Edwards"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Microbial ecology and host-phage coevolution across plant and soil habitats"
               
-feature_row9:
+feature_row10:
   - image_path: /assets/images/MugooviHead.png
     alt: "Henock"
     title: "Henock Mugoovi"
@@ -95,6 +102,8 @@ feature_row9:
 
 {% include feature_row id="feature_row9" type="left" %}
 
+{% include feature_row id="feature_row10" type="left" %}
+
 
 
 
@@ -108,7 +117,7 @@ feature_row9:
 
 *[Daniel Schwartz](https://www.linkedin.com/in/danschw/)*, Postdoc (Microbiologist, DSM)<br>
 
-*[Pat Wall](https://www.linkedin.com/in/pat-wall-56a082185/)*, MS<br>
+*[Pat Wall](https://www.linkedin.com/in/pat-wall-56a082185/)*, MS (Research Asssistant, University of Michigan)<br>
 
 *[Ford Fishman](https://www.linkedin.com/in/ford-fishman-64a698203/)*, MS (Data Analysis Specialist, Brandeis University) <br>
 
@@ -126,7 +135,7 @@ feature_row9:
 
 *[Ken Locey](https://www.weecology.org/author/ken-locey/)*, Postdoc (Data Analyst, Rush University Medical Center)<br>
 
-*Venus Kuo*, MS<br>
+*[Venus Kuo](https://www.researchgate.net/scientific-contributions/Venus-Kuo-2175857593)*, MS<br>
 
 *[Kevin Webster](https://websterkgd.com/)*, Ph.D. (Assistant Professor, Diné College)<br>
 
