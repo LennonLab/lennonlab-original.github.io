@@ -39,7 +39,7 @@ feature_row4:
     excerpt: "**Ph.D. student** <br> 
               *Research Interests*: Microbial dormancy, permafrost soils, and global change in the Arctic"
               
- feature_row5:
+feature_row5:
   - image_path: /assets/images/ParkHead.png
     alt: "El"
     title: "El Park"
