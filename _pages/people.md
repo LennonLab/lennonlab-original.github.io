@@ -45,36 +45,45 @@ feature_row5:
     title: "El Park"
     excerpt: "**Ph.D. student** <br> 
               *Research Interests*: Intracellular mechanisms of sporulation and phage infections, division of labor in spore-forming populations"
-
+              
+              
 feature_row6:
+  - image_path: /assets/images/LennonAHead.png
+    alt: "Anna"
+    title: "Anna Lennon"
+    excerpt: "**Ph.D. student** <br> 
+              *Research Interests*: Ecology and evolution of microbial communities, dormancy and pathogenesis, emergence of dormancy in the tree of life"
+
+
+feature_row7:
   - image_path: /assets/images/JasmineHead.png
     alt: "Jasmine"
     title: "Jasmine Ahmed"
     excerpt: "**Research Technician** <br> 
               *Research Interests*: Sporulation of bacteria and virospore formation in soils and permafrost"
 
-feature_row7:
+feature_row8:
   - image_path: /assets/images/HillHead.png
     alt: "Caleb"
     title: "Caleb Hill"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Evolutionary genomics of leguem-rhizobia symbiosis under nitrogen enrichment"
 
-feature_row8:
+feature_row9:
   - image_path: /assets/images/CaseHead.png
     alt: "Emily"
     title: "Emily Case"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Division of labor among engineered strains of spore-forming bacteria using experimental evolution"
 
-feature_row9:
+feature_row10:
   - image_path: /assets/images/EdwardsHead.png
     alt: "Kaliyah"
     title: "Kaliyah Edwards"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Microbial ecology and host-phage coevolution across plant and soil habitats"
               
-feature_row10:
+feature_row11:
   - image_path: /assets/images/MugooviHead.png
     alt: "Henock"
     title: "Henock Mugoovi"
@@ -103,6 +112,8 @@ feature_row10:
 {% include feature_row id="feature_row9" type="left" %}
 
 {% include feature_row id="feature_row10" type="left" %}
+
+{% include feature_row id="feature_row11" type="left" %}
 
 
 
