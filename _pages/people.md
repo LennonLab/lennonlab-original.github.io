@@ -89,6 +89,13 @@ feature_row11:
     title: "Henock Mugoovi"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Infection dynamics and evolution of legume-associated rhizobia in response to phage"
+              
+feature_row12:
+  - image_path: /assets/images/ErgulHead.png
+    alt: "Ali"
+    title: "Ali Ergül"
+    excerpt: "**Visiting student (Boğaziçi University, Turkey)** <br> 
+              *Research Interests*: Molecular evolution, evolution of microbial communities, microbiome-host interactions and coevolution"
 
 
 
@@ -114,6 +121,8 @@ feature_row11:
 {% include feature_row id="feature_row10" type="left" %}
 
 {% include feature_row id="feature_row11" type="left" %}
+
+{% include feature_row id="feature_row12" type="left" %}
 
 
 
