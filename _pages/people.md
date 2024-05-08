@@ -25,7 +25,7 @@ feature_row2:
     excerpt: "**Postdoctoral researcher** <br> 
               *Research Interests*: Ecology and evolution of microbial communities, plant-microbiome interactions, evolutionary genomics, soil remediation"
               
- feature_row3:
+feature_row3:
   - image_path: /assets/images/KangHead.png
     alt: "Sungyun"
     title: "Sungyun Kang"
