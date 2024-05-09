@@ -30,7 +30,7 @@ feature_row3:
     alt: "Sungyun"
     title: "Sungyun Kang"
     excerpt: "**Research Associate** <br> 
-              *Research Interests*: Molecular genetics, genomics, cell biology"
+              *Research Interests*: Molecular genetics, genomics, cell biology, transcription factors "
 
 feature_row4:
   - image_path: /assets/images/MuellerHead.png
