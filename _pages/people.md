@@ -26,27 +26,34 @@ feature_row2:
               *Research Interests*: Ecology and evolution of microbial communities, plant-microbiome interactions, evolutionary genomics, soil remediation"
               
 feature_row3:
+  - image_path: /assets/images/BuerenHead.png
+    alt: "Emma"
+    title: "Emma Bueren"
+    excerpt: "**Postdoctoral researcher** <br> 
+              *Research Interests*: Bactere-phage evolutionary ecology, nested symbioses, host microbiomes"
+              
+feature_row4:
   - image_path: /assets/images/KangHead.png
     alt: "Sungyun"
     title: "Sungyun Kang"
     excerpt: "**Research Associate** <br> 
               *Research Interests*: Molecular genetics, genomics, cell biology, transcription factors "
 
-feature_row4:
+feature_row5:
   - image_path: /assets/images/MuellerHead.png
     alt: "Emmi"
     title: "Emmi Mueller"
     excerpt: "**Ph.D. student** <br> 
               *Research Interests*: Physical complexity and microbial communities [website](https://emmiamueller.weebly.com/)"
 
-feature_row5:
+feature_row6:
   - image_path: /assets/images/OBrienHead.png
     alt: "Joy"
     title: "Joy O'Brien"
     excerpt: "**Ph.D. student** <br> 
               *Research Interests*: Microbial dormancy, permafrost soils, and global change in the Arctic"
               
-feature_row6:
+feature_row7:
   - image_path: /assets/images/ParkHead.png
     alt: "El"
     title: "El Park"
@@ -54,7 +61,7 @@ feature_row6:
               *Research Interests*: Intracellular mechanisms of sporulation and phage infections, division of labor in spore-forming populations"
               
               
-feature_row7:
+feature_row8:
   - image_path: /assets/images/LennonAHead.png
     alt: "Anna"
     title: "Anna Lennon"
@@ -62,42 +69,49 @@ feature_row7:
               *Research Interests*: Ecology and evolution of microbial communities, dormancy and pathogenesis, emergence of dormancy in the tree of life"
 
 
-feature_row8:
+feature_row9:
   - image_path: /assets/images/JasmineHead.png
     alt: "Jasmine"
     title: "Jasmine Ahmed"
     excerpt: "**Research Technician** <br> 
               *Research Interests*: Sporulation of bacteria and virospore formation in soils and permafrost"
 
-feature_row9:
+feature_row10:
   - image_path: /assets/images/HillHead.png
     alt: "Caleb"
     title: "Caleb Hill"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Evolutionary genomics of leguem-rhizobia symbiosis under nitrogen enrichment"
 
-feature_row10:
+feature_row11:
   - image_path: /assets/images/CaseHead.png
     alt: "Emily"
     title: "Emily Case"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Division of labor among engineered strains of spore-forming bacteria using experimental evolution"
 
-feature_row11:
+feature_row12:
   - image_path: /assets/images/EdwardsHead.png
     alt: "Kaliyah"
     title: "Kaliyah Edwards"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Microbial ecology and host-phage coevolution across plant and soil habitats"
               
-feature_row12:
+feature_row13:
   - image_path: /assets/images/MugooviHead.png
     alt: "Henock"
     title: "Henock Mugoovi"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Infection dynamics and evolution of legume-associated rhizobia in response to phage"
               
-feature_row13:
+feature_row14:
+  - image_path: /assets/images/HamzaHead.png
+    alt: "Sabri"
+    title: "Sabri Hamza"
+    excerpt: "**Undergraduate student** <br> 
+              *Research Interests*: Computational biology, imaging technology, host-virus interactions"
+              
+feature_row15:
   - image_path: /assets/images/ErgulHead.png
     alt: "Ali"
     title: "Ali Ergül"
@@ -132,6 +146,10 @@ feature_row13:
 {% include feature_row id="feature_row12" type="left" %}
 
 {% include feature_row id="feature_row13" type="left" %}
+
+{% include feature_row id="feature_row14" type="left" %}
+
+{% include feature_row id="feature_row15" type="left" %}
 
 
 
