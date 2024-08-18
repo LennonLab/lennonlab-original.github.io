@@ -8,23 +8,41 @@ header:
   image: /assets/images/megaterium.jpg
 ---
 
+
+<!--- pub entry --->
+Nevermann Henrik D, Gros C, Lennon JT (2024) A game of life with dormancy. arXiv 2406.13765v1 arXiv [doi.org/doi.org/10.48550/arXiv.2406.13765](https://arxiv.org/pdf/2406.13765)
+ 
+ 
+<!--- pub entry --->
+Măgălie A, Marantos A, Schwartz DA, Marchi J, Lennon JT, Weitz JS (2024) Phage infection fronts trigger early sporulation and collective defense in bacterial populations. bioRxiv [doi.org/10.1101/2024.05.22.595388](https://www.biorxiv.org/content/10.1101/2024.05.22.595388v1.full.pdf)
+
+
 <!--- pub entry --->
 Peixoto R, Voolstra CR, Stein LY, Hugenholtz P, Salles JF, Amin SA, Häggblom M, Gregory A, Makhalanyane TP, Wang F, Agbodjato NA, Wang Y, Jiao N, Lennon JT, Ventosa A, Bavoil PM, Miller V, Gilbert JA (In Review) Microbiology at the brink: a unified call for action against climate catastrophe. 
+
 
 <!--- pub entry --->
 McGill B, Jarzyna M, Diaz R, Barnes C, Diaz FH, Economo, E, French C, Hagen O, James H, Kivlin S, Lahiri, S, Lennon JT, Mascarenhas R, Ohyama L, Rabosky DL, Zhu K, Hickerson M, Gillespie R (In Review) A call to develop a coherent discipline of biodiversity science to address global change. 
 
+
 <!--- pub entry --->
 Wu W, Hsieh C, Logares R, <u>Lennon JT</u>, Liu H (In Review) Selection exceeds homogenizing dispersal in shaping highly connected bacterial communities along strong environmental gradients.	
+
 
 <!--- pub entry --->
 Zang Z, Zhang C, Park KJ, Schwartz DA, Podicheti R, Lennon JT, Gerdt JP (2024) Bacterium secretes chemical inhibitor that sensitizes competitor to bacteriophage infection. bioRxiv [doi.org/10.1101/2024.01.31.578241](https://www.biorxiv.org/content/10.1101/2024.01.31.578241v1.full.pdf)
 
+
+<!--- pub entry --->
+Waldrop MP, Ernakovich JG, Schaefer S, Mackleprang R, Taş N, Vishnivetskay T, Li Z, Ricketts M, Leewis M, Hewitt R, Hultman J, Sun Y, Biaasi C, Bradly J, Liebner S, Winkel M, Musarella ME, Schuette U, Whalen E, Timling I, Voigt C, O’Brien JM, Lennon JT, Barta J, Lloyd KG, Barbato RA, Siljanen HMP, Rivkina EM, Heffernan L, Onstott TC, Voříšková J, Tao J, Lian R (In Review) Microbial ecology of permafrost soils: populations, processes, and perspectives.
+
+
 <!--- pub entry --->	
 Hu A, Jang K-S, Tanentzap AJ, Zhao W, <u>Lennon JT</u>, Liu J, Li M, Stegen JC, Choi M, Lu Y, Feng X, Wang J (2024) Thermal responses of dissolved organic matter under global change. Nature Communications 15: 576 ([pdf]({{ site.url }}/assets/publications/Hu_etal_2024.pdf)) 
 
+
 <!--- pub entry --->
-<u>Lennon JT</u>, Abramoff RZ, Allison SD, Burckhardt RM, DeAngelis KM, Dunne JP, Frey SD, Friedlingstein P, Hawkes CV, Hungate BA, Khurana S, Kivlin SN, Levine N, Manzoni S, Martiny AC, Martiny JBH, Nguyen N, Rawat M, Talmy D, Todd-Browne K, Vogt M, Wieder WR, Zakem E (2024) Priorities, opportunities, and challenges for integrating microorganisms into Earth system models for climate change prediction. mBio 15: 10.1128/mbio.00455-24 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2024.pdf)) 
+<u>Lennon JT</u>, Abramoff RZ, Allison SD, Burckhardt RM, DeAngelis KM, Dunne JP, Frey SD, Friedlingstein P, Hawkes CV, Hungate BA, Khurana S, Kivlin SN, Levine N, Manzoni S, Martiny AC, Martiny JBH, Nguyen N, Rawat M, Talmy D, Todd-Browne K, Vogt M, Wieder WR, Zakem E (2024) Priorities, opportunities, and challenges for integrating microorganisms into Earth system models for climate change prediction. mBio 15: e00455-24([pdf]({{ site.url }}/assets/publications/Lennon_etal_2024.pdf)) 
 
 
 <!--- pub entry --->
@@ -50,6 +68,7 @@ Schwartz DA, Rodríguez-Ramos J, Shaffer M, Flynn F, Daly R, Wrighton KC, <u>Len
 <!--- pub entry --->
 Wisnoski NI, <u>Lennon JT</u> (2023) Scaling up and down: movement ecology for microorganisms. Trends in Microbiology 31: 242-253 ([pdf]({{ site.url }}/assets/publications/Wisnoski_Lennon_2023.pdf)) 
 
+
 <!--- pub entry --->
 Măgălie A, Schwartz DA, <u>Lennon JT</u>, Weitz JS (2023) Optimal dormancy strategies in fluctuating environments given delays in phenotypic switching. Journal of Theoretical Biology 561: 111413 ([pdf]({{ site.url }}/assets/publications/Magalie_etal_2023.pdf)) 
 
@@ -72,6 +91,7 @@ McMullen JG, <u>Lennon JT</u> (2023) Mark-recapture of microorganisms. Environme
 
 <!--- pub entry --->
 <u>Lennon JT</u>, van der Elst LA, Mueller EA, Gumennik A (2023) Gut bioreactor and method for making the same. US Patent 11,840,681 B2 ([pdf)]({{ site.url }}/assets/publications/Lennon_etal_2023b.pdf)
+
 
 <!--- pub entry --->
 <u>Lennon JT</u> and 28 others (2023) Colloquium report: Microbes in models: integrating microbes into earth system models for understanding climate change. Washington, DC, American Society for Microbiology 
