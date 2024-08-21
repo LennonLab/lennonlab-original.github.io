@@ -10,31 +10,35 @@ header:
 
 
 <!--- pub entry --->
-Nevermann Henrik D, Gros C, Lennon JT (2024) A game of life with dormancy. arXiv 2406.13765v1 arXiv [doi.org/doi.org/10.48550/arXiv.2406.13765](https://arxiv.org/pdf/2406.13765)
+Nevermann Henrik D, Gros C, <u>Lennon JT</u> (2024) A game of life with dormancy. arXiv 2406.13765v1 arXiv [doi.org/doi.org/10.48550/arXiv.2406.13765](https://arxiv.org/pdf/2406.13765)
  
  
 <!--- pub entry --->
-Măgălie A, Marantos A, Schwartz DA, Marchi J, Lennon JT, Weitz JS (2024) Phage infection fronts trigger early sporulation and collective defense in bacterial populations. bioRxiv [doi.org/10.1101/2024.05.22.595388](https://www.biorxiv.org/content/10.1101/2024.05.22.595388v1.full.pdf)
+Măgălie A, Marantos A, Schwartz DA, Marchi J, <u>Lennon JT</u>, Weitz JS (2024) Phage infection fronts trigger early sporulation and collective defense in bacterial populations. bioRxiv [doi.org/10.1101/2024.05.22.595388](https://www.biorxiv.org/content/10.1101/2024.05.22.595388v1.full.pdf)
 
 
 <!--- pub entry --->
-Peixoto R, Voolstra CR, Stein LY, Hugenholtz P, Salles JF, Amin SA, Häggblom M, Gregory A, Makhalanyane TP, Wang F, Agbodjato NA, Wang Y, Jiao N, Lennon JT, Ventosa A, Bavoil PM, Miller V, Gilbert JA (In Review) Microbiology at the brink: a unified call for action against climate catastrophe. 
+Peixoto R, Voolstra CR, Stein LY, Hugenholtz P, Salles JF, Amin SA, Häggblom M, Gregory A, Makhalanyane TP, Wang F, Agbodjato NA, Wang Y, Jiao N, <u>Lennon JT</u>, Ventosa A, Bavoil PM, Miller V, Gilbert JA (In Review) Microbiology at the brink: a unified call for action against climate catastrophe. 
 
 
 <!--- pub entry --->
-McGill B, Jarzyna M, Diaz R, Barnes C, Diaz FH, Economo, E, French C, Hagen O, James H, Kivlin S, Lahiri, S, Lennon JT, Mascarenhas R, Ohyama L, Rabosky DL, Zhu K, Hickerson M, Gillespie R (In Review) A call to develop a coherent discipline of biodiversity science to address global change. 
+McGill B, Jarzyna M, Diaz R, Barnes C, Diaz FH, Economo, E, French C, Hagen O, James H, Kivlin S, Lahiri, S, <u>Lennon JT</u> Mascarenhas R, Ohyama L, Rabosky DL, Zhu K, Hickerson M, Gillespie R (In Review) A call to develop a coherent discipline of biodiversity science to address global change. 
 
 
 <!--- pub entry --->
-Wu W, Hsieh C, Logares R, <u>Lennon JT</u>, Liu H (In Review) Selection exceeds homogenizing dispersal in shaping highly connected bacterial communities along strong environmental gradients.	
+Beattie GA, Edlund A, Esiobu N, Gilbert J, Nicolaisen MH, Jansson JK, Jensen P, Keiluwei M, <u>Lennon JT</u>, Martiny JBH, Minnisi VR, Newmann D, Peixoto R, Schadt C, van der Meer JR, and the Soil Microbiome Consortium for Climate Mitigation (In Review) Soil microbiome interventions for carbon sequestration and climate mitigation. 
 
 
 <!--- pub entry --->
-Zang Z, Zhang C, Park KJ, Schwartz DA, Podicheti R, Lennon JT, Gerdt JP (2024) Bacterium secretes chemical inhibitor that sensitizes competitor to bacteriophage infection. bioRxiv [doi.org/10.1101/2024.01.31.578241](https://www.biorxiv.org/content/10.1101/2024.01.31.578241v1.full.pdf)
+Wu W, Hsieh C, Logares R, <u>Lennon JT</u>, Liu H (In Review) Ecological processes shaping highly connected bacterial ommunities along strong environmental gradients.	
 
 
 <!--- pub entry --->
-Waldrop MP, Ernakovich JG, Schaefer S, Mackleprang R, Taş N, Vishnivetskay T, Li Z, Ricketts M, Leewis M, Hewitt R, Hultman J, Sun Y, Biaasi C, Bradly J, Liebner S, Winkel M, Musarella ME, Schuette U, Whalen E, Timling I, Voigt C, O’Brien JM, Lennon JT, Barta J, Lloyd KG, Barbato RA, Siljanen HMP, Rivkina EM, Heffernan L, Onstott TC, Voříšková J, Tao J, Lian R (In Review) Microbial ecology of permafrost soils: populations, processes, and perspectives.
+Zang Z, Zhang C, Park KJ, Schwartz DA, Podicheti R, <u>Lennon JT</u>, Gerdt JP (2024) Bacterium secretes chemical inhibitor that sensitizes competitor to bacteriophage infection. bioRxiv [doi.org/10.1101/2024.01.31.578241](https://www.biorxiv.org/content/10.1101/2024.01.31.578241v1.full.pdf)
+
+
+<!--- pub entry --->
+Waldrop MP, Ernakovich JG, Schaefer S, Mackleprang R, Taş N, Vishnivetskay T, Li Z, Ricketts M, Leewis M, Hewitt R, Hultman J, Sun Y, Biaasi C, Bradly J, Liebner S, Winkel M, Musarella ME, Schuette U, Whalen E, Timling I, Voigt C, O’Brien JM, <u>Lennon JT</u>, Barta J, Lloyd KG, Barbato RA, Siljanen HMP, Rivkina EM, Heffernan L, Onstott TC, Voříšková J, Tao J, Lian R (In Review) Microbial ecology of permafrost soils: populations, processes, and perspectives.
 
 
 <!--- pub entry --->	
@@ -50,7 +54,7 @@ Moger-Reischer RZ, Glass JI, Wise KS, Sun L, Bittencourt DMC, Lehmkuhl BK, Schoo
 
 
 <!--- pub entry --->
-Schwartz DA, Shoemaker WR, Măgălie A, Weitz JS, Lennon JT (2023) Bacteria-phage coevolution with a seed bank. ISMEJ 17: 1315–1325 ([pdf]({{ site.url }}/assets/publications/Schwartz_etal_2023b.pdf)) 
+Schwartz DA, Shoemaker WR, Măgălie A, Weitz JS, <u>Lennon JT</u> (2023) Bacteria-phage coevolution with a seed bank. ISMEJ 17: 1315–1325 ([pdf]({{ site.url }}/assets/publications/Schwartz_etal_2023b.pdf)) 
 
 
 <!--- pub entry --->
@@ -74,11 +78,11 @@ Măgălie A, Schwartz DA, <u>Lennon JT</u>, Weitz JS (2023) Optimal dormancy str
 
 
 <!--- pub entry --->
-Lennon JT, Frost SDW, Nguyen NK, Peralta AL, Place AR, Treseder KK (2023) Microbiology and climate change: a transdisciplinary imperative. mBio 13: e0335-22 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2023.pdf))
+<u>Lennon JT</u>, Frost SDW, Nguyen NK, Peralta AL, Place AR, Treseder KK (2023) Microbiology and climate change: a transdisciplinary imperative. mBio 13: e0335-22 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2023.pdf))
 
 
 <!--- pub entry --->
-Bolin LG, Lennon JT, Lau JA (2023) Traits of soil bacteria predict plant responses to soil moisture. Ecology 104: e3893 ([pdf]({{ site.url }}/assets/publications/Bolin_etal_2023.pdf))
+Bolin LG, <u>Lennon JT</u>, Lau JA (2023) Traits of soil bacteria predict plant responses to soil moisture. Ecology 104: e3893 ([pdf]({{ site.url }}/assets/publications/Bolin_etal_2023.pdf))
 	
 	
 <!--- pub entry --->		
