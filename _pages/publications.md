@@ -10,11 +10,22 @@ header:
 
 
 <!--- pub entry --->
+Webster KD, <u>Lennon JT</u> (2024) Dormancy in the origin, evolution, and persistence of life on Earth. EcoEvoRxiv [doi.org/10.32942/X2V626](https://ecoevorxiv.org/repository/view/7588/)
+
+
+<!--- pub entry --->
 Nevermann Henrik D, Gros C, <u>Lennon JT</u> (2024) A game of life with dormancy. arXiv 2406.13765v1 arXiv [doi.org/doi.org/10.48550/arXiv.2406.13765](https://arxiv.org/pdf/2406.13765)
- 
+
+
+<!--- pub entry --->
+Mueller EA, <u>Lennon JT</u> (2024) Residence time structures microbial communities through niche partitioning. bioRxiv [doi.org/10.1101/2024.08.22.609267](https://www.biorxiv.org/content/10.1101/2024.08.22.609267v1.full.pdf)
+
  
 <!--- pub entry --->
 Măgălie A, Marantos A, Schwartz DA, Marchi J, <u>Lennon JT</u>, Weitz JS (2024) Phage infection fronts trigger early sporulation and collective defense in bacterial populations. bioRxiv [doi.org/10.1101/2024.05.22.595388](https://www.biorxiv.org/content/10.1101/2024.05.22.595388v1.full.pdf)
+
+<!--- pub entry --->
+Zang Z, Zhang C, Park KJ, Schwartz DA, Podicheti R, <u>Lennon JT</u>, Gerdt JP (2024) Bacterium secretes chemical inhibitor that sensitizes competitor to bacteriophage infection. bioRxiv [doi.org/10.1101/2024.01.31.578241](https://www.biorxiv.org/content/10.1101/2024.01.31.578241v1.full.pdf)
 
 
 <!--- pub entry --->
@@ -30,11 +41,7 @@ Beattie GA, Edlund A, Esiobu N, Gilbert J, Nicolaisen MH, Jansson JK, Jensen P, 
 
 
 <!--- pub entry --->
-Wu W, Hsieh C, Logares R, <u>Lennon JT</u>, Liu H (In Review) Ecological processes shaping highly connected bacterial ommunities along strong environmental gradients.	
-
-
-<!--- pub entry --->
-Zang Z, Zhang C, Park KJ, Schwartz DA, Podicheti R, <u>Lennon JT</u>, Gerdt JP (2024) Bacterium secretes chemical inhibitor that sensitizes competitor to bacteriophage infection. bioRxiv [doi.org/10.1101/2024.01.31.578241](https://www.biorxiv.org/content/10.1101/2024.01.31.578241v1.full.pdf)
+Wu W, Hsieh C, Logares R, <u>Lennon JT</u>, Liu H (In Review) Ecological processes shaping highly connected bacterial communities along strong environmental gradients.	
 
 
 <!--- pub entry --->
@@ -46,7 +53,7 @@ Hu A, Jang K-S, Tanentzap AJ, Zhao W, <u>Lennon JT</u>, Liu J, Li M, Stegen JC, 
 
 
 <!--- pub entry --->
-<u>Lennon JT</u>, Abramoff RZ, Allison SD, Burckhardt RM, DeAngelis KM, Dunne JP, Frey SD, Friedlingstein P, Hawkes CV, Hungate BA, Khurana S, Kivlin SN, Levine N, Manzoni S, Martiny AC, Martiny JBH, Nguyen N, Rawat M, Talmy D, Todd-Browne K, Vogt M, Wieder WR, Zakem E (2024) Priorities, opportunities, and challenges for integrating microorganisms into Earth system models for climate change prediction. mBio 15: e00455-24([pdf]({{ site.url }}/assets/publications/Lennon_etal_2024.pdf)) 
+<u>Lennon JT</u>, Abramoff RZ, Allison SD, Burckhardt RM, DeAngelis KM, Dunne JP, Frey SD, Friedlingstein P, Hawkes CV, Hungate BA, Khurana S, Kivlin SN, Levine N, Manzoni S, Martiny AC, Martiny JBH, Nguyen N, Rawat M, Talmy D, Todd-Browne K, Vogt M, Wieder WR, Zakem E (2024) Priorities, opportunities, and challenges for integrating microorganisms into Earth system models for climate change prediction. mBio 15: e00455-24 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2024.pdf)) 
 
 
 <!--- pub entry --->
