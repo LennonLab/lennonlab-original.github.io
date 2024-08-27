@@ -69,7 +69,7 @@ Fishman FJ, <u>Lennon JT</u> (2023) Macroevolutionary constraints on global micr
 
 
 <!--- pub entry --->	
-Zhou X, <u>Lennon JT</u>, Lu X, Ruan A (2023) Anthropogenic activities mediate stratification and stability of microbial communities in freshwater sediments. Microbiome 11: 191 ([pdf]({{ site.url }}/assets/publications/Xhou_etal_2023.pdf)) 
+Zhou X, <u>Lennon JT</u>, Lu X, Ruan A (2023) Anthropogenic activities mediate stratification and stability of microbial communities in freshwater sediments. Microbiome 11: 191 ([pdf]({{ site.url }}/assets/publications/Zhou_etal_2023.pdf)) 
 
 
 <!--- pub entry --->		
