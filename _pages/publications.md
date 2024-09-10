@@ -24,8 +24,13 @@ Mueller EA, <u>Lennon JT</u> (2024) Residence time structures microbial communit
 <!--- pub entry --->
 Măgălie A, Marantos A, Schwartz DA, Marchi J, <u>Lennon JT</u>, Weitz JS (2024) Phage infection fronts trigger early sporulation and collective defense in bacterial populations. bioRxiv [doi.org/10.1101/2024.05.22.595388](https://www.biorxiv.org/content/10.1101/2024.05.22.595388v1.full.pdf)
 
+
 <!--- pub entry --->
 Zang Z, Zhang C, Park KJ, Schwartz DA, Podicheti R, <u>Lennon JT</u>, Gerdt JP (2024) Bacterium secretes chemical inhibitor that sensitizes competitor to bacteriophage infection. bioRxiv [doi.org/10.1101/2024.01.31.578241](https://www.biorxiv.org/content/10.1101/2024.01.31.578241v1.full.pdf)
+
+
+<!--- pub entry --->
+Hu A, Cui Y, Bercovici, Tanentzap AJ, <u>Lennon JT</u>, Lin X, Yang Y, Liu Y, Osterholz H, Dong H, Lu Y, Jiao N, Wang J (2024) Photochemical processes drive thermal responses of dissolved organic matter in the dark ocean. bioRxiv [doi.org/10.1101/2024.09.06.611638](https://www.biorxiv.org/content/10.1101/2024.09.06.611638v1.full.pdf)
 
 
 <!--- pub entry --->
