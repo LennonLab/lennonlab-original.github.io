@@ -5,13 +5,13 @@ title: People
 permalink: /people/
 author_profile: true
 header:
-  image: /assets/images/syn_wells.jpg
+  image: /assets/images/megaterium.jpg
 feature_row1:
-  - image_path: /assets/images/JayHead.jpg
+  - image_path: /assets/images/JayHead.png
     alt: "Jay"
     title: "Jay T. Lennon"
     excerpt: "**Principal Investigator** <br> 
-              *Research Interests*: Microbial ecology, evolution, biodiversity" <br>
+              *Research Interests*: Ecology, evolution, and biodiversity of microbial systems <br>
               [Google Scholar](https://scholar.google.com/citations?user=d-hWatsAAAAJ&hl=en&inst=13098912254855678857) <br>
               [ORCiD](https://orcid.org/0000-0003-3126-6111)"
     url: "/cv/"
@@ -19,76 +19,107 @@ feature_row1:
     btn_label: "   CV   "
 
 feature_row2:
-  - image_path: /assets/images/McMullenHead.jpg
-    alt: "John"
-    title: "John McMullen"
-    excerpt: "**Postdoc** <br> 
-              *Research Interests*: Among-microbe interactions in microbiomes, nutritional symbioses, chemical ecology"
-
+  - image_path: /assets/images/LuoHead.png
+    alt: "Jipeng"
+    title: "Jipeng Luo"
+    excerpt: "**Postdoctoral researcher** <br> 
+              *Research Interests*: Ecology and evolution of microbial communities, plant-microbiome interactions, evolutionary genomics, soil remediation"
+              
 feature_row3:
-  - image_path: /assets/images/KarakocHead.jpg
-    alt: "Canan"
-    title: "Canan Karakoç"
-    excerpt: "**Postdoc** <br> 
-              *Research Interests*: Species interactions and coexistence; eco-evolutionary dynamics; experimental evolution; energy limitation and evolution of dormancy [website](https://canankarakoc.netlify.app/)"
-
+  - image_path: /assets/images/BuerenHead.png
+    alt: "Emma"
+    title: "Emma Bueren"
+    excerpt: "**Postdoctoral researcher** <br> 
+              *Research Interests*: Bactere-phage evolutionary ecology, nested symbioses, host microbiomes"
+              
 feature_row4:
-  - image_path: /assets/images/MuellerHead.jpg
+  - image_path: /assets/images/KangHead.png
+    alt: "Sungyun"
+    title: "Sungyun Kang"
+    excerpt: "**Research Associate** <br> 
+              *Research Interests*: Molecular genetics, genomics, cell biology, transcription factors "
+
+feature_row5:
+  - image_path: /assets/images/MuellerHead.png
     alt: "Emmi"
     title: "Emmi Mueller"
-    excerpt: "**Ph.D. Student** <br> 
+    excerpt: "**Ph.D. student** <br> 
               *Research Interests*: Physical complexity and microbial communities [website](https://emmiamueller.weebly.com/)"
-                  
-feature_row5:
-  - image_path: /assets/images/OBrienHead.jpg
-    alt: "Joy"
-    title: "Joy O'Brien"
-    excerpt: "**Ph.D. Student** <br> 
-              *Research Interests*: Microbial dormancy, permafrost soils, and global change in the Arctic"
 
 feature_row6:
-  - image_path: /assets/images/JasmineHead.jpg
+  - image_path: /assets/images/OBrienHead.png
     alt: "Joy"
-    title: "Jasmine Ahmed"
-    excerpt: "**Master's stduent** <br> 
-              *Research Interests*: Sporulatoin and enviromental change"
+    title: "Joy O'Brien"
+    excerpt: "**Ph.D. student** <br> 
+              *Research Interests*: Microbial dormancy, permafrost soils, and global change in the Arctic"
               
 feature_row7:
-  - image_path: /assets/images/HillHead.jpg
-    alt: "Caleb"
-    title: "Caleb Hill"
-    excerpt: "**Undergraduate** <br> 
-              *Research Interests*: Evolutionary genomics of symbiosis"  
+  - image_path: /assets/images/ParkHead.png
+    alt: "El"
+    title: "El Park"
+    excerpt: "**Ph.D. student** <br> 
+              *Research Interests*: Intracellular mechanisms of sporulation and phage infections, division of labor in spore-forming populations"
+              
               
 feature_row8:
-  - image_path: /assets/images/JaziriHead.jpg
-    alt: "Ryan"
-    title: "Rayan Jaziri"
-    excerpt: "**Undergraduate** <br> 
-              *Research Interests*: Microbiology"      
+  - image_path: /assets/images/LennonAHead.png
+    alt: "Anna"
+    title: "Anna Lennon"
+    excerpt: "**Ph.D. student** <br> 
+              *Research Interests*: Ecology and evolution of microbial communities, dormancy and pathogenesis, emergence of dormancy in the tree of life"
+
 
 feature_row9:
-  - image_path: /assets/images/HillHead.jpg
-    alt: "Ryan"
-    title: "Rayan Jaziri"
-    excerpt: "**Undergraduate** <br> 
-              *Research Interests*: Microbiology"     
+  - image_path: /assets/images/JasmineHead.png
+    alt: "Jasmine"
+    title: "Jasmine Ahmed"
+    excerpt: "**Research Technician** <br> 
+              *Research Interests*: Sporulation of bacteria and virospore formation in soils and permafrost"
 
 feature_row10:
-  - image_path: /assets/images/McHughHead.jpg
-    alt: "Alison"
-    title: "Alison McHugh"
-    excerpt: "**Undergraduate** <br> 
-              *Research Interests*: Microbial ecology and phage-host coevolution"
+  - image_path: /assets/images/HillHead.png
+    alt: "Caleb"
+    title: "Caleb Hill"
+    excerpt: "**Undergraduate student** <br> 
+              *Research Interests*: Evolutionary genomics of leguem-rhizobia symbiosis under nitrogen enrichment"
 
 feature_row11:
-  - image_path: /assets/images/CaseHead.jpg
-    alt: "Emmi"
-    title: "Emmi Case"
-    excerpt: "**Undergraduate** <br> 
-              *Research Interests*: Division of labor in microbes"  
-                         
----
+  - image_path: /assets/images/CaseHead.png
+    alt: "Emily"
+    title: "Emily Case"
+    excerpt: "**Undergraduate student** <br> 
+              *Research Interests*: Division of labor among engineered strains of spore-forming bacteria using experimental evolution"
+
+feature_row12:
+  - image_path: /assets/images/EdwardsHead.png
+    alt: "Kaliyah"
+    title: "Kaliyah Edwards"
+    excerpt: "**Undergraduate student** <br> 
+              *Research Interests*: Microbial ecology and host-phage coevolution across plant and soil habitats"
+              
+feature_row13:
+  - image_path: /assets/images/MugooviHead.png
+    alt: "Henock"
+    title: "Henock Mugoovi"
+    excerpt: "**Undergraduate student** <br> 
+              *Research Interests*: Infection dynamics and evolution of legume-associated rhizobia in response to phage"
+              
+feature_row14:
+  - image_path: /assets/images/HamzaHead.png
+    alt: "Sabri"
+    title: "Sabri Hamza"
+    excerpt: "**Undergraduate student** <br> 
+              *Research Interests*: Computational biology, imaging technology, host-virus interactions"
+              
+feature_row15:
+  - image_path: /assets/images/ErgulHead.png
+    alt: "Ali"
+    title: "Ali Ergül"
+    excerpt: "**Visiting student (Boğaziçi University, Turkey)** <br> 
+              *Research Interests*: Molecular evolution, evolution of microbial communities, microbiome-host interactions and coevolution"
+
+
+
 ---
 {% include feature_row id="feature_row1" type="left" %}
 
@@ -112,94 +143,221 @@ feature_row11:
 
 {% include feature_row id="feature_row11" type="left" %}
 
+{% include feature_row id="feature_row12" type="left" %}
 
+{% include feature_row id="feature_row13" type="left" %}
+
+{% include feature_row id="feature_row14" type="left" %}
+
+{% include feature_row id="feature_row15" type="left" %}
+
+
+
+
+## Former Lab Members
+
+#### Postdocs and Graduate Students
 ---
-##  Past Lab Members
+*[John McMullen](https://www.linkedin.com/in/john-mcmullen2)*, Postdoc (Research Scientist, Bayer)<br>
 
-### Postdocs and Graduate Students
+*[Canan Karacoç](https://canankarakoc.netlify.app/)*, Postdoc (Research Scholar, Georgia Institute of Technology)<br>
 
-**Daniel Schwartz**, Postdoc, Microbiologist at DSM<br>
+*[Daniel Schwartz](https://www.linkedin.com/in/danschw/)*, Postdoc (Microbiologist, DSM)<br>
 
-**Pat Wall**, Master's student<br>
+*[Pat Wall](https://www.linkedin.com/in/pat-wall-56a082185/)*, MS (Research Asssistant, University of Michigan)<br>
 
-**Ford Fishman**, Master's student, Data Analysis Specialist at Brandeis University <br>
+*[Ford Fishman](https://www.linkedin.com/in/ford-fishman-64a698203/)*, MS (Data Analysis Specialist, Brandeis University) <br>
 
-**Roy Moger-Reischer** ,Ph.D. student, Scientist at Arzeda<br>
+*[Roy Moger-Reischer](https://www.linkedin.com/in/roy-moger-reischer/)*, Ph.D. (Scientist, Arzeda)<br>
 
-**Will Shoemaker**, Ph.D. student, Postdoc at The Abdus Salam International Centre for Theoretical Physics<br>
+*[Will Shoemaker](https://wrshoemaker.github.io/)*, Ph.D. (Postdoc, Abdus Salam International Centre for Theoretical Physics)<br>
 
-**Nathan Wisnoski**, Ph.D. student, Assistant Professor at Mississippi State University<br>
+*[Nathan Wisnoski](https://www.nathanwisnoski.com/)*, Ph.D. (Assistant Professor, Mississippi State University)<br>
 
-**Megan Behringer**, Postdoctoral Researcher, Asssistant Professor Vanderbilt Universitybr>
+*[Megan Behringer](https://as.vanderbilt.edu/biological-sciences/bio/megan-behringer/)*, Postdoc (Asssistant Professor, Vanderbilt University)<br>
 
-**Chian-Jun** Chen, Graduate Student, Bioetchnologist<br>
+*Chian-Jun Chen*, MS<br>
 
-**Jordan Bird**, Postdoctoral Researcher, Bioinformatician, University of Arkansas for Medical Sciences<br>
+*[Jordan Bird](https://www.linkedin.com/in/jordan-bird-9291a357/)*, Postdoc (Bioinformatician, University of Arkansas for Medical Sciences)<br>
 
-**Ken Locey**, Postdoctoral Researcher, Data Analyst, Rush University Medical Center<br>
+*[Ken Locey](https://www.weecology.org/author/ken-locey/)*, Postdoc (Data Analyst, Rush University Medical Center)<br>
 
-**Venus Kuo**, Master's Student, Data Scientist<br>
+*[Venus Kuo](https://www.researchgate.net/scientific-contributions/Venus-Kuo-2175857593)*, MS<br>
 
-**Kevin Webster**, Ph.D. student, Assistant Professor Diné College<br>
+*[Kevin Webster](https://websterkgd.com/)*, Ph.D. (Assistant Professor, Diné College)<br>
 
-**Mario Muscarella**, Ph.D. student, Assistant Professor University of Alaska Fairbanks<br>
+*[Mario Muscarella](https://muscarellalab.github.io/)*, Ph.D. (Assistant Professor, University of Alaska Fairbanks)<br>
 
-**Megan Larsen**, Ph.D. student, Data Scientist at Pivot Bio
+*[Megan Larsen](https://www.linkedin.com/in/meganllarsen/)*, Ph.D. (Data Scientist, Pivot Bio)<br>
 
-**Ariane Peralta**, Postdoctoral Researcher, Associate Professor East Carolina University<br>
+*[Ariane Peralta](https://www.peraltalab.com/)*, Postdoc (Associate Professor, East Carolina University)<br>
 
-**Sarah Placella**, Postdoctoral Researcher, CEO Root Applied Sciences<br>
+*[Sarah Placella](https://www.linkedin.com/in/sarah-placella-0a21565/)*, Postdoc (CEO, Root Applied Sciences)<br>
 
-**Stuart Jones**, Postdoctoral Researcher, Professor University of Notre Dame<br>
+*[Stuart Jones](https://www3.nd.edu/~sjones20/)*, Postdoc (Professor, University of Notre Dame)<br>
 
-**Ed Hall**, Postdoctoral Researcher, Associate Professor Colorado State University<br>
+*[Ed Hall](https://www.nrel.colostate.edu/investigator/ed-hall-homepage/)*, Postdoc (Associate Professor, Colorado State University)<br>
 
-**Zach Aanderud**, Postdoctoral Researcher, Professor at Brigham Young University<br>
+*[Zach Aanderud](https://pws.byu.edu/zach-aanderud-lab)*, Postdoc (Professor, Brigham Young University)<br>
 
-**Evan Kane**, Postdoctoral Researcher, Associate Professor Michigan Tech<br>
+*[Evan Kane](https://www.mtu.edu/forest/about/faculty-staff/faculty/kane/)*, Postdoc (Associate Professor, Michigan Tech)<br>
 
-**Kali Bird**, Master's Student, Associate Director Catksill Center for Conservation and Development<br>
-
-### Visiting Scholars and Teachers
-**Melany Fisk**, Professor, Miami University<br>
-
-**Sarah Bray**, Professor, Transylvania University<br>
-
-**Marty Green**, Teacher, Plainwell Middle School<br>
-
-**Sandy Erwin**, Teacher, Harper Creek High School<br>
+*[Kali Bird](https://www.linkedin.com/in/kali-bird-0a039964/)*, MS (Deputy Executive Director, Catksill Center for Conservation and Development)<br>
 
 
-### Research Technicians and Assistants
 
-**Brent Lehmkuhl**, Technician<br>
+#### Visiting Scholars and Teachers
+---
+*Melany Fisk*, Professor, Miami University<br>
 
-**Emily Long**, Technician<br>
+*Sarah Bray*, Professor, Transylvania University<br>
 
-**Kyle Miller**, Technician<br>
+*Marty Green*, Teacher, Plainwell Middle School<br>
 
-**McKenzie Givens**, Technician<br>
+*Sandy Erwin*, Teacher, Harper Creek High School<br>
 
-**Steve Reynolds**, Technician<br>
 
-**Evgeniya Polezhaeva**, Technician<br>
 
-**Sophie Kranke**, Technician<br>
+#### Research Technicians and Assistants
+---
+*Brent Lehmkuhl*, Technician<br>
 
-**Sarah Widney**, Technician<br>
+*Bezner Jonathan Gomez Dominguez*, Technician<br>
 
-**Sarah Kuenzel**, Technician<br>
+*Emily Long*, Technician<br>
 
-**Brent Nowinski**, Technician<br>
+*Kyle Miller*, Technician<br>
 
-**Megan Lowenberg**, Technician<br>
+*McKenzie Givens*, Technician<br>
 
-**Lewis Wooster**, Technician<br>
+*Steve Reynolds*, Technician<br>
 
-**Rob Morrison**, Technician<br>
+*Evgeniya Polezhaeva*, Technician<br>
 
-**Cathy McMinn**, Technician<br>
+*Sophie Kranke*, Technician<br>
 
-**Justin Rensch**, Assistant<br>
+*Sarah Widney*, Technician<br>
 
-**Bryan Wallace**, Assistant<br>
+*Sarah Kuenzel*, Technician<br>
+
+*Brent Nowinski*, Technician<br>
+
+*Megan Lowenberg*, Technician<br>
+
+*Lewis Wooster*, Technician<br>
+
+*Rob Morrison*, Technician<br>
+
+*Cathy McMinn* Technician<br>
+
+*Justin Rensch*, Assistant<br>
+
+*Bryan Wallace*, Assistant<br>
+
+
+
+#### Undergraduate Researchers
+---
+
+*Michalle Mendoza*, University California Berkeley<br>
+
+*Jayda Griffin*, Indiana University<br>
+
+*Kim Reish*, Indiana University<br>
+
+*Jainiah Harden*, Indiana University<br>
+
+*Alison McHugh*, Indiana University<br>
+
+*Rayan Jaziri*, Indiana University<br>
+
+*Melih Çakar*, Middle East Technical University<br>
+
+*Danni Boylan*, Indiana University<br>
+
+*Bryan Julijanto*, Indiana University<br>
+
+*Elizabeth ("Betsy") Snider*, Indiana University<br>
+
+*Katarina Walker*, Indiana University<br>
+
+*Kelsey McKenzie*, Indiana University<br>
+
+*Ashley Justice*, Indiana University<br>
+
+*John "JD" French*, Indiana University<br>
+
+*Benjamin Kelly*, Indiana University<br>
+
+*Jessica Zellinger*, Indiana University<br>
+
+*Max Zaret*, Indiana University<br>
+
+*Derek Hocker*, Indiana University<br>
+
+*Cari Rice*, Indiana University<br>
+
+*Mollie Carrison*, Indiana University<br>
+
+*SydneyEllen Gooding*, Transylvania University<br>
+
+*Mary Wallace*, Transylvania University<br>
+
+*Benjamin Fleet*, Indiana University<br>
+
+*Bianca Blaettner*, Indiana University<br>
+
+*Catherine Meador*, Indiana University<br>
+
+*Peyton Thomas*, Transylvania University<br>
+
+*Jaylen Beatty*, Transylvania University<br>
+
+*Luke Pryke*, Indiana University<br>
+
+*Drew Meyer*, Indiana University<br>
+
+*Keaton Wieschhaus*, Indiana University<br>
+
+*Sarah Cummins*, Indiana University<br>
+
+*Rachel Ferrill*, Transylvania University<br>
+
+*Jared Brewer*, Transylvania University<br>
+
+*Zachary Wakefield*, Indiana University<br>
+
+*Shanika Daniels*, Indiana University<br>
+
+*Xia Meng Howey*, Indiana University<br>
+
+*Andrew Koultourides*, Indiana University<br>
+
+*Claire Freeman*, Colorado State University<br>
+
+*Ebony Rodgers*, Bennett College<br>
+
+*Sarah Thornburgh*, Drake University<br>
+
+*Taiquitha Robins*, Jackson State University<br>
+
+*Robbie Snyder*, The Ohio State University<br>
+
+*Ben Phillips*, Michigan State University<br>
+
+
+
+#### High School Students
+---
+
+*Ian Schowe*, East Noble High School, Kendallville, IN<br>
+
+*Nicole Nguyen*, Burris Laboratory School, Muncie, IN<br>
+
+*Samuel Iwu*, Indiana Math and Science Academy North, Indianapolis, IN<br>
+
+*Dakayla Calhoun*, Shortridge International Baccalaureate High School, Indianapolis, IN<br>
+
+*Dante Razzo*, Bloomington North High School, Bloomington, IN<br>
+
+*Nick Nelson*, Bishop Noll Institute, Hammond, IN<br>

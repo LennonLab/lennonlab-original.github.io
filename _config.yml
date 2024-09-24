@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Lennon Lab"
 title_separator          : "-"
-subtitle                 : "Microbial Diversity" # site tagline that appears below site title in masthead
+subtitle                 : #"Microbial Diversity" # site tagline that appears below site title in masthead
 name                     : "Lennon Lab"
 description              : "Lennon Lab at Indiana University"
 url                      : "https://lennonlab.github.io"
@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lennon Lab"
+  #name             : "Lennon Lab"
   avatar           : "/assets/images/plaques.png"
-  bio              : "Microbial Biodiversity"
+  #bio              : "Microbial Biodiversity"
   location         : "Bloomington, Indiana"
   links:
     - label: "Email"
