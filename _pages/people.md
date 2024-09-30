@@ -84,41 +84,46 @@ feature_row10:
               *Research Interests*: Evolutionary genomics of leguem-rhizobia symbiosis under nitrogen enrichment"
 
 feature_row11:
-  - image_path: /assets/images/CaseHead.png
-    alt: "Emily"
-    title: "Emily Case"
-    excerpt: "**Undergraduate student** <br> 
-              *Research Interests*: Division of labor among engineered strains of spore-forming bacteria using experimental evolution"
-
-feature_row12:
   - image_path: /assets/images/EdwardsHead.png
     alt: "Kaliyah"
     title: "Kaliyah Edwards"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Microbial ecology and host-phage coevolution across plant and soil habitats"
               
-feature_row13:
+feature_row12:
   - image_path: /assets/images/MugooviHead.png
     alt: "Henock"
     title: "Henock Mugoovi"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Infection dynamics and evolution of legume-associated rhizobia in response to phage"
               
-feature_row14:
+feature_row13:
   - image_path: /assets/images/HamzaHead.png
     alt: "Sabri"
     title: "Sabri Hamza"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Computational biology, imaging technology, host-virus interactions"
-              
+               
+feature_row14:
+  - image_path: /assets/images/SimiHead.png
+    alt: "Mariana"
+    title: "Mariana Simi"
+    excerpt: "**Undergraduate student** <br> 
+              *Research Interests*: Microbiomes, thermal adapation, soil feedbacks "
+
 feature_row15:
-  - image_path: /assets/images/ErgulHead.png
-    alt: "Ali"
-    title: "Ali Ergül"
-    excerpt: "**Visiting student (Boğaziçi University, Turkey)** <br> 
-              *Research Interests*: Molecular evolution, evolution of microbial communities, microbiome-host interactions and coevolution"
-
-
+  - image_path: /assets/images/RadfordHead.png
+    alt: "Nicholas"
+    title: "Nicholas Radford"
+    excerpt: "**Undergraduate student** <br> 
+              *Research Interests*: Division of labor, microbial mutualisms"
+ 
+ feature_row16:
+  - image_path: /assets/images/BatidesHead.png
+    alt: "James"
+    title: "James Batides"
+    excerpt: "**Undergraduate student** <br> 
+              *Research Interests*: Bacteria, phage, evolution"
 
 ---
 {% include feature_row id="feature_row1" type="left" %}
@@ -258,8 +263,13 @@ feature_row15:
 
 #### Undergraduate Researchers
 ---
-
+*Ali Ergül*, Boğaziçi University<br>
+    
 *Michalle Mendoza*, University California Berkeley<br>
+
+*Caleb Hill*, Indiana University<br>
+
+*Emily Case*, Indiana University<br>
 
 *Jayda Griffin*, Indiana University<br>
 
