@@ -109,7 +109,7 @@ feature_row14:
     alt: "Mariana"
     title: "Mariana Simi"
     excerpt: "**Undergraduate student** <br> 
-              *Research Interests*: Microbiomes, thermal adapation, soil feedbacks "
+              *Research Interests*: Microbiomes, thermal adapation, soil feedbacks"
 
 feature_row15:
   - image_path: /assets/images/RadfordHead.png
