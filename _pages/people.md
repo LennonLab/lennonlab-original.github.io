@@ -118,7 +118,7 @@ feature_row15:
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Division of labor, microbial mutualisms"
  
- feature_row16:
+feature_row16:
   - image_path: /assets/images/BatidesHead.png
     alt: "James"
     title: "James Batides"
