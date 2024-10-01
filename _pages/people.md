@@ -70,55 +70,41 @@ feature_row8:
 
 
 feature_row9:
-  - image_path: /assets/images/JasmineHead.png
-    alt: "Jasmine"
-    title: "Jasmine Ahmed"
-    excerpt: "**Research Technician** <br> 
-              *Research Interests*: Sporulation of bacteria and virospore formation in soils and permafrost"
-
-feature_row10:
-  - image_path: /assets/images/HillHead.png
-    alt: "Caleb"
-    title: "Caleb Hill"
-    excerpt: "**Undergraduate student** <br> 
-              *Research Interests*: Evolutionary genomics of leguem-rhizobia symbiosis under nitrogen enrichment"
-
-feature_row11:
   - image_path: /assets/images/EdwardsHead.png
     alt: "Kaliyah"
     title: "Kaliyah Edwards"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Microbial ecology and host-phage coevolution across plant and soil habitats"
               
-feature_row12:
+feature_row10:
   - image_path: /assets/images/MugooviHead.png
     alt: "Henock"
     title: "Henock Mugoovi"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Infection dynamics and evolution of legume-associated rhizobia in response to phage"
               
-feature_row13:
+feature_row11:
   - image_path: /assets/images/HamzaHead.png
     alt: "Sabri"
     title: "Sabri Hamza"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Computational biology, imaging technology, host-virus interactions"
                
-feature_row14:
+feature_row12:
   - image_path: /assets/images/SimiHead.png
     alt: "Mariana"
     title: "Mariana Simi"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Microbiomes, thermal adapation, soil feedbacks"
 
-feature_row15:
+feature_row13:
   - image_path: /assets/images/RadfordHead.png
     alt: "Nicholas"
     title: "Nicholas Radford"
     excerpt: "**Undergraduate student** <br> 
               *Research Interests*: Division of labor, microbial mutualisms"
  
-feature_row16:
+feature_row14:
   - image_path: /assets/images/BatidesHead.png
     alt: "James"
     title: "James Batides"
@@ -153,11 +139,6 @@ feature_row16:
 {% include feature_row id="feature_row13" type="left" %}
 
 {% include feature_row id="feature_row14" type="left" %}
-
-{% include feature_row id="feature_row15" type="left" %}
-
-{% include feature_row id="feature_row16" type="left" %}
-
 
 
 
@@ -227,6 +208,8 @@ feature_row16:
 
 #### Research Technicians and Assistants
 ---
+*Jasmine Ahmed*, Technician><br>
+
 *Brent Lehmkuhl*, Technician<br>
 
 *Bezner Jonathan Gomez Dominguez*, Technician<br>
