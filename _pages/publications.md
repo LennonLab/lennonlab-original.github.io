@@ -10,8 +10,12 @@ header:
 
 
 <!--- pub entry --->
-Webster KD, <u>Lennon JT</u> (2024) Dormancy in the origin, evolution, and persistence of life on Earth. EcoEvoRxiv [doi.org/10.32942/X2V626](https://ecoevorxiv.org/repository/view/7588/)
+Webster KD, <u>Lennon JT</u> (2024) Dormancy in the origin, evolution, and persistence of life on Earth. EcoEvoRxiv [doi.org/10.32942/X2V626](https://ecoevorxiv.org/repository/view/7588/). In Press at Proceedings of the Royal Society B: Biological Sciences
 
+
+<!--- pub entry --->
+ Lennon JT, Lehmkuhl BK, Chen L, Illingworth M, Kuo V, Muscarella ME (2024) Resuscitation-promoting factor (Rpf) terminates dormancy among diverse soil bacteria. bioRxiv [doi: 10.1101/2024.11.10.622857 ](https://www.biorxiv.org/content/10.1101/2024.11.10.622857v1.full.pdf)
+ 
 
 <!--- pub entry --->
 Nevermann Henrik D, Gros C, <u>Lennon JT</u> (2024) A game of life with dormancy. arXiv 2406.13765v1 arXiv [doi.org/doi.org/10.48550/arXiv.2406.13765](https://arxiv.org/pdf/2406.13765)
@@ -26,7 +30,7 @@ Măgălie A, Marantos A, Schwartz DA, Marchi J, <u>Lennon JT</u>, Weitz JS (2024
 
 
 <!--- pub entry --->
-Zang Z, Zhang C, Park KJ, Schwartz DA, Podicheti R, <u>Lennon JT</u>, Gerdt JP (2024) Bacterium secretes chemical inhibitor that sensitizes competitor to bacteriophage infection. bioRxiv [doi.org/10.1101/2024.01.31.578241](https://www.biorxiv.org/content/10.1101/2024.01.31.578241v1.full.pdf)
+Zang Z, Zhang C, Park KJ, Schwartz DA, Podicheti R, <u>Lennon JT</u>, Gerdt JP (2024) Bacterium secretes chemical inhibitor that sensitizes competitor to bacteriophage infection. bioRxiv [doi.org/10.1101/2024.01.31.578241](https://www.biorxiv.org/content/10.1101/2024.01.31.578241v1.full.pdf) In Press at Nature Microbiology
 
 
 <!--- pub entry --->
@@ -34,7 +38,7 @@ Hu A, Cui Y, Bercovici, Tanentzap AJ, <u>Lennon JT</u>, Lin X, Yang Y, Liu Y, Os
 
 
 <!--- pub entry --->
-Peixoto R, Voolstra CR, Stein LY, Hugenholtz P, Salles JF, Amin SA, Häggblom M, Gregory A, Makhalanyane TP, Wang F, Agbodjato NA, Wang Y, Jiao N, <u>Lennon JT</u>, Ventosa A, Bavoil PM, Miller V, Gilbert JA (In Review) Microbiology at the brink: a unified call for action against climate catastrophe. 
+Peixoto R, Voolstra CR, Stein LY, Hugenholtz P, Salles JF, Amin SA, Häggblom M, Gregory A, Makhalanyane TP, Wang F, Agbodjato NA, Wang Y, Jiao N, <u>Lennon JT</u>, Ventosa A, Bavoil PM, Miller V, Gilbert JA (2024) Microbiology at the brink: a unified call for action against climate catastrophe. Nature Microbiology: 10.1038/s41564-024-01861-0 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024.pdf)) 
 
 
 <!--- pub entry --->
@@ -42,15 +46,18 @@ McGill B, Jarzyna M, Diaz R, Barnes C, Diaz FH, Economo, E, French C, Hagen O, J
 
 
 <!--- pub entry --->
-Beattie GA, Edlund A, Esiobu N, Gilbert J, Nicolaisen MH, Jansson JK, Jensen P, Keiluwei M, <u>Lennon JT</u>, Martiny JBH, Minnisi VR, Newmann D, Peixoto R, Schadt C, van der Meer JR, and the Soil Microbiome Consortium for Climate Mitigation (In Review) Soil microbiome interventions for carbon sequestration and climate mitigation. 
+Beattie GA, Edlund A, Esiobu N, Gilbert J, Nicolaisen MH, Jansson JK, Jensen P, Keiluwei M, <u>Lennon JT</u>, Martiny JBH, Minnisi VR, Newmann D, Peixoto R, Schadt C, van der Meer JR, and the Soil Microbiome Consortium for Climate Mitigation (2024) Soil microbiome interventions for carbon sequestration and climate mitigation. In Press at mSystems
 
 
 <!--- pub entry --->
-Wu W, Hsieh C, Logares R, <u>Lennon JT</u>, Liu H (In Review) Ecological processes shaping highly connected bacterial communities along strong environmental gradients.	
-
+Wu W, Hsieh C, Logares R, <u>Lennon JT</u>, Liu H (2024) Ecological processes shaping highly connected bacterial communities along strong environmental gradients. FEMS Microbiology Ecology 100: fiae115	
 
 <!--- pub entry --->
 Waldrop MP, Ernakovich JG, Schaefer S, Mackleprang R, Taş N, Vishnivetskay T, Li Z, Ricketts M, Leewis M, Hewitt R, Hultman J, Sun Y, Biaasi C, Bradly J, Liebner S, Winkel M, Musarella ME, Schuette U, Whalen E, Timling I, Voigt C, O’Brien JM, <u>Lennon JT</u>, Barta J, Lloyd KG, Barbato RA, Siljanen HMP, Rivkina EM, Heffernan L, Onstott TC, Voříšková J, Tao J, Lian R (In Review) Microbial ecology of permafrost soils: populations, processes, and perspectives.
+
+
+<!--- pub entry --->
+Edlund A, Beattie GA, Gilbert J, Nicolaisen MH, Jansson JK, Jensen P, Keiluwei M, <u>Lennon JT</u>, Martiny JBH, Newmann D, Schadt C, van der Meer JR. (2024) Soil microbial strategies for climate mitigation: Report from a climate action workshop in Las Vegas, Nevada, February 2024. Sustainable Microbiology. 
 
 
 <!--- pub entry --->	
