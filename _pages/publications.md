@@ -59,7 +59,7 @@ Waldrop MP, Ernakovich JG, Vishnivetskaya TA, Schaefer SR, Mackleprang R, Bara J
 
 
 <!--- pub entry --->
-Wu W, Hsieh C, Logares R, <u>Lennon JT</u>, Liu H (2024) Ecological processes shaping highly connected bacterial communities along strong environmental gradients. FEMS Microbiology Ecology 100: fiae115
+Wu W, Hsieh C, Logares R, <u>Lennon JT</u>, Liu H (2024) Ecological processes shaping highly connected bacterial communities along strong environmental gradients. FEMS Microbiology Ecology 100: fiae146 ([pdf]({{ site.url }}/assets/publications/Wu_etal_2024.pdf))
 
 
 <!--- pub entry --->
