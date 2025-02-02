@@ -15,10 +15,6 @@ Mueller EA, <u>Lennon JT</u> (2024) Residence time structures microbial communit
  
 <!--- pub entry --->
 Lennon JT, Lehmkuhl BK, Chen L, Illingworth M, Kuo V, Muscarella ME (2024) Resuscitation-promoting factor (Rpf) terminates dormancy among diverse soil bacteria. bioRxiv [doi: 10.1101/2024.11.10.622857 ](https://www.biorxiv.org/content/10.1101/2024.11.10.622857v1.full.pdf)
- 
-
-<!--- pub entry --->
-Nevermann Henrik D, Gros C, <u>Lennon JT</u> (2024) A game of life with dormancy. arXiv 2406.13765v1 arXiv [doi.org/doi.org/10.48550/arXiv.2406.13765](https://arxiv.org/pdf/2406.13765)
 
  
 <!--- pub entry --->
@@ -36,6 +32,10 @@ Hu A, Cui Y, Bercovici, Tanentzap AJ, <u>Lennon JT</u>, Lin X, Yang Y, Liu Y, Os
 
 <!--- pub entry --->
 McGill B, Jarzyna M, Diaz R, Barnes C, Diaz FH, Economo, E, French C, Hagen O, James H, Kivlin S, Lahiri, S, <u>Lennon JT</u> Mascarenhas R, Ohyama L, Rabosky DL, Zhu K, Hickerson M, Gillespie R (In Review) A call to develop a coherent discipline of biodiversity science to address global change. 
+
+
+<!--- pub entry --->
+Nevermann Henrik D, Gros C, <u>Lennon JT</u> (2024) A game of life with dormancy. Proceedings of the Royal Society B 292: 20242543 ([pdf]({{ site.url }}/assets/publications/Nevermann_etal_2025.pdf))
 
 
 <!--- pub entry --->
@@ -63,7 +63,7 @@ Wu W, Hsieh C, Logares R, <u>Lennon JT</u>, Liu H (2024) Ecological processes sh
 
 
 <!--- pub entry --->
-Edlund A, Beattie GA, Gilbert J, Nicolaisen MH, Jansson JK, Jensen P, Keiluwei M, <u>Lennon JT</u>, Martiny JBH, Newmann D, Schadt C, van der Meer JR. (2024) Soil microbial strategies for climate mitigation: Report from a climate action workshop in Las Vegas, Nevada, February 2024. Sustainable Microbiology 1: qvae033 ([pdf]({{ site.url }}/assets/publications/Beattie_etal_2024.pdf)) 
+Beattie GA, Cotrufo FM, Crowther TW, Edlund A, Salles JF, Gilbert JK, Jansson JK, Jensen PR, <u>Lennon JT</u>, Makhalanyane T, Martiny JBH, Newman DK, Stevenson M (2024) Soil microbial strategies for climate mitigation: Report from a climate action workshop in Las Vegas, Nevada, February 2024. Sustainable Microbiology 1: qvae033 ([pdf]({{ site.url }}/assets/publications/Beattie_etal_2024.pdf)) 
 
 
 <!--- pub entry --->	
