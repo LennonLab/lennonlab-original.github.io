@@ -51,7 +51,23 @@ Webster KD, <u>Lennon JT</u> (2025) Dormancy in the origin, evolution, and persi
 
 
 <!--- pub entry --->
-Peixoto R, Voolstra CR, Stein LY, Hugenholtz P, Salles JF, Amin SA, Häggblom M, Gregory A, Makhalanyane TP, Wang F, Agbodjato NA, Wang Y, Jiao N, <u>Lennon JT</u>, Ventosa A, Bavoil PM, Miller V, Gilbert JA (2024) Microbiology at the brink: a unified call for action against climate catastrophe. Nature Microbiology: 10.1038/s41564-024-01861-0 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024.pdf)) 
+Peixoto R, Voolstra CR, Stein LY, Hugenholtz P, Salles JF, Amin SA, Häggblom M, Gregory A, Makhalanyane TP, Wang F, Agbodjato NA, Wang Y, Jiao N, <u>Lennon JT</u>, Ventosa A, Bavoil PM, Miller V, Gilbert JA (2024) Microbiology at the brink: a unified call for action against climate catastrophe. 
+
+* Nature Microbiology: 9: 3084-3085 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024a.pdf)) 
+* Nature Communications: 15: 9637 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024b.pdf)) 
+* Nature Reviews Microbiology 23: 1-2 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024c.pdf)) 
+* Nature Reviews Earth and Environment 6: 4-5 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024d.pdf))
+* ISMEJ 18: wrae219 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024e.pdf))
+* mSystems 11: e0141624 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024f.pdf))
+* Communications Biology 7: 1466 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024g.pdf))
+* Communications Earth and Environment 5: 672 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024h.pdf))
+* FEMS Microbiology Ecology 100: fiae144 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024i.pdf))
+* NPJ Biodiversity 3: 34 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024j.pdf))
+* NPJ Biofilms and Microbiomes 10: 122 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024k.pdf))
+* NPJ Sustainable Agriculture 2: 23 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024l.pdf))
+* NPJ Climate Action 3: 1-3 
+* NPJ Sustainable Agriculture 2: 23 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024m.pdf))
+* Sustainable Microbiology 1: qvae029 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024n.pdf))
 
 
 <!--- pub entry --->
