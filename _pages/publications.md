@@ -65,8 +65,7 @@ Peixoto R, Voolstra CR, Stein LY, Hugenholtz P, Salles JF, Amin SA, Häggblom M,
 * NPJ Biodiversity 3: 34 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024j.pdf))
 * NPJ Biofilms and Microbiomes 10: 122 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024k.pdf))
 * NPJ Sustainable Agriculture 2: 23 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024l.pdf))
-* NPJ Climate Action 3: 1-3 
-* NPJ Sustainable Agriculture 2: 23 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024m.pdf))
+* NPJ Climate Action 3: 1-3 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024m.pdf))
 * Sustainable Microbiology 1: qvae029 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024n.pdf))
 
 
