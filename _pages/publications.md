@@ -9,11 +9,11 @@ header:
 ---
 
 <!--- pub entry --->
-Lennon JT, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R, Mukhopadhyay A, Nguyen N, Peixoto RS, Silver PA, Stein LY. Microbial solutions for climate change require global partnership
+Lennon JT, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R, Mukhopadhyay A, Nguyen N, Peixoto RS, Silver PA, Stein LY (In review) Microbial solutions for climate change require global partnership. 
 
 
 <!--- pub entry --->
-Rappuoli R, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R, Mukhopadhyay A, Lennon JT, Nguyen N, Peixoto RS, Silver PA, Stein LY. Developing microbial solutions for climate change. Nature (In review)
+Rappuoli R, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R, Mukhopadhyay A, Lennon JT, Nguyen N, Peixoto RS, Silver PA, Stein LY. (In review) Developing microbial solutions for climate change.
 
 
 <!--- pub entry --->
@@ -35,6 +35,7 @@ Hu A, Cui Y, Bercovici, Tanentzap AJ, <u>Lennon JT</u>, Lin X, Yang Y, Liu Y, Os
 
 <!--- pub entry --->
 McGill B, Jarzyna M, Diaz R, Barnes C, Diaz FH, Economo, E, French C, Hagen O, James H, Kivlin S, Lahiri, S, <u>Lennon JT</u> Mascarenhas R, Ohyama L, Rabosky DL, Zhu K, Hickerson M, Gillespie R (In Review) A call to develop a coherent discipline of biodiversity science to address global change. 
+
 
 <!--- pub entry --->
 Mueller EA, <u>Lennon JT</u> (2024) Residence time structures microbial communities through niche partitioning. Ecology Letters 28: e70093 ([pdf]({{ site.url }}/assets/publications/MUeller_Lennon_2025.pdf))
