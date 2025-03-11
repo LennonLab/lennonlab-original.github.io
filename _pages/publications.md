@@ -9,7 +9,7 @@ header:
 ---
 
 <!--- pub entry --->
-Lennon JT, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R, Mukhopadhyay A, Nguyen N, Peixoto RS, Silver PA, Stein LY (In review) Microbial solutions for climate change require global partnership. 
+Lennon JT, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R, Mukhopadhyay A, Nguyen N, Peixoto RS, Silver PA, Stein LY (In press) Microbial solutions for climate change require global partnership. mBio.
 
 
 <!--- pub entry --->
@@ -38,7 +38,7 @@ McGill B, Jarzyna M, Diaz R, Barnes C, Diaz FH, Economo, E, French C, Hagen O, J
 
 
 <!--- pub entry --->
-Mueller EA, <u>Lennon JT</u> (2024) Residence time structures microbial communities through niche partitioning. Ecology Letters 28: e70093 ([pdf]({{ site.url }}/assets/publications/MUeller_Lennon_2025.pdf))
+Mueller EA, <u>Lennon JT</u> (2024) Residence time structures microbial communities through niche partitioning. Ecology Letters 28: e70093 ([pdf]({{ site.url }}/assets/publications/Mueller_Lennon_2025.pdf))
 
 
 <!--- pub entry --->
