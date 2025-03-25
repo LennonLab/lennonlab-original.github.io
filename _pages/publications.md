@@ -13,11 +13,15 @@ Lennon JT, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R, Mukhopadhy
 
 
 <!--- pub entry --->
-Rappuoli R, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R, Mukhopadhyay A, Lennon JT, Nguyen N, Peixoto RS, Silver PA, Stein LY. (In review) Developing microbial solutions for climate change.
+Rappuoli R, Nguyen N, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R, Mukhopadhyay A, Lennon JT, Peixoto RS, Silver PA, Stein LY. (2025) Microbes could help address climate change — why aren’t we using them?. Nature 639: 864-866. ([pdf]({{ site.url }}/assets/publications/Rappuoli_etal_2025a.pdf))
 
 
 <!--- pub entry --->
-Lennon JT, Lehmkuhl BK, Chen L, Illingworth M, Kuo V, Muscarella ME (2024) Resuscitation-promoting factor (Rpf) terminates dormancy among diverse soil bacteria. bioRxiv [doi: 10.1101/2024.11.10.622857 ](https://www.biorxiv.org/content/10.1101/2024.11.10.622857v1.full.pdf)
+Rappuoli R, Nguyen N, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R, Mukhopadhyay A, Lennon JT, Peixoto RS, Silver PA, Stein LY. (2025) Micobial solutions for climate change - Toward and economically resilient future. American Society for Microbiology ([pdf]({{ site.url }}/assets/publications/Rappuoli_etal_2025b.pdf))
+
+
+<!--- pub entry --->
+Lennon JT, Lehmkuhl BK, Chen L, Illingworth M, Kuo V, Muscarella ME (2025) Resuscitation-promoting factor (Rpf) terminates dormancy among diverse soil bacteria. bioRxiv [doi: 10.1101/2024.11.10.622857 ](https://www.biorxiv.org/content/10.1101/2024.11.10.622857v1.full.pdf) In press at mSystems
 
  
 <!--- pub entry --->
