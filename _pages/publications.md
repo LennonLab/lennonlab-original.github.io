@@ -13,7 +13,7 @@ Lennon JT, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R, Mukhopadhy
 
 
 <!--- pub entry --->
-Rappuoli R, Nguyen N, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R, Mukhopadhyay A, Lennon JT, Peixoto RS, Silver PA, Stein LY. (2025) Microbes could help address climate change — why aren’t we using them? Nature 639: 864-866. ([pdf]({{ site.url }}/assets/publications/Rappuoli_etal_2025a.pdf))
+Rappuoli R, Nguyen N, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R, Mukhopadhyay A, Lennon JT, Peixoto RS, Silver PA, Stein LY. (2025) Microbes could help address climate change — why aren’t we using them? Nature 639: 864-866 ([pdf]({{ site.url }}/assets/publications/Rappuoli_etal_2025a.pdf))
 
 
 <!--- pub entry --->
