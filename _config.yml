@@ -304,7 +304,7 @@ compress_html:
  #     related: true
 
 # Defaults
-  defaults:
+defaults:
   - scope:
       path: ""
       type: posts
