@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Lennon Lab"
 title_separator          : "-"
-subtitle                 : "Microbial Diversity" # site tagline that appears below site title in masthead
+subtitle                 : #"Microbial Diversity" # site tagline that appears below site title in masthead
 name                     : "Lennon Lab"
 description              : "Lennon Lab at Indiana University"
 url                      : "https://lennonlab.github.io"
@@ -69,8 +69,10 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : jaytlennon
+#twitter:
+#  username               : jaytlennon
+#bluesky:
+#  username               : jaytlennon.bsky.social
 facebook:
   username               :
   app_id                 :
@@ -93,9 +95,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lennon Lab"
+  #name             : "Lennon Lab"
   avatar           : "/assets/images/plaques.png"
-  bio              : "Microbial Biodiversity"
+  #bio              : "Microbial Biodiversity"
   location         : "Bloomington, Indiana"
   links:
     - label: "Email"
@@ -104,9 +106,12 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jaytlennon"
+   # - label: "Twitter"
+   #   icon: "fab fa-fw fa-twitter-square"
+   #   url: "https://twitter.com/jaytlennon"
+    - label: "Bluesky"
+      icon: "fab fa-bluesky"
+      url: "https://bsky.app/profile/jaytlennon.bsky.social"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -120,9 +125,12 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jaytlennon"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/jaytlennon"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/jaytlennon.bsky.social"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -278,5 +286,5 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      share: true #true for twitter maybe blueskey
       related: true

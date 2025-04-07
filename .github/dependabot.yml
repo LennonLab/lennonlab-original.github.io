@@ -1,0 +1,7 @@
+version: 2
+updates:
+  - package-ecosystem: "bundler"
+    directory: "/"  # Adjust if your Gemfile is in a subdirectory
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 10

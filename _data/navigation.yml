@@ -10,5 +10,5 @@ main:
     url: /teaching/
   - title: "Opportunities"
     url: /opportunities/
-  - title: "Info"
-    url: /info/
+#  - title: "Info"
+#    url: /info/
