@@ -110,7 +110,7 @@ author:
    #   icon: "fab fa-fw fa-twitter-square"
    #   url: "https://twitter.com/jaytlennon"
     - label: "Bluesky"
-      icon: "fa-brands fa-link"
+      icon: "fab fa-bluesky"
       url: "https://bsky.app/profile/jaytlennon.bsky.social"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
