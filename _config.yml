@@ -276,30 +276,7 @@ compress_html:
     envs: development
 
 
-# Defaults
-defaults:
-  # Apply to all pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: default
-
-  # Apply to all posts (override layout: single)
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: default
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: true
-
-
 #defaults:
-#  # _posts
 #  - scope:
 #      path: ""
 #      type: posts
@@ -307,6 +284,21 @@ defaults:
 #      layout: single
 #      author_profile: true
 #      read_time: true
-#      comments: # true
-#      share: true #true for twitter maybe bluesky
+#      comments: false
+#      share: true
 #      related: true
+
+
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true #true for twitter maybe bluesky
+      related: true
