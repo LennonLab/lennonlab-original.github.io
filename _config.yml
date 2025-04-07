@@ -290,8 +290,21 @@ compress_html:
 
 
 # Defaults
-defaults:
+#defaults:
   # _posts
+ # - scope:
+ #     path: ""
+ #     type: posts
+ #   values:
+ #     layout: single
+ #     author_profile: true
+ #     read_time: true
+ #     comments: # true
+ #     share: true 
+ #     related: true
+
+# Defaults
+  defaults:
   - scope:
       path: ""
       type: posts
@@ -299,6 +312,12 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
-      share: true 
+      comments: false
+      share: true
       related: true
+
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: splash
