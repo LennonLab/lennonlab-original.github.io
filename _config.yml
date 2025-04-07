@@ -150,6 +150,7 @@ footer:
 
 # Reading Files
 include:
+  - _includes # added so that it references _includes/head-custom.html, which updates awesome font
   - .htaccess
   - _pages
 exclude:
