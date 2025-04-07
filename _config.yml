@@ -312,12 +312,12 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: false
+      comments: # true
       share: true
       related: true
 
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: splash
+# - scope:
+#     path: ""
+#     type: pages
+#   values:
+#      layout: splash
