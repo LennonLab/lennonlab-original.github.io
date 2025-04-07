@@ -289,7 +289,7 @@ compress_html:
 #      related: true
 
 
-
+# Defaults
 defaults:
   # _posts
   - scope:
@@ -300,5 +300,5 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true #true for twitter maybe bluesky
+      share: true 
       related: true
