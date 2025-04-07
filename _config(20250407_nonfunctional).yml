@@ -69,8 +69,10 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : jaytlennon
+#twitter:
+#  username               : jaytlennon
+#bluesky:
+#  username               : jaytlennon.bsky.social
 facebook:
   username               :
   app_id                 :
@@ -104,9 +106,12 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jaytlennon"
+   # - label: "Twitter"
+   #   icon: "fab fa-fw fa-twitter-square"
+   #   url: "https://twitter.com/jaytlennon"
+    - label: "Bluesky"
+      icon: "fab fa-bluesky"
+      url: "https://bsky.app/profile/jaytlennon.bsky.social"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -120,9 +125,12 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jaytlennon"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/jaytlennon"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/jaytlennon.bsky.social"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -142,6 +150,7 @@ footer:
 
 # Reading Files
 include:
+  - _includes # added so that it references _includes/head-custom.html, which updates awesome font
   - .htaccess
   - _pages
 exclude:
@@ -267,9 +276,35 @@ compress_html:
     envs: development
 
 
+#defaults:
+#  - scope:
+#      path: ""
+#      type: posts
+#    values:
+#      layout: single
+#      author_profile: true
+#      read_time: true
+#      comments: false
+#      share: true
+#      related: true
+
+
+# Defaults
+#defaults:
+  # _posts
+ # - scope:
+ #     path: ""
+ #     type: posts
+ #   values:
+ #     layout: single
+ #     author_profile: true
+ #     read_time: true
+ #     comments: # true
+ #     share: true 
+ #     related: true
+
 # Defaults
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
@@ -280,3 +315,9 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# - scope:
+#     path: ""
+#     type: pages
+#   values:
+#      layout: splash
