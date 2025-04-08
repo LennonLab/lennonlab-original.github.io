@@ -227,6 +227,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-data
+  - jekyll-remote-theme  
 
 
 # mimic GitHub Pages with --safe
