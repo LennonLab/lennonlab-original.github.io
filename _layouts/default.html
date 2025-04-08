@@ -2,7 +2,8 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
   <head>
     {% include head.html %}
-    {% include head-custom.html %}
+    {%- comment -%} {% include head-custom.html %} {%- endcomment -%}
+    
   </head>
   <body class="{{ page.layout | prepend: 'layout--' }} {{ site.minimal_mistakes_skin | prepend: 'skin--' }}">
     {% include skip-links.html %}
