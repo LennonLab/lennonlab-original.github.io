@@ -1,0 +1,11 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+// Import the skin before everything else
+@import "minimal-mistakes/skins/air"; // skin
+
+// Import the rest of Minimal Mistakes styles
+@import "minimal-mistakes"; // main partials
