@@ -4,7 +4,7 @@
     {% include head.html %}
     {% include head-custom.html %}
   </head>
-  <body>
+  <body class="{{ page.layout | prepend: 'layout--' }} {{ site.minimal_mistakes_skin | prepend: 'skin--' }}">
     {% include skip-links.html %}
     {% include masthead.html %}
 
