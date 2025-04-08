@@ -69,8 +69,8 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : jaytlennon
+#twitter:
+#  username               : jaytlennon
 #bluesky:
 #  username               : jaytlennon.bsky.social
 facebook:
@@ -106,9 +106,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jaytlennon"
+   # - label: "Twitter"
+   #   icon: "fab fa-fw fa-twitter-square"
+   #   url: "https://twitter.com/jaytlennon"
    # - label: "Bluesky"
    #   icon: "fa-brands fa-square-bluesky"
    #   url: "https://bsky.app/profile/jaytlennon.bsky.social"
@@ -125,9 +125,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jaytlennon"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/jaytlennon"
     #- label: "Bluesky"
     #  icon: "fab fa-fw fa-bluesky"
     #  url: "https://bsky.app/profile/jaytlennon.bsky.social"
@@ -286,5 +286,5 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      share: false #true for twitter
       related: true
